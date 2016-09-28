@@ -1,0 +1,20 @@
+---
+title: Being Music
+summary: Sometimes the muse plays you; especially on stage.
+---
+
+# Being Music
+### The muse plays you; especially on stage.
+
+The sound he makes comes at first to him like a cough in a large, but quiet room, awkward and unwilling to be suppressed. It comes in starts and fits. At first he thinks about the song, he thinks about the notes, thinks about the progression of them, but then moves his hands until the notes start to come fast to him, and then faster than he can think. His own frantic speed is nothing, but he does let go and they cluster like insects about him that form strands and threads.
+
+The sounds gather at the hilt of his consciousness, no longer willing to wait to enter the fray. The notes amass until there are so many of them lost in their reverberations and echoes, they, insect horde, transform amicably, agreeably into waves. The amplifiers happily epoues the theory of the gathering. A wash of sines come over him; only here and there revealing finite spots that he can recognize. Even these tiny moments of recognition, he slips willful away from. They must persist on their own. Like a sleeper counting backwards until he is counting no more, he is sliding out of his brain. He turns the function, control, of his muscles over to his muscles and he, harmonic zen monk, steps back out of himself to get out of his own way. Where does he go, wandering the wash of the sonic soundscape emanating? Mostly loose and washed out, dreary, sad? The waves arrive upon him, while he goes nowhere; is nowhere.
+
+Each pitch is colored, every measure of the song a room, every verse a person, and every chorus a premonition. She, Joy says, in his mind, “Your place is among the stars.” The raven-haired beauty whispers to him, having cold, blue alluring eyes that always look up at him. She is so sad. He can feel the wash of loss that surrounds her pale face in a formless black lake. “You will cry for all eternity there, but not while you are still alive.” From his spotlight-heated, stove-top burner stance in the world, above his stool, with his guitar, upon his little stage, in the bright sun of attention and also purple gels, he listens as they listen—those that came to see his annunciation.
+
+What he does is refuse the world and force his attention down his bicep, his femur, his wrist—lets the woman with dark black hair and steel blue eyes lapse to wherever she came from, lets his fingertips forget touching her, ever. His mind moves into his calloused fingertips, where the mashing of metal strings on electromagnetic pickups cry out piercing notes, whose progression constantly surprises, dances—his eyebrows raised in delight—and whose vibrations are shoved through amplified spaces between him and the throng of the watchers who do not know where this is all going.
+
+The words, the plans, the images in his head are drowned out by the decibels available to him, turned way up. He is in cinder block clubs or maybe on porches overlooking patches of a river—everywhere is meaningless. Nothing is really there. The music: everything.
+They are not even there: the black bobbing and shadowed silhouettes of heads that stare from out of a red sea, while he is yards up the beach on the shore in the night. With his senses merged into this electronic harp, his reaches for sounds only possible in dreams. Small dots, plankton in the water, moments of knowing appear in the deeper waters. Touch occurs, though floating in such muck, it seems impossible. He begs his soul to stay where the light is. That way he will not disappear in his thunder. Then temperature, then muscles, and then finally the light, and he lands—tip-toes—on the ground as he finishes his song.
+
+It is done with him. He has brought forth the sound, has always brought forth the sound, because of love. And husk he is, he must now begin again.
