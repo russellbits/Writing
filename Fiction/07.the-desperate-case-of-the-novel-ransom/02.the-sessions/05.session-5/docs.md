@@ -1,0 +1,47 @@
+---
+title: Session 5
+taxonomy:
+    category: sessions
+---
+
+Once again, no sleep—or little sleep, rather. The clock changed last night—daylight savings time—and that didn't help at all. I'm sitting here in the early, early  morning light having given up. I couldn't even try to sleep in my own bed; too empty. I slept on the couch in the living room and tried to lull myself to the movie "Kafka" with Jeremy Irons. It seemed appropriate. In it, Kafka, the author himself, gets caught up in all of his own stories somehow. He's chased around by people he doesn't know under under the threat of what he doesn't know.
+
+I can't remember the plot line exactly but he works for an insurance company, the headquarters of which is located in the Castle. No one ever goes to the Castle and comes back. He finds some records missing or out of place and starts asking questions. As is wont to happen in a movie about Kafka, of course, asking questions is not a good idea and he gets the attention of some people who think he's asked *too many* questions.
+
+The movie is in black and white and, I don't know, it's widely regarded as a bad film. It got fifty-seven percent on Rottentomatoes. I suppose that's not bad, but it's not good. Anyway, I don't see how anyone could not like it unless it was just hard for them to follow or something. I like it a great deal. The soundtrack is highly original and tense. The environment (Budapest maybe?) is ideal with all its ornateness and shadows and crannies for slimy things to hide in. There is a bizarre cast of characters that are the bad guys and all of them turn in comic performances that are at the same time creepy.
+
+The film, in many ways, reminds me of the stories of Reza Bahadir, a writer I have come to know intimately in my research—almost personally really. I am, I believe, one of the only people in the world who translates his work. While never the subject of my serious work, his stories revolved closely to other authors I studied more like Jorge Luis Borges or Italo Calvino or even Kafka himself. The one element that I felt these writers shared was that they were writing fiction and went about it in such a way that their stories could never be discerned as just fiction. They wrote non-fiction about other planes of existence. There weren't (necessarily) fantastical elements, although the worlds they made seemed askew. Or, if the fiction was fantastical, they gave you reason to doubt it, by making the story second-hand knowledge. They let little, irrelevant facts pile up to become doubt to the reader. The story is not to be believed and they measure the reader's investment as they dig deeper into stranger ideas.
+
+But Reza Bahadir had a story, "The Gas Chamber" that, now that I think about it, has really captured, for me, what it is like to be in my current situation—even now as I type this. I will say that "The Gas Chamber" was an early story of Bahadir's and one way in which you could discern that was that it was just utterly surreal; almost magical. But it's sparse, and it has hints of stories that he would write later.
+
+In "The Gas Chamber," a man wakes up in a room—sort of. There are no walls to speak of, just a marble floor. There is only one source of light in this room that he's in. It's high above his head and he can't make it out. It only seems to drop down in a circle on the marble floor and has a wide enough circumference to encircle twelve pillars that sit around him in the chamber.
+
+He goes beyond the pillars to try to find some walls, any walls. He can't find any in the dark. He walks as far as he can in several directions until the cone of light surrounding the pillars almost fades from view. He doesn't want to lose sight of it or be list in darkness for good. So, he heads back and tries another direction, never to any avail. After sleeping and searching for how long the man doesn't know, he begins to notice a creeping, green fog drifting into the light. It's thin at first, barely noticeable, but for no reason available to the man he begins to think that the fog must be a poison.
+
+After waking from sleep another time, sleeping in the center of the light, his head on the floor, the man notices a pinhole in the very center of the circle—just a black dot—not even large enough to slip a finger or a hairpin into. But upon spotting it, the man realizes that there can be no other way out of the chamber. Just as sure as he is that the green fog is a poisonous gas, he is equally sure that this pinhole is the only way out of the room.
+
+After a lot of rumination, and with the gas increasing he takes to examining the pillars thinking at first that the only way out would be to smash a pillar into the marble floor and drive a crack into the pinhole. But the pillars seem almost chiseled from the floor itself with no discernible seams. With all the strength he can muster, he cannot push any of the pillars over. All this time, the gas is growing in thickness and he can feel it distorting his view, his thinking, his sleep.
+
+Waking up one more time, curled on the floor around the pinhole, he feels he's had some sort of revelation in a fevered dream. But in the dream he was able to slide through the pinhole. Groggy, he stands up, walks over to one of the pillars and removes his hands. He simply places them facing upright on the pillar and allows them to become heavy on the pillar until he is longer attached to them. He stumbles over to the pinhole and kneels on the floor, pressing his hands through the hole with ease!
+
+With the gas swirling in around him know, he quickly approaches each pillar and places on them the next "logical" component. He leaves behind arms, feet, lower legs, upper legs, hips, torso, chest... this last one is an especial relief, since he can no longer feel the panic from the gas since he is no longer breathing. Then he leaves his shoulders, his neck and head.
+
+Now his able to slip portions of himself into the pinhole. He lowers himself down into it in various ways, but always, the hole is simply too small. He peers through the gas, that is now a rabid cloud and sees one final pillar remaining empty. So, on it, he leaves his mind and travels out of the chamber.
+
+* * *
+
+I studied Reza Bahadir because he made an ideal and endless research project. There are no English translations for his work, originally written in an unusual middle Persian dialect. So, the ability alone to translate his stories seemed a great promise for me. Here were these mysterious and derelict stories that could be brought into an entirely new light. I was excited by that prospect alone, but they also represented a greater mystery to uncover. If I could find out more about Reza Bahadir, I could find out more about what his stories might have meant. I mean, without understanding more about the symbolism and knowledge of his culture, I couldn't even be sure that the final translation of mind was even entirely correct. He could have meant spirit, but I have my reasons for believing that he did not.
+
+The reason Reza was not the subject of my thesis was simply that there really wasn't enough information left to uncover. Much like Rausch is to me now, Reza Bahadir is and remains a ghost. I don't know that I'll ever have more than the pour translations of his stories and some educated guesses about when and where he lived.
+
+But I do know what it feels like to be the man in the chamber right now. There is darkness in every direction I look. The author of the story—the real author—of the story is a ghost. And, the only way out of the chamber would seem to be to lose my mind.
+
+* * *
+
+I feel like my life should be in black and white right now. I feel like it should be perpetually night until this endeavor is over. This pale blue pre-sunrise light doesn't seem proper at all—it seems surreal. It's also quite depressing given how tired I am. Normally, I would be enjoying this time of the day. But now, after drifting in and out of the nightmares in the film and the nightmares in my mind, all I can think about is where I will have to go this afternoon to meet Rausch.
+
+I spent more time looking into name Rausch last night. Nada. Nothing. I know it's not this guy's real name—can't be. It's got to be symbolic or something. It must mean something. Maybe it's only in TV and movies that killers have some pathological need to tell the hero who they are. But we catch killers in real life and they do try to get shit published in newspapers and stuff like that so maybe it's true.
+
+It's a German name; I worked that much out. There's Rausch Real Estate and Rausch Granite and Rausch Advisory Services and Rausch & Associates. None of them are located anywhere around here. I searched (vainly, I know) for any listings of Rasuch in the area, the county, the state. There were a few hits, but they didn't make any sense either. I suppose I could just start visiting Rausch residences and see if I manage to rattle anybody.
+
+But I have a shot this afternoon. I have to think, to plan. Rausch says he's going to send me a text message and that it will have instructions for how and where and when to meet to hand over the USB key. There has to be an opportunity here to get the bastard. I need to get a gun. Yes. I definitely need to get a gun. I wonder what time gun stores open?
