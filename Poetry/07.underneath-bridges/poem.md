@@ -3,8 +3,8 @@
 They were little hopes and confidences
 golden lit secrets hidden beneath bridges under bridges
 where she came to him, already two months gone
-to see how he was getting on
-just to see where she used to sit
+just to see how he was getting on
+to see where she used to sit
 in the shadow of the bottom corner of his lip
 
 His brown eyes stray from shoe to shoe
@@ -26,4 +26,4 @@ into his arms from beyond the rift
 she quiet slips around his middle
 soft enwrapped he misses her a little
 they embrace like bridges beneath bridges
-between the walls and alleys where they're hid
+and between the walls and alleys where they're hid
