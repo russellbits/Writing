@@ -1,5 +1,5 @@
 #Architect of Accident
-Three quarter clouded moon
+The three quarter clouded moon
 over ocean’s persistent crystal light
 dances a path to walk
 alone in a night-time myopia
@@ -12,7 +12,7 @@ is a quiet amphitheater
 for the performance of ocean waves
 their dark body, bright foam, 
 an inverted tide
-come to take all
+come to take all of
 your should’ves away.
 and lap
 deep thunderous.
@@ -52,8 +52,11 @@ a secret from the sun bounced
 and
 there is no one else watching
 
-but you who’ve come
+but you
+who’ve come
 this late at night
 for the show that
-goes on for as long as forever
+goes on
+for as long
+as forever
 will be
