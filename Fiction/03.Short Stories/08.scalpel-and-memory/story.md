@@ -16,19 +16,17 @@ Running freed him from the incessant monologue of debate concerning all the deci
 
 * * *
 
-The television chatters at him as he toasts a whole wheat multi-grain bagel.  It is a window of chaos and color leaking into his zen-like gray palette and cleanlinessâ€”emptyness, evenâ€”of the apartment.  He wonders, only briefly, if he always eats meals in front of the television to simulate company.  He was never sure.  It was the only time he watched television.  There are what are called mirror neurons in the brain, specifically "designed" to deal with modeling human interaction, abstracting from it, deciphering it, and turning it into some sense of yourself in the situations that you observe.  The mindâ€™s model of other minds.  In a very real sense, you are never alone.  Every one you have ever knownâ€”their movementsâ€”are encoded in you.  But he's never sure.  Could just be the noise.  Maybe it was just something to stare at.
+The television chatters at him as he toasts a whole wheat multi-grain bagel.  It is a window of chaos and color leaking into his zen-like gray palette and cleanliness—emptyness, even—of the apartment.  He wonders, only briefly, if he often eats meals in front of the television to simulate company.  He pondered the question often but never drew conclusions.  It was the only time he watched television.  There are what are called mirror neurons in the brain, specifically "designed" to deal with modeling human interaction, abstracting from it, deciphering it, turning it into some sense of yourself in the situations that you observe.  The mind's model of other minds.  In a very real sense, you are never alone.  Every one you have ever known—their movements—estimations of them anyway—are encoded in you.  But he's never sure.  Could just be the noise.  Maybe it was just something to stare at.
 
-<!--more-->
+Then, of course, there was the suspicion.  He kept the television tuned to CNN in some effort to keep a spyglass on a world that he did not trust, the macroscopic world—not that he thought the picture from CNN, or any of the 24 hour cable news channels, was even remotely complete.  You'd have to be delusional to think that.  Why watch it?—none of it had to do with him.  He had nothing to do with it, the world, politicians, celebrities, workers, criminals, industries, wars, stock markets.  None of it truly affected him—unless it all came crashing down, of course.  So it had always seemed like a good idea to keep at least one eye on the experiment that was human civilization... just in case.
 
-Then, of course, there was the suspicion.  He kept the television tuned to CNN in some effort to keep a spyglass on a world that he did not trust, the macroscopic worldâ€”not that he thought the picture from CNN, or any of the 24 hour cable news channels, was even remotely complete.  You'd have to be delusional to think that.  Why watch it?â€”none of it had to do with him.  He had nothing to do with it, the world, politicians, celebrities, workers, criminals, industries, wars, stock markets.  None of it truly affected himâ€¦ unless it all came crashing down, of course.  So it had always seemed like a good idea to keep at least one eye on the experiment that was human civilization... just in case.
+The television, "Damon Carver, a ten year-old boy from Portland, Oregon, was found by police thanks to a bit of new scifi technology—get this: the boy was found when police were able to identify him by a microchip implanted in the boy's arm by his parents."
 
-The television, "Damon Carver, a ten year-old boy from Portland, Oregon, was found by police thanks to a bit of new scifi technologyâ€”get this: the boy was found when police were able to identify him by a microchip implanted in the boy's arm by his parents."
-
-Miles Obrien and Soledad O'brien banter like water-cooler colleagues for a while about â€œScience!â€ until the pundits are paraded out in their satellite connection squares, one to howl at the loss of privacy with a twist of what-is-the-world-coming-to; the other to blindly list the benefits of constant surveillance that would only be used by government agencies for good.  Jacob thinks, yeah, because technology's only ever been used for good.  RFID chips implanted in kids.  Barbaric.  Still though, he didn't know what it was like to have one of your own half-copies running around.  It was pretty clear that brain chemistry changed dramatically as a result of parenting.  Could it change an idea, evenâ€”a specific thought?  Would an RFID chip planted in a child suddenly seem like a good idea if he had one?
+Miles Obrien and Soledad O'brien banter like water-cooler colleagues for a while about—Science!— until the pundits are paraded out in their satellite connection squares, one to howl at the loss of privacy with a twist of what-is-the-world-coming-to; the other to blindly list the benefits of constant surveillance that would only be used by government agencies for good.  Jacob thinks, yeah, because technology's only ever been used for good.  RFID chips implanted in kids.  Barbaric.  Still though, he didn't know what it was like to have one of your own half-copies running around.  It was pretty clear that brain chemistry changed dramatically as a result of parenting.  Could it change an idea, even—a specific thought?  Would an RFID chip planted in a child suddenly seem like a good idea if he had one?
 
 And then in the middle of that thought, with a bite of bagel in his mouth, the television throwing out light into the room, Jacob drifts away.  His eyes gloss over and the world is there and not there.  Waves of billions of protons of varying frequencies of color fly out from the television 29.97 times per second, smashing into his eyes where the rods and cones of the specialized neurons behind the lenses of his ocular spheres detect and shuttle the signals on to be processed at near light speed, but nothing comes into view in his mind.  Eyes, body, brain, present and accounted for.  He is gone.  Elsewhere in the room a clock ticks.  Seven minutes and twenty-three seconds later Jacob comes out of it.  He spits out the bite in his mouth.  He is confused and looks to the television where they have moved on to another story.  He looks to the clock and sees the missing seven to ten minutes.
 
-Jumping up from his stool he wobbles to his refridgerator and looks across the days of a calendar.  He makes a mark on today--a tiny black dot in one corner.  Then he counts backwards from that dot and flips the calendar one month back, still counting, to the last dot: 22 days.  He counts back to the dot prior to that: 34 days.  And he counts back to the time before that, his eyes wide open with the Hunger: 37 days.  He could continue on like this but he already knows the pattern.  The intervals are shrinking.  Some malformed rorschach of blackness on his own angiogram is coming to devour his consciousness.
+Jumping up from his stool he wobbles to his refridgerator and looks across the days of a calendar.  He makes a mark on today--a tiny black dot in one corner.  Then he counts backwards from that dot and flips the calendar one month back, still counting, to the last dot: 22 days.  He counts back to the dot prior to that: 34 days.  And he counts back to the time before that, his eyes wide open with the Hunger: 37 days.  He could continue on like this but he already knows the pattern.  The intervals are shrinking.  Some malformed Rorschach of blackness on his own angiogram is coming to devour his consciousness.
 
 * * *
 
@@ -40,21 +38,19 @@ Back still turned, "Yes."
 
 "The Dreyfuses are here, along with doctors Flynn and Schanacter."
 
-<!--more-->
-
 "Show them all in."  He watches their reflections in the glass, the city growing pale as the sun moves behind a small cloud on the West Side.  Chairs are moving, people speak.  He moves over to the light box on one wall of his office as someone introduces him and he swaps out the angiograms there.  Turning to everyone in the room, the saccades of his eyes' arcs fix on the blue eyes of a pale blonde frightened woman.  Besides her sits her stern but equally frightened (Coburn knows) husband.  He doesn't look at the neurologist or the resident.  No need.
 
 "I have total confidence that we can remove this tumor almost in full."
 
 The woman reels a bit, having been expecting hello.
 
-"You don't get a lot of good news in this line of work, but I can tell you that where your tumor is located makes this an ideal surgery---really the best odds that you can get."  He stares like a trap.
+"You don't get a lot of good news in this line of work, but I can tell you that where your tumor is located makes this an ideal surgery—really the best odds that you can get."  He stares like a trap.
 
 "You think?" Mrs. Dreyfus manages to stammer out after a moment.
 
-"I do.  It is at the top of the basil ganglia region, inside a fold.  This would not be a difficult operation, well---as far as brain surgery goes."  A joke.  But no hint of it on his face; nor any intended audience. Idiot simpletons. Like Death's straight man.
+"I do.  It is at the top of the basil ganglia region, inside a fold.  This would not be a difficult operation, well—as far as brain surgery goes."  A joke.  But no hint of it on his face; nor any intended audience. Idiot simpletons. Like Death's straight man.
 
-"Well, I don't know---I had so many questions---what about if we just leave it?"
+"Well, I don't know—I had so many questions—what about if we just leave it?"
 
 Coburn looks to the woman's hands, shaking now, even resting on the arms of her chair.  He looks to the back of his own hands and admires their steadiness.  "Marylin!" he hollers lightly at his hand.  Everyone else in the room seems shocked, but almost instantly, a secretary pokes her head in the door.  "I want you to get Mrs..!"
 
@@ -62,7 +58,7 @@ Coburn looks to the woman's hands, shaking now, even resting on the arms of her 
 
 "Dreyfus, yes, of course.  I want you to get Mrs. Dreyfus a hot cup of green tea."
 
-"Oh that's all right---" Mrs. Dreyfus begins.
+"Oh that's all right—" Mrs. Dreyfus begins.
 
 Coburn takes one step toward her.  "I insist.  It will help to calm your nerves.  And right now, you need them."  With a look he dispatches the secretary.  Turning back to the angiogram for a moment, he says, thoughtfully, "If we leave the tumor it will eventually kill you."  Staring at the image of the ghostly yellow walnut that is Mrs. Dreyfus's brain, Coburn reasons that Mr. Dreyfus will now feel the need to weigh in and he waits for it.  Often people felt that he, Dr. Jacob Coburn, doubted their intelligence.  He did not.  No one more than he understood the stunning intricacies of even the most mentally challenged individual, the most damaged brain. The true beauty of it.  No, it was their insolence he found so hard to tolerate.
 
@@ -70,9 +66,9 @@ Coburn takes one step toward her.  "I insist.  It will help to calm your nerves.
 
 Coburn rubs the bridge of his nose between his thumb and forefinger for just a moment.  "If by jumping the gun you mean avoiding months and *months* of very painful therapy and debilitating sickness, then certainly you are correct that I'm jumping the gun."
 
-Two quick steps and he is squatting next to Sandra Dreyfus, his hand on her hand.  "Mrs. Dreyfus, the tumor is here."  He points to his own thin, salt and pepper locks, ahead of and above his left ear.  "We will make a very precise hole in the skull---the skull not her skull---relieves some of the pressure, making it clinical, he knows.  "We will drain some fluid, remove the cancerous tissue, put the bone back.  We could have it done by," he looks to the resident, who, used to the Show, is already looking at dates in a small notebook.
+Two quick steps and he is squatting next to Sandra Dreyfus, his hand on her hand.  "Mrs. Dreyfus, the tumor is here."  He points to his own thin, salt and pepper locks, ahead of and above his left ear.  "We will make a very precise hole in the skull—the skull not her skull—relieves some of the pressure, making it clinical, he knows.  "We will drain some fluid, remove the cancerous tissue, put the bone back.  We could have it done by," he looks to the resident, who, used to the Show, is already looking at dates in a small notebook.
 
-Mr. Dreyfus, "Now wait just---"
+Mr. Dreyfus, "Now wait just—"
 
 "End of the month."
 
@@ -92,30 +88,32 @@ Coburn smiles, slightly, for the first time.
 
 Jacob takes her hand and squeezes.  "Good.  Okay."
 
-Mr. Dreyfus relents impotently but with one last just-because protest, "Sandra, I really think thatâ€”" but she quiets him with a serene glance.  Coburn's look is imprinted on her now and she shows it to her husband with the same effect.  Everything was going to be just fine.
+Mr. Dreyfus relents impotently but with one last just-because protest, "Sandra, I really think that—" but she quiets him with a serene glance.  Coburn's look is imprinted on her now and she shows it to her husband with the same effect.  Everything was going to be just fine.
 Looking to the resident and the neurologist, "Harry, Sam, if you all can take care of things here, there are several matters I have to attend to before evening rounds."  Never finish the meeting.  Always let them know you are the busiest neurosurgeon in New York City.
 
 Harry and Sam just look at each other as Coburn leaves and exchange exasperated smiles.  He might as well have taken a bow as he left.  They'd seen him walk this tightrope of consultation so many times it was like a show.  Mrs. Dreyfus looks almost enchanted by the idea of surgery, her eyes lit up with the glow of a light at the end of some tunnel and the passion of Jacob Coburn.
 
 In the dark of the laboratory, Coburn starts the machine up to run diagnostics.  The detector had been built out over several weeks into a larger platform onto which the rats were placed and the program run.  By laying his head down on the platform he could run the program on himself by setting up the scan and reaching out to hit the enter key.  He felt like he was faxing his mind but for two weeks now the process had seemed totally harmless.  He had patiently watched the rats (as well as Richard and Carl and their minions) for four weeks and no side effects had appeared.  Watching the diagnostics run across the computer screen he still marvels at its accuracy, and then, arriving at a crude text-based menu, he begins to set the machine up for a test run on one of the rats the way that Carl showed him.  He waits for a moment, for the machine to begin its calibration of the detector and then he steps over to the rat cages and reaches for one nearest him.
 
-((SHOCK! PANIC!  MOVEmoveMOVE run nam ger hand in kek shadows GIANT))  He reels back from the cage in a sudden panic that knock him into the counter, print outs spilling, as the rat scurries around in its cage.  His heart rate has jumped and he cannot shake the feeling that something massive was falling down on him.  He could feel it.  Breathing deeply he looks around the science arcade of lights for some sign of what had happened.  It was that feeling of something just appearing out of his line of sight but massive like a bear.  He puts his hand to his heart and tries to breathe deeply.  Gathering himself, he shakes it off after a couple of minutesâ€”its all the lack of sleep.  He takes a final deep breath and looks to make sure that the machine had not been roughed up in the commotion.  It seems fine and he steps back over to the cages.
+((SHOCK! PANIC!  MOVEmoveMOVE run nam ger hand in kek shadows GIANT))
 
-<!--more-->
+He reels back from the cage in a sudden panic that knock him into the counter, print outs spilling, as the rat scurries around in its cage.  His heart rate has jumped and he cannot shake the feeling that something massive was falling down on him.  He could feel it.  Breathing deeply he looks around the science arcade of lights for some sign of what had happened.  It was that feeling of something just appearing out of his line of sight but massive like a bear.  He puts his hand to his heart and tries to breathe deeply.  Gathering himself, he shakes it off after a couple of minutes—its all the lack of sleep.  He takes a final deep breath and looks to make sure that the machine had not been roughed up in the commotion.  Then he puts two fingers to his neck to check the carotid pulse. It seems fine and he steps back over to the cages.
 
-((Hand face? unknown ab bac nervous nervous erv fear Coburnâ€™s face Coburnâ€™s hand reaching bars))  Stepping back from the cage like a magnet repulsed, Coburn covers his eyes with his hand.  His vision had been momentarily blurred, coupled with other hazy imagesâ€”his own face!  Shocks of sensations, sparks of feelings, blips of images.  He felt disoriented.  Afraid.  The lesion.  The lesion was having some effect.  But now the doorknob is jiggling ((work too late farv tired no work erkerk)) Carl!  Coming in the door.  Coburn steps quickly back over to the prototype and types in one of the diagnostic codes for the rats, obliterating his own scanning codes.  The computer being churning out charts as Carl walks in and turns on the lights.  ((SHOCK))  â€œDr. Coburnâ€”((worry Coburnâ€™s face angry guilt)) â€”orking with the machine?â€
+((Hand face? unknown ab bac nervous nervous erv fear Coburn's face Coburn's hand reaching bars))  
+
+Stepping back from the cage like a magnet repulsed, Coburn covers his eyes with his hand.  His vision had been momentarily blurred, coupled with other hazy images—his own face!  Shocks of sensations, sparks of feelings, blips of images.  He felt disoriented.  Afraid.  The lesion.  The lesion was having some effect.  But now the doorknob is jiggling ((work toovâ€œlate farv tired no work erkerkâ€œ)) Carl!  Coming in the door.  Coburn steps quickly back over to the prototype and types in one of the diagnostic codes for the rats, obliterating his own scanning codes.  The computer being churning out charts as Carl walks in and turns on the lights.  ((SHOCK))  â€œDr. Coburnâ€”((worry Coburnâ€™s face angry guilt)) â€”orking with the machine?â€
 â€œUh.  Yes.  Hope you donâ€™t mind.  ((Concern machine on desk humming looks okay))  I, uh, I think I know what Iâ€™m doing.  I just couldnâ€™t make time to look at it until after evening rounds, you see.â€
 
 ((puzzlement works too fak hard sleep? tired too))  "Sure thing, Doc."
-Coburn closes his eyes, to will away these foreign thoughts plaguing himâ€”puts his hand to his head.
+Coburn closes his eyes, to will away these foreign thoughts plaguing him—puts his hand to his head.
 
 "You ((all right?)) all right, Doc?"
 
-"Yes!  God, you know, Carl.  The start from you coming in the door ((scared him, gop me!))â€”I think I just really need to get to bed, you know?"  The signals are absolutely exhausting, Carl's thoughts crammed in with his own, with no warning, surfacing like cruise missiles.  "Anyway, Iâ€”((seems weird sleep?)) I donâ€™t want to get in your way if youâ€™re here to work."
+"Yes!  God, you know, Carl.  The start from you coming in the door ((scared him, gop me!))—I think I just really need to get to bed, you know?"  The signals are absolutely exhausting, Carl's thoughts crammed in with his own, with no warning, surfacing like cruise missiles.  "Anyway, I—((seems weird sleep?)) I don't want to get in your way if youâ'e here tA ª•§ work."
 
 "Okay. ((not mad good stern okay?)) You donâ€™t have to worry about me though if you want to keep working with the equipment."
 
-"No! ((calm rabbit)) No. I mean, thatâ€™s okay.  I should really head((work so par hard danger ref patient?))home.  Coburn moves to the door, shots of his own backside making it hard to know where he is in the room.  Images and feelings fade as he moves out of the room in to the hallway.  It must be the electro-magnetic field.  Yes!  The rats, Carl, their electro-magnetic fields were setting off the RFID prions.  But how could they be mirroring signals?  He had to get home.
+"No! ((calm rabbit)) No. I mean, that's okay.  I should really head((work so par hard danger ref patient?))home. &#@ Coburn moves to the door, shots of his own backside making it hard to know where he is in the room.  Images and feelings fade as he moves out of the room in to the hallway.  It must be the electro-magnetic field.  Yes!  The rats, Carl, their electro-magnetic fields were setting off the RFID prions.  But how could they be mirroring signals?  He had to get home.
 
 * * *
 
@@ -149,7 +147,7 @@ Jacob gets up from his desk, a ridiculously pristine affair when compared to any
 
 They arrive at Richards' lab and he opens the door with his security ID.  Inside are white counter tops piled up with metal boxes all whirring and beeping and oscillating.  The space is more lit by the glow of computer monitors than the few desk lamps placed around the room, giving the lab a constantly shifting feeling.  All along another wall are cabinets of rat cages with dozens of white rats in them.  Jacob nods to Carl, Richards' big, jolly postdoc assistant.  Jacob disliked Carl for always being so jovial.  It struck him as idiotic.  Carl smiles back and Richards leads Jacob over to one particular rat cage covered in transmitters of some kind.  "We can add one more component to the RFID prion that will allow it to attach to a synapse and once there, the RFID portion of the molecule will be able to reverberate a radio frequency signal using part of the charge coming down the dendrite."  Richards points to a computer monitor where a stream of massive numbers are scrolling by at illegible speeds.  "Those are synaptic ID numbers."
 
-Jacob stares at the numbers.  There were probably 5 trillion neurons in a rat's brain.  Each neuron might have up to 7,000 synapses where the neurons touch each other through a thick web of connections of axons and dendrites.  That meant that even a rat had up 10,000 trillion---10 quadrillion---synapses.  Was this even possible?  He'd never known Richards to pull his leg.  "Of the rat?" he asked skeptically.
+Jacob stares at the numbers.  There were probably 5 trillion neurons in a rat's brain.  Each neuron might have up to 7,000 synapses where the neurons touch each other through a thick web of connections of axons and dendrites.  That meant that even a rat had up 10,000 trillion—10 quadrillion—synapses.  Was this even possible?  He'd never known Richards to pull his leg.  "Of the rat?" he asked skeptically.
 
 "Yeah."
 
@@ -161,7 +159,7 @@ Jacob just continues to stare at the numbers racing across the screen, occasiona
 
 "Yeah."
 
-Jacob keeps looking at the numbers flying by, the rat!---the rat's mind---digitized!  There were rifts forming in reality around him, a chrysalis breaking open around his own mind as a completely new world began form around him.
+Jacob keeps looking at the numbers flying by, the rat!—the rat's mind—digitized!  There were rifts forming in reality around him, a chrysalis breaking open around his own mind as a completely new world began form around him.
 
 He looks up at Reid, who is pleased with himself, "Jesus Christ, Reid."
 
