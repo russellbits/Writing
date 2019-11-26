@@ -310,7 +310,7 @@ Abe watched as his father lowered the body into the hole. The two men stood quie
 
 "You're going to need another name, little one," Ghendra said.
 
-Able had returned to Ghendra's house in the afternoon and she could see from his face what he had discovered. She set poorly for him and hugged him. But she also knew that it would only be days before the caravan would leave at the next approach of the Moon, and then ti would be many months before the traders built a new bridge and returned to Idex Mortez.
+Able had returned to Ghendra's house in the afternoon and she could see from his face what he had discovered. She set poorly for him and hugged him. But she also knew that it would only be days before the caravan would leave at the next approach of the Moon, and then it would be many months before the traders built a new bridge and returned to Idex Mortez.
 
 "My name is Able."
 
@@ -332,7 +332,7 @@ As they flew through the air again, Able comfortable in Nip's seat, he could thi
 
 In a way, he supposed, he had never known what would come next. Days only seemed to repeat themselves without much change. But now, having lost his mother, having seen his mistakes do amazing things right before his eyes, having met Ghendra and seen new colors... now, it seemed like his life was changing daily. There was wonder in it that he liked. But then there was no knowing what would come next.
 
-In the distance, he spotted a mass crack across the land. Before it, the tablets of Idex Mortez spilled over each other, but the piles of ancient written language grew shorter and shorter in height until there was just barren ground. Past that, there was the crack—a huge wound in the ground that was wide and dark and seemed to stretch from one end of the horizon to the other. Then, between the diminishing piles of the tablets and the crack, he saw a mass of movement. He could see beige tents, and people moving about them, and massive creatures of a kind he had never seen or heard of before. They were long and made of sections and had many, many legs.
+In the distance, he spotted a massive crack across the land. Before it, the tablets of Idex Mortez spilled over each other, but the piles of ancient written language grew shorter and shorter in height until there was just barren ground. Past that, there was the crack—a huge wound in the ground that was wide and dark and seemed to stretch from one end of the horizon to the other. Then, between the diminishing piles of the tablets and the crack, he saw a mass of movement. He could see beige tents, and people moving about them, and massive creatures of a kind he had never seen or heard of before. They were long and made of sections and had many, many legs.
 
 Able, looked up. "Nip, don't get too close. Let's just land nearby." Nip chirped a gleeful reply and flew lower to the ground, whisking them over the hills and hills of tablets until they came near the edge, where Nip set them down.
 
@@ -418,7 +418,7 @@ The pair just stared at one another for a moment.
 
 Able panicked, and did something he did not like, he lied. He thought of Ka, and said, "I've memorized all of them."
 
-Gef looked at his mount for a moment and then turned to Able again. "Well, you don't weigh much, so I suppose it's not too much trouble. Get yourself up on my pede and find a place to secure that sack of yours. We're getting out of here pretty quick. The moon's coming."
+Gef looked at his mount for a moment and then turned to Able again. "Well, you don't weigh much, so I suppose it's not too much trouble. Get yourself up on my pede and find a place to secure that sack of yours. We're getting out of here pretty quick. The moon's coming soon."
 
 * * *
 
@@ -434,9 +434,9 @@ Gef muscled his ride onto the bridge; ahead of many other riders. Able knew litt
 
 Able wanted to grab on to Nip, or Ka, or Po, but the words of Ghendra kept in his head. Do not show them too soon. He grasped the mount of Gef and held on. Gef, in the meantime, maybe a quarter across the bridge, began to laugh. "If you wanted to ride with me, son, this is a fun chance!"
 
-Beyond the bridge, down the chasm, a pale white orb began to reveal itself. Shouts across the caravan went up, "Moon!" And the orb, cratered and white, came over the horizon and into the chasm. The moon, rolled in its derelict and finished orbit across the world and towards the bridge that Gef and Able were only halfway across.
+Beyond the bridge, far down the chasm, a pale white arc began to reveal itself. Shouts across the caravan went up, "Moon!" And the arc, cratered and white, began to rise over the horizon. The moon, rolled in its derelict and finished orbit across the world and towards the bridge that Gef and Able were only halfway across.
 
-It rolled slowly and crushed everything in its path. For Able it was only revealed by one quarter as it came over the horizon and ruined the planet. But what was strange to Able was the light. Holding tight to Gef's mount, Able watched as shadows changed. The horizon was lit by this fantastic, giant rock that lit the already dark chasm. And Able was worried as Gef shouted at the top of his lungs, "Move, move, move!" There was death in it, and Able had not known it.
+It rolled slowly and crushed everything in its path, smashing the sides of the chasm, tearing massive pieces off as it went. For Able it was only revealed by a small amount as it came over the horizon, ruining the planet. But what was strange to Able was the light. Holding tight to Gef's mount, Able watched as shadows changed. The horizon was lit by this fantastic, giant rock that lit the shadowy chasm. And Able was worried as Gef shouted at the top of his lungs, "Move, move, move!" There was death in it, and had not felt fear quite this intense—or at least only in the last few days. This was even more fearsome.
 
 Three quarters of the way across the bridge, Able could see the moon coming over the horizon and rolling deep in the world he had once seen. It rolled like a bowling ball toward the bridge which was barely a thread in its massive domination. Able felt the need to shout, "Is that the moon!?"
 
@@ -444,4 +444,4 @@ To which Gef answered, "Just hold on!"
 
 Able watched to his side as the massive rolling rock cracked down and bounced, destroying the canyon as it went. He thought about grabbing all the mistakes, especially Nip, to get him away, but he waited. He watched Gef, concentrated, sure. And Gef yelled, the whole time, "Go!"
 
-Go they did. And on the other side, they watched as many on the bridge were utterly crushed by the rolling moon. The bridge was destroyed. The people on the bridge were wrapped into the moon. It took them away. The chasm was made different. And the moon passed on, driving, rolling down its (wash).
+Go they did. And on the other side, kept going. While Able could see they were still out of danger they watched as many on the bridge were utterly crushed by the rolling moon. The bridge was destroyed. The people on the bridge were wrapped into the moon. It took them away. The chasm was made different. And the moon passed on, driving, rolling down its (wash).

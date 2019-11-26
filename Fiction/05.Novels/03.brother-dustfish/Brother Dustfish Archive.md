@@ -1,5 +1,5 @@
 
-# Old Extra
+# Archive
 
 ## In which Able reaches the figure digging beneath the gnarled tree.
 
@@ -242,3 +242,102 @@ High atop the mesa overlooking Josiah Summary's pitiful shack, the green buzzing
 
 Finally, the green buzzing decides: it would get Able and bring him back to the mesa, or someplace equally good and safe. That is what it should have done in the first place. It let Able leave and now there was noise and confusion. *Wrong. Wrong. Wrong.* As the green buzzing feels this sense of wrong it begins to glow with greater and greater intensity, lifting up off the surface of the mesa and floating in the air. It swirls around and around, glowing ever brighter, "thinking" *wrong and not safe, wrong and not safe*. It stretches itself out into a spear shape again and spins until it senses the source of the noise and wrongness, glowing still brighter until it is almost white and flashing, and then, with a tremendous *shhhhhhpang!* it slingshots itself off the mesa into the distance, traveling faster than anything in the Desert of Dead Ideas.
 
+* * *
+
+At the edge of the scrub forest, Cal ties up the 'pede by the brush where it stands stiffly, possibly sleeping--it is difficult to tell with a 'pede. Cal instructs Able that 'pedes feed on dead things and so they should search the surrounding area for anything dead, which, Cal explains, there are likely to be "loads." Able, not comfortable at all with the idea of looking for dead things, sets off from their resting area along the edge of the brush forest. The trees are short and stubby, hardly taller than he is, and they look terribly unwelcoming, twisted and thorny and brown. Able tries to sing to himself a tune that his mother sang to him once, to keep himself company. Without his sack of mistakes he is feeling particularly alone, even if Cal has been good company. Able stops and with his back to the scrub, he looks off in the direction he has come from, back at his family and the mesa and the old color crone. In so many ways, he cannot believe he's come so far. And for just a moment, he thinks he sees a spark--something orange and glowing in the distance--but then it disappears into the haze of heat rising up from the badlands.
+
+Making his way further along the edge of the forest, Able comes to a dry creek bed about ten feet across. He lowers himself down into the creek bed, careful of his balance because of his lame leg.  Not keen on the idea of finding anything dead, Able thinks that at least if he fed the 'pede, it and Cal might like him just a little more, so he turns over rocks looking for carrion. Making his way up the creek bed, turning over rocks, he turns over one and gets quite a shock. There, beneath the rock, half way buried in sand is some kind of shiny creature, with no legs--or, it has legs, but they are wide and flat. The creature squirms and seems to be digging into the sand, and Able reaches out to grasp it and pull it out of the sand like a potato. The creature, it's skin smooth and cool, flops about in his hands, turning its body this way and that and opening and closing its huge flat mouth, but making no noise.  After a minute, the creature stops thrashing quite so much and Able pulls it in close to his face and stares into the large white eyes on either side of its head. He's never seen such a thing. He sets it back down in the creek bed, where it promptly squishes itself between two rocks and digs into the sand. Before long, it's disappeared. Able just stands and marvels at where the creature disappeared. Like the mantises or the 'pedes, this thing has its own will and desire--to be in the sand, clearly--but unlike his mistakes, they seem permanent in form. When he stares at them, he can not make them feel his will. The mantises only stared back, and this thing... it didn't seem to stare at anything at all. Maybe it was blind?
+
+Able makes his way back down the creek bed, out of the scrub forest and out a little ways into the badlands.  The creek bed flattens out and turns into a fan of rocks and he wanders around a bit and kicks the rocks. While he is pondering the will of things--particularly the lack of will of the rocks--a wind comes in from the west and on it, the sound of a light pinging. Able cocks his head and rests on his good leg and listens closely. The sound is familiar somehow, like a homing beacon. He squints out into the desert and sure enough, there is the orange spark he had seen earlier; not a mirage at all. It is pulsing and it is close enough that he can see something else below it, a yellow glowing, though much more faint.  Able waves at the balls of light and after a moment, the wind carries another sound to him across the desert, a high pitched "Squee!" The orange light begins pulsing more rapidly, glowing brighter and brighter until it is flashing a crazy sequence. It becomes almost too bright to look at and Able, shielding his eyes, frowns, somewhat concerned. The little spark was now like a crazed, trapped lightning bolt, and before Able can do anything, there is a blinding flash of light just yards away from him, followed quickly by an enormous BOOM! and Able falls over as the air gets hot and thick and pushes him and there is dust in the air everywhere and Able can see nothing.
+
+As the dirt rattles to the ground, Able picks himself up and looks to where the blast had occurred. There, in a small crater, are two mistakes, one glowing orange and pulsing and the other, somewhat part rolly and part something else he does not recognize. The second mistake is wobbling and looks dizzy or sick. But the orange buzzing immediately flies to him and pokes him in the stomach. "Oh!" Able says, it's you. He holds out his hands and the orange buzzing flies to his palms where it sits still and gradually turns a bright green. "And you found others!"
+
+Able makes his way over to the rolly-fling and picks it up. "Hello."
+
+The rolly-fling responds with a woozy boop.
+
+He looks back to his other hand where the green buzzing sits. "And the viewer and the pointer?" The green buzzing changes to a dark shade of green and sinks low into his hand. "Oh dear," replied Able.
+
+"Well, I may still have some use yet for you all. I've got an idea."
+
+* * *
+
+Having molded the rolly-fling into a large plate, Able uses it to dig down into the creek bed, looking for the slimy digging creature, and there, Able discovers something truly strange: there is water several feet down.  He continues digging until he is in water up to his knees and then he spots the tail of the slimy digging creature. He grabs it and pulls it into the pool of water he stands in where it gracefully begins to move about, no longer digging. With the green buzzing hovering around his head, Able says, "He seems to like the water." The green buzzing boops in reply. "What sort of thing lives in water without drowning? I wonder..."
+
+Taking the rolly-fling, he pulls it in to two pieces. The first piece he allows to become a simple sphere with lenses again and sets it up out of the hole where it wobbles off on its own. He molds the second part into a kind of scoop, while thinking about breathing; how everything that he has seen in life breathes. He lowers the scoop mistake into the water and over the slimy creature's head where is cinches down around the creature's neck. Pulling the creature-mistake combination up out of the water, he sets it afloat in the air where it swims lazily about, its head in a sphere of water. Able rubs his chin, "Well, that's not what I meant to do at all." The green buzzing floats over to the new companion and investigates, all the while, the helmeted slimy creature trying to get away with quick swishes of its tail.
+
+Suddenly, from behind him, Able hear's a voice, "What in tarnation!?"
+
+Turning, he sees Cal standing by the edge of the creek bed marveling at Able's swimming creation. "I found this," Able says, "Sorry it's not dead."
+
+* * *
+
+In which Able explains to Cal the kinds of things that mistakes are made with.
+
+"It's a Dustfish," says Cal as he and Able stand on other side of the helmeted fish swimming in lazy circles through the arid desert air.
+
+"A Dustfish?"
+
+"Well, it was, before you did... whatever you did to it. They live under the ground, mostly, down toward the water--where there is any. Can be good eatin'."
+
+Able makes a disapproving face.
+
+"Well, I wouldn't eat this one, on account of what you've done to it."
+
+"I didn't know there was water underground."
+
+"Didn't your paw have a well?"
+
+Able thinks, "Yes."
+
+"Well--heh heh--that's why. The pump pulls the water up from the ground. What did you think it did?"
+
+"I thought it made the water. Like I do--like my mistakes do sometimes."
+
+Cal is taken aback. "Say that again; you can make water?"
+
+"Well, I made a mistake once when I was thirsty and at first it's didn't do anything at all but get bigger after a few days, and then one day I was sitting with it and it floated over my head and dropped water all over me." Able pauses. "I didn't think it was very funny."
+
+"Funny? No, I wouldn't call that funny. I would call that damned amazing. Do you think you could make another one?"
+
+"Well, I need more parts."
+
+"What parts?"
+
+Able screwed up his face. "It's hard to say. There are certain rocks that... I don't know. It's hard to explain."
+
+"Maybe you could train your dustfish here to find 'em."
+
+"Maybe. But I couldn't definitely teach the rolly how to do it. It knew where East was when I asked it."
+
+"The what?"
+
+Able leans down and picks up the roll from where it is sitting near him on the ground. "This guy." Like before, when thinking of the sun and the color of yellow from his memories, he peels open the rolly like an orange, into slices, all the while thinking of the color of mistakes--not any one color, but all of them, swirling. The rolly dutifully flattens and reveals an orb of light in its center that slowly forms into a pulsing arrow swirling around until it begins pointing in one direction.
+
+Cal steps to Able and bends down, pushing his hat to the back of his head, and looking closely at the new multi-colored compass. "Able, I sure would like to know how you do that."
+
+Able shrugs. "I don't really know. There are just parts of some things that *want* to be other things."
+
+"You ever, uh, sensed that in a living thing?"
+
+"Sort of. I mean, living things want stuff. But this is more like stuff that doesn't know what it wants. It just wants *something*."
+
+"Stuff that wants purpose."
+
+"Yes."
+
+Cal scratches his head and stands up again. "We definitely better find Gef."
+
+"Oh?"
+
+"Yeah. Used to think he was crazy, but I think he may have some ideas about what your'e doin'."
+
+"Really?"
+
+"Maybe."
+
+He and Cal gather up the mistakes and the flying dustfish and make their way back to the pede. Cal had managed to find some food for it while Able was at the creek bed and the creature seems ready to move. While they pack up Cal instructs Able to keep the mistake compass out so they can stop while they ride if they come across any ore of the right kind. As they ride on through the scrub forest, Cal seems to Able to be obsessed with things to create. He asks about making another viewer but Able says he would need another drawing of some kind. And Cal asks about compasses for other things, like could he make one to find food. Able thinks so. Cal asks about the rainmaker and in particular how big can Able make his mistakes.
+
+"I've never really tried to make them very big. I suppose I could if what I wanted from them was big enough."
+
+"Well, we'll just have to see if we can come up with something big enough for you to want then."
