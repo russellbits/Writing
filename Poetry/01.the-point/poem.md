@@ -15,7 +15,7 @@ Hurry, hurry,
 Facebook, Twitter, Zing,
 The attention becomes
 Wild, fractal, impossible to track
-Like the deep ocean waters
+Like deep ocean waters
 where there is no light anymore
 But the creatures there don’t know
 It’s absence

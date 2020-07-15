@@ -13,3 +13,5 @@
 ## 6. Able and Gef make there way across some badlands on their way to the next outpost. Why does Gef take them off course from the other settlers? Able finds the Dustfish and makes a pet out of him. This throws Gef for quite a loop.
 
 ## 7. The outpost. Gef and his brother meet up. They decide that they want to go to Horn
+
+Able is to replace Gabriel on the council of the Masters of Mistakes. Gabriel left the world to find the real world. When he left, the council could not hold the world together. Able, like Gabriel, has the ability to introduce purpose into the code.

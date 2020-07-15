@@ -1,6 +1,6 @@
 # Saito and the Incorrigible Haru's Ridiculous Tour
 
-Not speaking much English, and certainly having difficulty with pronunciation, Saito had earlier decided it pragmatic to create a series of phrase cards. Before leaving Tokyo, he plays out the long weekend trip several times in his mind and tries to think of critical phrases and questions that he might want handy. When he thinks of a good one, he works it out on Google Translate and the pronunciation in Katakana (so he can at least give saying it in English a shot) and then if all else fails, he can hand over the card for the other person to read. He takes care in his writing, despite it being a late night in a hotel room, and each card's calligraphy is quite intricate as well as made of a superb card stock that Saito had sought out just for this task and trip.
+Not speaking much English, and certainly having difficulty with pronunciation, Saito had earlier decided it pragmatic to create a series of phrase cards. And before leaving Tokyo, he plays out the long weekend trip several times in his mind and tries to think of critical phrases and questions that he might want handy. When he thinks of a good one, he works it out on Google Translate and the pronunciation in Katakana (so he can at least give saying it in English a shot) and then if all else fails, he can hand over the card for the other person to read. He takes care in his writing, despite it being a late night in a hotel room, and each card's calligraphy is quite intricate as well as made of a superb card stock that Saito had sought out just for this task and trip.
 
 >>> My name is S-eye-toe  
 My thanks for your intentions.
@@ -38,7 +38,9 @@ At this, Saito hears something familiar and he makes his hands into guns and fir
 
 Saito smiles. 
 
-"But trees here are larger than anywhere." Again Hal gestures, his arms out to hug something enormous. Saito makes a look of awe. "Of course, tomorrow, when we go to see the sites, we are likely to run into a few Trolls—maybe magic folk too—if you catch my drift. But you've nothing at all to worry about, I've dealt with those ilk before and you are well-protected with Hal." With this, Hal winks at Saito who bows in return.
+"But trees here are larger than anywhere." Again Hal gestures, his arms out to hug something enormous. Saito makes a look of awe.
+
+"Of course, tomorrow, when we go to see the sites, we are likely to run into a few Trolls—maybe magic folk too—if you catch my drift. But you've nothing at all to worry about, I've dealt with those ilk before and you are well-protected with Hal." With this, Hal winks at Saito who bows in return.
 
 * * *
 
