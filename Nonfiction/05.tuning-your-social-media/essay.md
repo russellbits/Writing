@@ -1,0 +1,4 @@
+Tuning Your Social Media
+
+I often say to friends who say that social media is awful, “You’re doing it wrong.” It’s your space to curate. On Reddit, r/humansbeingbros, r/nextfuckinglevel are good news! And you can find people on Twitter who are mostly positive or part of your career. There are YouTube channels simply dedicated to education. Social media, just like radio and television can be tuned. If you want to tune your TV to skinemax or non-stop news designed to make you paranoid and then buy what’s in the ads because of stress—you’re doing that to yourself. Granted, tuning social media is harder than changing the channel, but it’s not impossible.
+If you have the time I'd like to make some suggestions.
