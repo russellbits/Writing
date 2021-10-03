@@ -1,3 +1,0 @@
-# Republican or Democrat; There is no Rogue One
-
-The Death Star's plans are the decimation of the Middle Class, the final solution that the plutocracy of the United States has been looking for. How do we turn the fourth estate into a mockery and wound the other three to the point of incapacity? They've done it. And the rebellion, which should come from the Al Frakens, the Bernie Sanders of the Left, don't know, or won't speak to the disenfranchised of the right. The plans for the Death Star are right in front of them, and yet they cannot see the point in total revolution.

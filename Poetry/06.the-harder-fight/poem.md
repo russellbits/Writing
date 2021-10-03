@@ -1,5 +1,19 @@
 # The Harder Fight
 
+I grew up while
+The ever-present threat
+That only happened in bureaucratic minds;
+Just robbed the children
+With political panic
+
+I talked to some acolyte 
+Who demanded that I read a book,
+The total catastrophic explanation
+Not only did I refuse 
+I convinced this apparition
+That she also was dreaming
+So, who, then, was the dreamer?
+
 I day-dreamed about time-traveling
 to a bar to fist fight my Dad. Same age
 The dreamed ended
@@ -7,36 +21,27 @@ I awoke defeated
 
 I would—I know him
 He trained HARD, he swam in Arizona
-You swim hard where there is no
-water
+You swim hard
+where there is no water
 
-In one dream of mine, I woke up
-Having survived a nuclear explosion
-Having dreamed of Death
-I awoke elated
+~~In one dream of mine, I woke up~~
+~~Having survived a nuclear explosion~~
+~~Having dreamed of Death~~
+~~I awoke elated~~
 
-I do not know that; I've not burned
-The ever-present threat; never happened
-Just robbed the children of their innocence
-With political panic
+~~I do not know that;~~ I've not burned
 
-A final dream:
-I spoke to some acolyte 
-Who demanded that I read a book,
-The total catastrophic explanation
 
-Not only did I refuse 
-I convinced this apparition
-That she also was dreaming
-So, who, then, was the dreamer?
+~~A final dream:~~
+
 
 All my strength lay in persevering
-And stamina reveals no secrets while
+A stamina reveals no secrets while
 corridors of anxiety in the mind 
 Can't beat God and don't want to
 
 You put the prayers in place
-In order to alleviate the anxiety
+In order to release the anxiety
 "in God's hands" now
 So that remembering the worry is the sin
 
@@ -69,9 +74,9 @@ Standing with your back to the Pacific
 You will not see it
 Or notice when it knocks you down 
 
-To care counts hard. And it
+To care counts hard
 hurts, standing between the tide and a wall
-And the wall will be the thing you
+will be the thing you
 Wail at later, because
 the ocean will never answer you
 
@@ -85,7 +90,7 @@ I won't go down every time
 And being not my thoughts,
 Being made of beach and dirt
 I am both mythic champion
-and useless automaton
+and useless automation
 
 What is? false about
 A dumb, naïve punishment bag
@@ -106,7 +111,7 @@ Death
 I might have been right
 I was probably wrong
 I was misguided and still
-I was firm
+I was firm if ill
 After... embarrassed... no less willing
 I know 
 We still must stand against that ocean
