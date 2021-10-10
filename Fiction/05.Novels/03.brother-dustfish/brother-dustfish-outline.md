@@ -1,5 +1,7 @@
 # Brother Dustfish Chapter Outline
 
+I'm starting to consider the idea that the book, like many other books of this ilk, should be divided into volumes or books. Book 1 in this case would be from the Idex Mortex to the escape from the City of Horn. What then would Book 2 (and 3?) be? I'm not sure, so it will remain just a thought.
+
 ## 1. We meet Able and find out about his life in the Desert of Idex Mortez.
 
 ### The Desert of Idex Mortez
@@ -47,3 +49,11 @@ Gef finds some information about a Vox compass that could take them to the Ultra
 ## 7. In which Able and Gef descend into the Hollow of Tigers.
 
 Able is to replace Gabriel on the council of the Masters of Mistakes. Gabriel left the world to find the real world. When he left, the council could not hold the world together. Able, like Gabriel, has the ability to introduce purpose into the code.
+
+Ideas for Later:
+
++ Rilla and Wacamolo show up with Arthra and stuff at the entrance to the city of Horn.
+
++ Baron Leocadia sends bounty hunters after the crew.
+
++ The crew acquires a fighter of some kind.electrol
