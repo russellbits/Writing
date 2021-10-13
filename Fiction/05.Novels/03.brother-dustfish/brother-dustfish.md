@@ -13,3 +13,4 @@
 /07.hollow-of-tigers.md
 /08.the-temple-of-trees.md
 /09.city-of-horn.md
+/10.meet-the-barons.md

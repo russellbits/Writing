@@ -44,16 +44,68 @@ Able uses Ka to make a floating aquarium for a dustfish. This shocks and stuns G
 
 ## 6. In which Able and Gef travel to the outpost of Kinton Station.
 
-Gef finds some information about a Vox compass that could take them to the Ultracircus, but in order to get it, they have to go somewhere Gef doesn't want to; namely to see the mad scientist of the City of Horn. Able makes some new friends but that turns out to be more trouble than it's worth.
+Gef finds some information about a Texo compass that could take them to the Ultracircus, but in order to get it, they have to go somewhere Gef doesn't want to; namely to see the mad scientist of the City of Horn: Baron Rollo Leocadia. Able makes some new friends but that turns out to be more trouble than it's worth.
 
 ## 7. In which Able and Gef descend into the Hollow of Tigers.
+
+The are searching for a hollow that may have a secret door that leads into the City of Horn, a place that is otherwise very difficult to get into. While looking, they are set upon by an ambush of smoke tigers. Po manages to scare the creatures off with a massive hologram, but it drains him of nearly all his energy. And Nip gets severely hurt in the fighting. With the creatures gone though, the crew discovers the secret door.
+
+## 8. In which the crew explores a temple.
+
+The crew enter what appears to be a museum or an ark in which trees of all manner are preserved in massive terrariums. They are unsure what the point of such things are. They move from chamber to chamber until they find a canal that leads to a massive reservoir of water. From the reservoir, there is a staircase up and they make there way into the city.
+
+## 9. In which the crew gets captured.
+
+The crew wanders through the City of Horn, a city surrounded by walls and surrounding a literal, gigantic tusk or horn. A castle is carved into the horn. The city is filled with desperate people begging for food and water. It's filthy, squalid place. There are armored mechanical guards everywhere. Gef decides that the best plan of action is simply to do their best to get the attention of the Baron. And they do it.
+
+## 10. In which Gef discovers many things and makes a bargain, while Able causes a lot of trouble.
+
+The crew splits up to find a fast exit out of the city and to gain as much knowledge as they can from the library. The Baron appears in three places simultaneously to "assist" them. Gef and Po explore the library and discover lots and lots of information. The Baron makes a bargain with Gef that he wants Gef to destroy an enemy of his, the scientist Vivian, in return for the Texo Compass. 
+
+Meanwhile, Able discovers a way to turn the water on in the city and chaos ensues. Before the Baron can figure out what happened, the crew makes a break for it, only to discover that Wacamolo and Rilla and Arthra are at the gates trying to get in.
+
+## 11. In which the crew travels to the home of another scientist.
+
+The crew travels toward the home of Vivian, who is said to live in Boisenval, the hanging city of the Lake of the Low, and shares what they have discovered from the Baron. Able and Rilla become friends. Wacamolo explains what the nanosphere is and shows that he can manipulate it, but just barely. It takes a great deal of energy to do it. He shows Able a few cantrips. Po has lots of maps now!
+
+## 12. In which the crew meet the Eyeless ones, the Durman.
+
+The crew falls into a trap on the way to Boisenval. They are captured by creatures with no eyes. Able manages to befriend them when he reveals that they are going to see Lady Vivian the Scientist. They offer to volunteer to destroy her. They say she is bad for the land, once a member of the Council but now just a hoarder and enchantress. Able's not sure they're going to fight just yet.
+
+## 13. In which the crew arrives at Boisenval and leads the Durman into the City.
+
+With the Durman warriors behind them, the crew enters the hanging city and is met by the Lady Vivian, who destroys the warriors, turning them to stone, and takes the crew prisoner. She enchants Gef, and "turns" the mistakes, but can't enchant Able. She imprisons them all in copies of Ka and then leaves to destroy the Baron once and for all. They can see the storm from where they are trapped in her tower.
+
+# 14. In which the crew is freed by the Lady Vivian
+
+Lady Vivian returns, sadder than ever. In talking to Able Lady Vivian discovers that Able's mother is Evo and becomes enraged and sad that Evo is dead. But she realizes that this means that Evo had some sort of plan.
+
+"The council was destroyed when one of our order decided to leave this world for the world above. The balance that we had created and that had lasted for a thousand generations was destroyed. This world has been crumbling ever since. Why would Evo make you. Why would Ghendra send you to find the Ultracircus?"
+
+
 
 Able is to replace Gabriel on the council of the Masters of Mistakes. Gabriel left the world to find the real world. When he left, the council could not hold the world together. Able, like Gabriel, has the ability to introduce purpose into the code.
 
 Ideas for Later:
 
++ Evo was a member of the council.
+
++ Ghendra was Evo's student.
+
 + Rilla and Wacamolo show up with Arthra and stuff at the entrance to the city of Horn.
+
++ Nip becomes a swarm. Arthra learns to fly (by walking on copies of Nip).
 
 + Baron Leocadia sends bounty hunters after the crew.
 
-+ The crew acquires a fighter of some kind.electrol
++ The crew acquires a fighter of some kind. Do they free a mechanoman?
+
++ Who are the members of the Council?
+	+ Evo
+	+ Vivian
+	+ Gabriel
+	+ ?
+
+# Backstory
+
+	
