@@ -1,7 +1,3 @@
----
-title: Untouchable
----
-
 # Untouchable
 
 The flash bulbs snap and pop like flamenco dancers on bubble-wrap and every flash is as blinding as the Sun, each one a translucent tile in a luminous mosaic aquarium being thrust up around them—the walls of which shift about them so fast that it makes Jason dizzy and a little ill.  He holds on to her hand like an anchor.  Her—his?—Tall, blond German goddess—caught by means completely unknown to him (he suspects it might be the fish).  From somewhere behind them the sound of girls' screaming voices mixes in with the low hoots of men, both of which sound simultaneously thrilling and threatening.  All he can think in the rush and din and light and gold and red and speckled chaos is that he has no business in the firing line of such intensity, and after a moment that seems like forever, the photographers let him know it.
@@ -502,4 +498,6 @@ Silence.
 
  * * *
  
-Here now in the dark of four in the morning, the din of the clubs and bars from earlier in the evening roaring in his ears, Jason is cautiously approaching the tub in the courtyard. In his hand: an empty prescription bottle from inside his wrecked apartment. Nearby, perched up on the wall, two small cats watch the tub. A noble gray cat named Muriel and a small calico named Marilyn sit cuddled side-by-side and peer with usual cat disinterest as Jason breeches the shadow of the nook, and the city's ever-ambient light fills the scene bluely. There in the dark water of the tub is Elsa in an H&M summer dress. She looks up at him, drugged, but smiles. "I caught him." she says and then laughs. Jason pulls her wet body into himself and holds her close. "I'm so sorry, Elsa. What have they done to you?"
+Here now in the dark of four in the morning, the din of the clubs and bars from earlier in the evening roaring in his ears, Jason is cautiously approaching the tub in the courtyard. In his hand: an empty prescription bottle from inside his wrecked apartment. Nearby, perched up on the wall, two small cats watch the tub. A noble gray cat named Muriel and a small calico named Marilyn sit cuddled side-by-side and peer with usual cat disinterest as Jason breeches the shadow of the nook, and the city's ever-ambient light fills the scene bluely.
+
+There in the dark water of the tub is Elsa in an H&M summer dress. She looks up at him, drugged, but smiles. "I caught him," she says and then laughs loud. Jason pulls her wet body into himself and holds her close. "I'm so sorry, Elsa. What have they done to you?"
