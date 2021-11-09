@@ -60,13 +60,13 @@ The crew wanders through the City of Horn, a city surrounded by walls and surrou
 
 ## 10. In which Gef discovers many things and makes a bargain, while Able causes a lot of trouble.
 
-The crew splits up to find a fast exit out of the city and to gain as much knowledge as they can from the library. The Baron appears in three places simultaneously to "assist" them. Gef and Po explore the library and discover lots and lots of information. The Baron makes a bargain with Gef that he wants Gef to destroy an enemy of his, the scientist Vivian, in return for the Texo Compass. 
+The crew splits up to find a fast exit out of the city and to gain as much knowledge as they can from the library. The Baron appears in three places simultaneously to "assist" them. Gef and Po explore the library but can't get there hands on a lot of information because the Baron is there. The Baron makes a bargain with Gef that he wants Gef to destroy an enemy of his, the scientist Vivian, in return for the Texo Compass. 
 
-Meanwhile, Able discovers a way to turn the water on in the city and chaos ensues. Before the Baron can figure out what happened, the crew makes a break for it, only to discover that Wacamolo and Rilla and Arthra are at the gates trying to get in.
+Meanwhile, Able and Nip try to find a way to turn the water on in the city but the Baron interferes. With the help of Po, the crew makes a break for it, only to discover that Wacamolo and Rilla and Arthra are at the gates trying to get in.
 
-## 11. In which the crew travels to the home of another scientist.
+## 11. In which the crew run in to some old friends
 
-The crew travels toward the home of Vivian, who is said to live in Boisenval, the hanging city of the Lake of the Low, and shares what they have discovered from the Baron. Able and Rilla become friends. Wacamolo explains what the nanosphere is and shows that he can manipulate it, but just barely. It takes a great deal of energy to do it. He shows Able a few cantrips. Po has lots of maps now!
+The crew travels toward the home of Vivian, who is said to live in Boisenval, the hanging city of the Lake of the Low, and shares what they have discovered from the Baron. Able and Rilla become friends. Wacamolo explains what the nanosphere is and shows the crew that he can manipulate it, but just barely. He explains to Able some principles of it. It takes a great deal of energy to do it. He shows Able a few cantrips. Po has lots of maps now!
 
 ## 12. In which the crew meet the Eyeless ones, the Durman.
 
@@ -86,17 +86,30 @@ Lady Vivian returns, sadder than ever. In talking to Able Lady Vivian discovers 
 
 Able is to replace Gabriel on the council of the Masters of Mistakes. Gabriel left the world to find the real world. When he left, the council could not hold the world together. Able, like Gabriel, has the ability to introduce purpose into the code.
 
-Ideas for Later:
+# Publishing
+
+Bitly for drafts
+https://bit.ly/3oswCW5
+
+# Ideas for Later:
+
++ Po eats the Texo Compass
 
 + Evo was a member of the council.
 
 + Ghendra was Evo's student.
+
++ The crew meets a thing like Nip but massive and dangerous.
+
++ The crew has to make their way through a jungle of junk.
 
 + Rilla and Wacamolo show up with Arthra and stuff at the entrance to the city of Horn.
 
 + Nip becomes a swarm. Arthra learns to fly (by walking on copies of Nip).
 
 + Baron Leocadia sends bounty hunters after the crew.
+
++ A con man joins the group
 
 + The crew acquires a fighter of some kind. Do they free a mechanoman?
 
@@ -108,4 +121,53 @@ Ideas for Later:
 
 # Backstory
 
-	
+# Other Notes
+
+1. Apply Dan Harmon's story circle or the other older mythology building tools to Able
+
+What is the Story Circle?
+1. A character you can identify with
+2. The character has a wish or need that is unfulfilled
+3. The need or wish causes them to cross a threshold
+4. They go down a road of trials
+5. They are searching for something and find it (like it or not)
+6. That discovery kicks their ass
+7. They come back to the world they started in having gone through trials
+8. Having changed
+
+Meanwhile, Hero of 1000 faces:
+1. Call to Adventure
+	Sometimes it is given by a mythical animal
+2. 
+
+1. Able has the ability to create the mistakes, but they are also his call to adventure. They urge him an push him to places. They are the mythical animal—also, they are the CODE.
+
+Understanding, or at least manipulating the CODE is the unrealized boon!
+
+# Music for Inspiration
+
+Ep 1
+Vertiphon by Bola (off Fyuti)
+
+Ep 2
+
+Licensed
+Tensor by Carbon Based Lifeforms (off Hydroponic Garden)
+MOS 6581 by Carbon Based Lifeforms (off Hydroponic Garden)
+Blow Up by Floex (off Zorya)
+Romeo Alpha by David Howes
+Pbs/Kae by Tyco (off Sunrise Projector)
+Ex Machina by Aril Brikha (for the machinama leopard sequence)
+Giants by Chicane (off of Giants) — for a celebratory part of the story
+Saltwater by Chicane (off of Behind the Sun) — if they get to a body of water (or maybe the silt sea)
+All Things by The Cinematic Orchestra (off of Man with a Movie Camera)
+I'll Read You a Story by Colleen (off of The Golden Morning Breaks)
+
+Creative Commons
+"Faith" by Desperation — upbeat for some sort of chase episode
+"Beyond the Black Rainbow" by Jeremy Schmidt
+"Jetstream" by Lusine lcl (off of Language Barrier) — for some magical section?
+"Impact Moderato" by Kevin MacLeod — for meeting Cal
+"Dream Culture" by Kevin MacLeod (off of Calming) — ?
+"Harp Fragments" by Nic Bommarito
+Zoe Keating "We Insisr' GIVE UP! —BY9ND THE BRIDGE UNDERNEATH THE MOON
