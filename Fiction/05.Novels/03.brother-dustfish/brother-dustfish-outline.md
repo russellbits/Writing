@@ -103,7 +103,7 @@ https://bit.ly/3oswCW5
 
 + The crew has to make their way through a jungle of junk.
 
-+ Rilla and Wacamolo show up with Arthra and stuff at the entrance to the city of Horn.
++ ~~Rilla and Wacamolo show up with Arthra and stuff at the entrance to the city of Horn.~~
 
 + Nip becomes a swarm. Arthra learns to fly (by walking on copies of Nip).
 
@@ -117,6 +117,7 @@ https://bit.ly/3oswCW5
 	+ Evo
 	+ Vivian
 	+ Gabriel
+	+ Kiokesuimas
 	+ ?
 
 # Backstory
