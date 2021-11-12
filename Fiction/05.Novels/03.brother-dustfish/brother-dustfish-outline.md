@@ -93,6 +93,10 @@ https://bit.ly/3oswCW5
 
 # Ideas for Later:
 
++ Gef's story
+
++ The villain of this story did what he did out of love; he didn't mean for the destruction to happen. But so long as its happened, he sees it as progress.
+
 + Po eats the Texo Compass
 
 + Evo was a member of the council.
