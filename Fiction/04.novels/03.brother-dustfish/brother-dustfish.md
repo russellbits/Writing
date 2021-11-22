@@ -15,3 +15,6 @@
 /09.city-of-horn.md
 /10.meet-the-barons.md
 /11.the-return-of-waca-and-rilla.md
+/12.meeting-the-durman.md
+/13.meeting-the-big-net.md
+/14.boisenval.md
