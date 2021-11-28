@@ -1,4 +1,9 @@
-# Beanth the Manhattan Bridge at Night in Autumn
+---
+title: Beneath the Manhattan Bridge at Night in Autumn
+date: ""
+tags: ["love","trains"]
+---
+
 They were little hopes and confidences
 gold lit secrets hidden 'neath bridges under bridges
 where she came to him—already two months gone

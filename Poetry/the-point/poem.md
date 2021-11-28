@@ -1,4 +1,9 @@
-# The Point
+---
+title: The Point
+date: 
+tags: ["lessons","work","dead"]
+---
+
 Work hard
 Be nice
 Seek novelty

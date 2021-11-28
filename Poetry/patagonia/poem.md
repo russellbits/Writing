@@ -1,4 +1,9 @@
-That Time Larry Told me to Fuck Off
+---
+title: That Time Larry Told me to Fuck Off
+Alternate-title: Patagonia
+date: 
+tags: ["lessons","work","dead"]
+---
 
 At one point in my life I was back in the same old town, the same old place—after having shot off like a rocket to New York City. But New York didn't fail me. It just got too synthetic for me. The fun was gone. And I had to go somewhere and do something new. I went home; right back to Clemzon, South Cackalacky. Home of the Sandlappers.
 

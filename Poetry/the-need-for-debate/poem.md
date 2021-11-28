@@ -1,4 +1,8 @@
-The need for Debate?
+---
+title: The need for Debate?
+date: 
+tags: ["lessons","work","dead"]
+---
 
 What I believe is not:
 What I suspect is not:

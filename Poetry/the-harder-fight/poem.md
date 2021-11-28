@@ -1,4 +1,8 @@
-# The Harder Fight
+---
+title: The Harder Fight 
+date: ""
+tags: ["love","trains"]
+---
 
 I grew up while
 The ever-present threat

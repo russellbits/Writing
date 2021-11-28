@@ -1,4 +1,8 @@
-# In Between Dreamy Guesses
+---
+title: In Between Dreamy Guesses
+date: 
+tags: ["lessons","work","dead"]
+---
 
 perhaps you’re washing a dish when 
 a bird out the window catches your attention or

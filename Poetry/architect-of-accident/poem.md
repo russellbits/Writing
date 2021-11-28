@@ -1,4 +1,9 @@
-#Architect of Accident. 
+---
+title: Architect of Accident. 
+date: ""
+tags: ["love","trains"]
+---
+
 The three quarter clouded moon. 
 over ocean’s persistent crystal light. 
 dances a path to walk. 

@@ -1,4 +1,9 @@
-# The Experiment
+---
+title: The Experiment
+date: "2019-11-25"
+tags: ["lessons","work","dead"]
+---
+
 This is the experiment.
 It will go on for some time.
 As long as you can know,
