@@ -1,10 +1,12 @@
 ---
 title: In Between Dreamy Guesses
-date: 
+alternate-title:
+source:
+date:
 tags: ["lessons","work","dead"]
 ---
 
-perhaps you’re washing a dish when 
+perhaps you’re washing a dish when
 a bird out the window catches your attention or
 
 you’re filling out that frustrating online form

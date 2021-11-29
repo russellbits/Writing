@@ -1,6 +1,6 @@
 ---
 title: Beneath the Manhattan Bridge at Night in Autumn
-date: ""
+date: "00-00-1999"
 tags: ["love","trains"]
 ---
 

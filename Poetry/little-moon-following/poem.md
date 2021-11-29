@@ -1,6 +1,8 @@
 ---
 title: Little Moon Following
-date: 
+alternate-title:
+source:
+date:
 tags: ["lessons","work","dead"]
 ---
 

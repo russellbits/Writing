@@ -1,6 +1,7 @@
 ---
 title: Even Though I love You
 alternate-title:
+source: Night Dreams/Day Dreams
 date: 00-00-1996
 tags: []
 ---
@@ -9,12 +10,12 @@ You are not the sand
 Nor are you the sea
 But something serpentine
 		Lying there between
-		
+
 You are not the stars
 Nor could you be the moon
 Though all my night's heavens
 		you do consume
-		
+
 You are time and space
 And other abstract things
 Ethereal, bizarre

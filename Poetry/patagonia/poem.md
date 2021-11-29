@@ -1,7 +1,8 @@
 ---
 title: That Time Larry Told me to Fuck Off
-Alternate-title: Patagonia
-date: 
+alternate-title: Patagonia
+source:
+date:
 tags: ["lessons","work","dead"]
 ---
 
