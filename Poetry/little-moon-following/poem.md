@@ -33,4 +33,4 @@ before you knew
 You've grown, yes...    and grown up
     but still...
 
-smile.  little moon is following you.
+smile.  little moon is still following you.
