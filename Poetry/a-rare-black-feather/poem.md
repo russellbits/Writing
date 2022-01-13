@@ -3,7 +3,7 @@ title: A Rare Black Feather
 alternate-title:
 source: Night Dreams/Day Dreams
 date: 00-00-1996
-tags: []
+tags: ["dark","row","dawn"]
 ---
 The crow she came at dawn
 black and purple against the sun

@@ -3,7 +3,7 @@ title: Courtesy Glide
 alternate-title:
 source: Night Dreams/Day Dreams
 date: 00-00-1996
-tags: []
+tags: ["moon","love","flight"]
 ---
 Era, era
 moon

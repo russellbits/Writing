@@ -4,7 +4,7 @@ alternate-title:
 source: Night Dreams/Day Dreams
 date: 00-00-1996
 revised: 2021-12-10T12:17:27
-tags: []
+tags: ["motorcycle","smoking","religion"]
 ---
 My buddhist engine kitten purs
 down a long drawn gruesome road
