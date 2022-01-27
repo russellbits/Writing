@@ -1,31 +1,14 @@
 ---
-title: It's Your DNA
+title: Don't Eat This Poem
 alternate-title:
-source: Off the top of my head
-date: 01-14-2022
+source: Day Dreams
+date: 09-14-1995
 tags: []
 ---
-They had the decency to tell the truth
-to my face and even pat me on the knee,
-and it sank in slow, the information.
-Days of playing games about the future
-
-followed until I just wanted to punch a train.
-Not being an Atlas, I can't punch the world, and
-can't let Lady Karma know I think she sucked it.
-What she had in store was stowed in
-some storm cellar and she hid it from me,
-down in the DNA.
-
-It takes a big deep breath
-It takes a silent moment
-It takes being alone
-And then,
-
-Bring on that train. I'm gonna punch it.
-Flatten me it might,
-but ocean waves and avalanches...
-You can cower or grit your teeth.
-
-Those are the only choices.
-If Lady Karma gives any choices at all.
+I am striped very well
+like a lazy coat of paint
+on a newly washed piece of paper
+that someone crumpled up
+and discarded
+At least they did not feel
+the need to eat me
