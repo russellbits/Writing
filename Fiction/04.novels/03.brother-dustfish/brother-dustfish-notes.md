@@ -13,7 +13,7 @@ https://bit.ly/3oswCW5
 
 + What is Gef's story?
 
-+ The villain of this story did what he did out of love; he didn't mean for the destruction to happen. But so long as its happened, he sees it as progress.
++ The villain of this story did what he did out of love; he didn't mean for the destruction to happen. But so long as its happened, he sees it as progress. We now know that he did it to find some infinite energy source.
 
 + Po eats the Texo Compass
 

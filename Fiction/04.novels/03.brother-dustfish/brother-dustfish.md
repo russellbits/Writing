@@ -4,17 +4,31 @@
 
 {{TOC}}
 
+### Part 1
+
 /01.meet-able.md
-/02.wandering-in-the-desert.md
-/03.meet-ghendra.md
-/04.meet-gef.md
-/05.meet-karolly.md
-/06.kinton-station.md
-/07.hollow-of-tigers.md
-/08.the-temple-of-trees.md
-/09.city-of-horn.md
-/10.meet-the-barons.md
-/11.the-return-of-waca-and-rilla.md
-/12.meeting-the-durman.md
-/13.meeting-the-big-net.md
-/14.boisenval.md
+/02.able-is-exciled
+/03.wandering-in-the-desert.md
+/04.meet-ghendra.md
+/05.meet-gef.md
+/06.meet-karolly.md
+/07.kinton-station.md
+/08.hollow-of-tigers.md
+/09.the-temple-of-trees.md
+/10.city-of-horn.md
+/11.meet-the-barons.md
+/12.the-return-of-waca-and-rilla.md
+/13.meeting-the-durman.md
+/14.meeting-the-big-net.md
+/15.boisenval.md
+/16.vivian.md
+/17.vivian-repairs-the-land.md
+
+### Part II
+
+/18.now-what-a-respite.md
+/19.the-plan-the-discovery.md
+/20.onward.md
+/21.the-cullen-mountains.md
+
+### Part III
