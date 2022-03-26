@@ -10,4 +10,4 @@ Vivian accuses him a liar and to show Able a demonstration of her power she move
 
 Able's mistakes, are in fact, programs, and Vivian believes that, much like Jupaeter  (sometimes called Gabreel), Able is the only person in the world who can create such machinations. Perhaps they can help, she tells Able and his crew. But the texo compass attached to the Ultracircus is not a thing she can give them, because it is Able himself. With this, Vivian bades them farewell and the crew, with a new member, the acolyte of Vivian, Nicolle, set off to find the Ultracircus.
 
-They travel across the Cullen Mountians, past massive boulder hurling robots, through the mists of the automatic jungle, fend off synthetic simians, contend with the Dust Men and sail across the Silt Sea.
+They travel across the Cullen Mountians, past massive boulder hurling robots, through the mists of the automatic jungle, fend off synthetic simians, contend with the Dust Men and sail across the Silt Sea in search of the Ultracircus.

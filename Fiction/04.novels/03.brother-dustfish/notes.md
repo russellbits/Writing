@@ -7,25 +7,31 @@ Able is to replace Gabriel on the council of the Masters of Mistakes. Gabriel le
 Bitly for drafts
 https://bit.ly/3oswCW5
 
+# The species of the Shattered World
++ Nomex - The nomex are the most common sentient creatures in the world. However, they range in color and appearance. The nomex of the Idex Mortez tend to be dark skinned with dark hair, while the nomex of Boisneval, for instance, are tall and very thin and have very light-colored skin, pinkish to blonde to gray hair and bright blue eyes.
++ Synthoids - An ancient race of machine people, synthoid beings were constructed tens of thousands of years ago. Though synthoids possess the ability to construct others of their own kind, how synthoids function is lost to time. 
++ Myconoids - Underground dwellers, the Myconoids, without their biome, are very tall (2 meters) and very thin and haveno eyes. They grow lichen and mushrooms on themselves (referred to as their biome) for sustenance and protection.
++ Dustmyn - Similar in size and shape to nomex, the dustmyn live on and around the Silt Sea, their capital city being Hasnasfresis, a city built on the back of a giant, ancient (long dead) silt tortoise. They are small in stature (~1 meter) and grow their hair in long, thick bushels that collect silt, protecting them both from the sun and wind on the Silt Sea. There hair is generally brown or blonde and their eyes usually gold, but they are rarely seen without significant amounts of obscuring clothing such as goggles. They are quiet and fierce.
+
 # Ideas for Later:
 
 + Wacamolo tells a story about bees and one bee who thought he had free will.
 
-+ What is Gef's story? What is Gef was Gabriel's assistant?
++ What is Gef's story? What is Gef was Gabriel's assistant? Is that what he chose to forget?
 
 + The villain of this story did what he did out of love; he didn't mean for the destruction to happen. But so long as its happened, he sees it as progress. We now know that he did it to find some infinite energy source.
 
 + ~~Po eats the Texo Compass~~
 
-+ Evo was a member of the council.
++ Evo was a member of the council. She alone among scientists of the council re-discovered the ability to create synthoids. She created a child synthoid in the hopes of creating a true form of optimism and balance and sustainability in opposition to Gabriel's ideas of constant growth.
 
 + Ghendra was Evo's student.
 
-+ The crew meets a thing like Nip but massive and dangerous.
++ ~~The crew meets a thing like Nip but massive and dangerous.~~ The crew meets something like the mistakes in the Automatic Jungle.
 
-+ The crew has to make their way through a jungle of junk.
++ The crew has to make their way through a jungle of nanotechnology that tries to transform them.
 
-+ ~~Rilla and Wacamolo show up with Arthra and stuff at the entrance to the city of Horn.~~
++ Rilla and Wacamolo show up with Arthra and stuff at the entrance to the city of Horn.
 
 + Nip becomes a swarm. Arthra learns to fly (by walking on copies of Nip).
 
@@ -40,15 +46,13 @@ https://bit.ly/3oswCW5
 	+ Vivian
 	+ Gabriel
 	+ Kiokesuimas
-	+ ?
+	+ Horr'off
+	+ 
 
 # Backstory
 
-# Other Notes
+# The Story Circle
 
-1. Apply Dan Harmon's story circle or the other older mythology building tools to Able
-
-What is the Story Circle?
 1. A character you can identify with
 2. The character has a wish or need that is unfulfilled
 3. The need or wish causes them to cross a threshold
@@ -58,12 +62,6 @@ What is the Story Circle?
 7. They come back to the world they started in having gone through trials
 8. Having changed
 
-Meanwhile, Hero of 1000 faces:
-1. Call to Adventure
-	Sometimes it is given by a mythical animal
-2. 
-
-1. Able has the ability to create the mistakes, but they are also his call to adventure. They urge him an push him to places. They are the mythical animal—also, they are the CODE.
 
 Understanding, or at least manipulating the CODE is the unrealized boon!
 
