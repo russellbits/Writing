@@ -7,22 +7,23 @@ tags: []
 ---
 
 Whispers quiet in the darkness
-Of a body hold
+Of a body held
 Tense and wet
 		with her tears
 frame you he will
 to be placed on that mantle
 in the foyer of his love
 two years, two days, two minutes
-The cardboard box will swallow her
+The cardboard box will swallow her.
+
 Glass shattered
-Hand bloodied by it
+Hands bloodied by it
 She will achieve her quiet
-That quiet she longed for
+She longed for it
 Free from harsh words and
 		bloodshot eyes
 In the marked darkness
-Of the bottom of his box
+Of the bottom
 To come again but won't
 Resolute acquaintance
 Familiar stranger
