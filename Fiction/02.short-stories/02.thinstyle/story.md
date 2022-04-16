@@ -368,4 +368,4 @@ Vic can't stop smiling, and tears come into his eyes and a shiver rolls through 
 
 "Ah," Vic says, looking into a clear bright blue sky, the sun seated on the distant water and beach in the East.  He shoves his feet in to the sand. There are pelicans overhead. The beach is bright but cool. There is water as far as the eye can see, and only the sound is the slow, rush of waves. "Let's just go back when we damn well feel like it." Vic takes a deep breath. "And I don't care if that's never, Ray."
 
-Ray says, "Yup."v   
+Ray says, "Yup."
