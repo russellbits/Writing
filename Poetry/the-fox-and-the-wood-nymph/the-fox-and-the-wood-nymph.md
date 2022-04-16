@@ -15,27 +15,28 @@ They know many things,
 Though none big and none complete  
 
 Once, a bold young fox pushed through  
-a muse in the hedges; bored with the maze  
+a muse in the hedge; bored with the maze  
 he'd run so many times  
 And went to explore the woods  
-The sunbeams and the dark shadows  
+The sunbeams, the dark shadows  
 All new and fascinating to him  
 
 Where the maze was predictable  
-The woods were not  &
+The woods were not
 could grow cold and dark  
-And though the fox was clever  
-His white and orange coat  
-became knotted, soiled, damp  
-The woods scratched and hurt  
-And more than a few times he bled  
+And the fox while clever  
+With his white and orange coat  
+got scratched and hurt
+His fur knotted, soiled, damp    
+And more than a few times he bled.
 
 Still,
 The fox pushed on,
 further in to the woods  
 Not fearful—for the woods  
-still had more to show him  
-Miracles like snowfalls in which
+still had more to show him.
+There were miracles
+like snowfalls in which
 He danced  
 Moutaintops of granite on which  
 He pranced  
@@ -51,36 +52,38 @@ And finally came to
 A far away and high place  
 Named "Angel's Rest"  
 Where the fox could be alone  
-And slumber in the Sun  
+And slumber in the Sun.
 Clouds and sunbeams, his ceiling  
 The fox slept hard  
 and free from nightmares  
 Of the woods and the dark.
 
-And of the woods  
+And of the woods, you should know,
 There are nymphs.
-And they care deeply for the world  
-Among pixies who trick and prank  
+And they care deeply for the world.  
+Among pixies who trick and prank,
+Elves who could care less,
+Fairies who dislike you,
 The wood nymph  
 Loves the woods and  
-And all the creatures in it  
+And all the creatures in it.
 
 There was one...
-A creature of laughter
-With bright blue eyes she could
-Change the weather.
-And she knew the paths through the roots
-Even when she let it rain
-Because the trees wanted it
-She'd laugh, wet, muddied
+A creature of such laughter
+with bright blue eyes she could
+change the weather.
+& she knew the paths through the roots
+even when she let it rain
+because the trees wanted it.
+She'd laugh to herself, wet & muddy
 
 Dancing on air
-She tripped and loved the colors
-All the little flowers
-It was her design, the manifest
+she tripped and loved the colors
+all the little flowers for
+It was her design, her manifest
 To make sure the glory of creation
-Should be looked after
-Pushed a bit
+should be looked after;
+Even pushed a bit
 
 She came up a slumbering fox
 She set to cleaning and combing  
