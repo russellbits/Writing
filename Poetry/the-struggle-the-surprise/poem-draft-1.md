@@ -1,18 +1,13 @@
 ---
-title: The Struggle
+title: he Struggle/The Surprise
 alternate-title:
 source: Journal
-date: 4/11/2022
-tags: ["death","suicide","life"]
+date: 04/2022
+tags: ["death","hope","love"]
 ---
-The Struggle/The Surprise
-
-
 
 PART 1
 The Struggle
-
-
 
 Some time ago,
 I wanted to quit this game.
@@ -23,15 +18,15 @@ I love trains;
 let it end like that.
 
 But there were people who liked me
-& I called them on the phone & if they
-listened, let the tethers of friendship consume
+& I called them on the phone & listened  
+Let the tethers of friendship consume
 Let my plan  
 Go.  
 
 You can always  
 Fuck off to Patagonia, an old friend from a  
 long time ago  said to me.
-Dead now; he speaks,
+Dead now. Still, he speaks,
 "You don't seem like a man  
 Who wants to give up."  
 So, I didn't. 
@@ -42,8 +37,9 @@ Broke it all down.
 & found  
 NO Purpose,  
 NO Meaning,
-NO reason
-Wake up. Get the water. Cut the wood.
+NO Reason
+Just woke up. 
+Get the water. Cut the wood.
 Move.
 Hope the nightmares stay with the creek.
 Hope the aches will quit by noon.
@@ -55,7 +51,7 @@ You have to listen to the roots
 And your footsteps, right and left
 The painting has you in it.
 
-I worked anyway to make Life  
+I worked to make Life  
 better for that no-reason.
 Hibernation, Tired & Sad, keeps you from even a walk
 because you can sleep the season;
@@ -64,7 +60,7 @@ The pain cannot keep up with
 the day you hike ten miles
 with a heavy pack.
 
-Still you.
+You.
 Walking you.
 The weight helps.
 For bridges, for chasms,
@@ -112,7 +108,7 @@ A temple of conversation,
 just waiting to be built.
 
 This love feels like archaeology
-Old, somehow, and newly discovered.
+Old and newly discovered.
 When I'm with her
 The stars make sense
 Even though I know they've moved
@@ -120,3 +116,5 @@ But deepness gets us nowhere
 
 The mystery is
 Her laugh.
+Move those stars.
+I know she does.
