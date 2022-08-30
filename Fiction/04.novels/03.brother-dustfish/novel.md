@@ -30,7 +30,12 @@
 /19.the-plan-the-discovery.md
 /20.Onward.md
 /21.the-cullen-mountains.md
-/22.the-automatic-jungle.md
-/23.escape-from-synthetic-simians
+22.the-automatic-jungle.md
+23.escape-from-the-synthetic-simians.md
+24.frying-pan.md
+25.welcome-to-kvet.md
+26.beneath-kvet.md
+27.the-big-dig.md
+
 
 ### Part III
