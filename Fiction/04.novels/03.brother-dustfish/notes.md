@@ -11,7 +11,7 @@ https://bit.ly/3oswCW5
 + Nomex - The nomex are the most common sentient creatures in the world. However, they range in color and appearance. The nomex of the Idex Mortez tend to be dark skinned with dark hair, while the nomex of Boisneval, for instance, are tall and very thin and have very light-colored skin, pinkish to blonde to gray hair and bright blue eyes.
 + Synthoids - An ancient race of machine people, synthoid beings were constructed tens of thousands of years ago. Though synthoids possess the ability to construct others of their own kind, how synthoids function is lost to time. 
 + Myconoids - Underground dwellers, the Myconoids, without their biome, are very tall (2 meters) and very thin and haveno eyes. They grow lichen and mushrooms on themselves (referred to as their biome) for sustenance and protection.
-+ Dustmyn - Similar in size and shape to nomex, the dustmyn live on and around the Silt Sea, their capital city being Hasnasfresis, a city built on the back of a giant, ancient (long dead) silt tortoise. They are small in stature (~1 meter) and grow their hair in long, thick bushels that collect silt, protecting them both from the sun and wind on the Silt Sea. There hair is generally brown or blonde and their eyes usually gold, but they are rarely seen without significant amounts of obscuring clothing such as goggles. They are quiet and fierce.
++ Dustmyn - Similar in size and shape to nomex, the dustmyn live on and around the Silt Sea, their capital city being Hasnasfresis, a city built on the back of a giant, ancient (long dead) silt tortoise. They are small in stature (~1 meter) and grow their hair in long, thick bushels that collect silt, protecting them both from the sun and wind on the Silt Sea. Their hair is generally brown or blonde and their eyes usually gold, but they are rarely seen without significant amounts of obscuring clothing such as goggles. They are quiet and fierce.
 
 # Ideas for Later:
 
@@ -44,10 +44,9 @@ https://bit.ly/3oswCW5
 + Who are the members of the Council?
 	+ Evo
 	+ Vivian
-	+ Gabriel
+	+ Nyn
 	+ Kiokesuimas
 	+ Horr'off
-	+ 
 
 # Backstory
 
