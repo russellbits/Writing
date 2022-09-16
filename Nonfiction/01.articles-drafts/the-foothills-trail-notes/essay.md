@@ -33,7 +33,7 @@ At one of the road crossings I pass a nice couple. We stay hi. Later on, not mor
 
 [The big rock fort!]
 
-Had to stop at a random spot. It was getting to be twighlight and I just didn’t have confidence I was going to make it to [flat rock?] in time. It was here that I discovered that my propane tank did not fit my stove top. Ok. There’s something I can ditch tomorrow at a camp site. It sucks not to have a stove but I know how to boil water on a fire.
+Had to stop at a random spot. It was getting to be twilight and I just didn’t have confidence I was going to make it to [flat rock?] in time. It was here that I discovered that my propane tank did not fit my stove top. Ok. There’s something I can ditch tomorrow at a camp site. It sucks not to have a stove but I know how to boil water on a fire.
 
 I’m stopped along the trail when the couple from the road passes me again. I guess they went up the mountain and then down again. I say, “Hello again.” But they’re conversing and I get the feeling that they don’t recognize me from the road. Then, as planned, I say, “Lovely day.” And the woman responds, “Good! How are you?” I love it when protocol conversation just goes bottoms up.
 
@@ -46,7 +46,7 @@ While I’m packing, three guys with walking sticks and camel packs go whooshing
 
 Continuing along Horse Pasture road. So weird, there were cars up and down until at least 10pm. Doing what? At one point in the night I heard dogs barking which freaked me out a bit. Honestly I’m more afraid of humans in the wilderness than I am the wilderness itself.
 
-I’m sore, but not too bad. My left heal and my right toes have bothered me a lot in the last few years. But A strange thing happened when I was taking care of my cousins dogs: the more I walked the less it bothered me. I’m hoping that will be the case here. I do wish I’d thought to bring Alieve though. I have Advil and Tylenol but they’re it quite cutting it.
+I’m sore, but not too bad. My left heal and my right toes have bothered me a lot in the last few years. But A strange thing happened when I was taking care of my cousins dogs: the more I walked the less it bothered me. I’m hoping that will be the case here. I do wish I’d thought to bring Aleve though. I have Advil and Tylenol but they’re it quite cutting it.
 
 I spot a snake on the trail before I get to a nice little site, that I think at first is flat rock. It’s brown and darker brown and checkered; pretty big. There’s no easy way around it. I look to see if it has venom pockets and I can’t really tell. To my memory this is a copperhead. I decide just to throw stuff at it in the hopes that it will move on. It does not. It gets into a striking pose. Shit. I climb up the bank, clamber over a few feet and drop down on the other side of it. Idiot is still looking at where I was. I pick up a rock and throw it him for good measure and miss completely.
 
