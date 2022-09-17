@@ -29,9 +29,9 @@ https://bit.ly/3oswCW5
 
 + ~~The crew meets a thing like Nip but massive and dangerous.~~ The crew meets something like the mistakes in the Automatic Jungle.
 
-+ The crew has to make their way through a jungle of nanotechnology that tries to transform them.
++ ~~The crew has to make their way through a jungle of nanotechnology that tries to transform them.~~
 
-+ Rilla and Wacamolo show up with Arthra and stuff at the entrance to the city of Horn.
++ ~~Rilla and Wacamolo show up with Arthra and stuff at the entrance to the city of Horn.~~
 
 + Nip becomes a swarm. Arthra learns to fly (by walking on copies of Nip).
 
@@ -77,18 +77,8 @@ MOS 6581 by Carbon Based Lifeforms (off Hydroponic Garden)
 Blow Up by Floex (off Zorya)
 Romeo Alpha by David Howes
 Pbs/Kae by Tyco (off Sunrise Projector)
-Ex Machina by Aril Brikha (for the machinama leopard sequence)
-Giants by Chicane (off of Giants) — for a celebratory part of the story
-Saltwater by Chicane (off of Behind the Sun) — if they get to a body of water (or maybe the silt sea)
 All Things by The Cinematic Orchestra (off of Man with a Movie Camera)
 I'll Read You a Story by Colleen (off of The Golden Morning Breaks)
 
-Creative Commons
-"Faith" by Desperation — upbeat for some sort of chase episode
-"Beyond the Black Rainbow" by Jeremy Schmidt
-"Jetstream" by Lusine lcl (off of Language Barrier) — for some magical section?
-"Impact Moderato" by Kevin MacLeod — for meeting Cal
-"Dream Culture" by Kevin MacLeod (off of Calming) — ?
 "Harp Fragments" by Nic Bommarito
-Zoe Keating "We Insisr' GIVE UP! —BY9ND THE BRIDGE UNDERNEATH THE MOON
 
