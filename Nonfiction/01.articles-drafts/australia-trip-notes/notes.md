@@ -140,50 +140,105 @@ https://bit.ly/3S3vJhZ
 
 
 
+## Expenses
 
+Trip food:
+1. Peanuts - US $5
+2. Lifesavers - US $5
+3. Turkey Wrap - US $11
+4. Dr. Pepper - US $2
+5. Advil (10) - US $6
+6. Aldi's Smart card - AUD $5
+6. Dungog Postcards - AUD $20
+7. Woolies Groceries - AUD $40
+	8. Chicken Chips - AUD $4.30
+	9. Tools - AUD $3.50
+	10. Diet Coke - AUD $3.75
+	11. Chokito Bar - AUD $2
+	11. Blue Strawberry Milk - AUD $2
+	12. Rico Bubble Milk Tea - AUD $3
+	13. Milo can - AUD $3.20
+	14. Allen's Jubes - AUD $3.60
+	15. Lolly-go-round Musk Sticks - AUD $2.20
+	16. Sashimi Plate - AUD $12.90
+	17. Bag - AUD $0.15
+7. Woolworth's second day AUD $13.50
+	8. Rico Bubble Milk Tea (2) - AUD $6
+	9. Katsu Chicken roll (sushi) - AUD $7.50
+8. Latte at the Stack Shack - AUD $6
+9. 2nd
 
-## Actual Itinerary (Journal)
+## Journal
+
+### First leg (October 14) NYC -> LAX
+
+We were late! I'm not terribly surprised. The only thing I'm happy about is that I managed to keep my cool in the face of it.
+
+And thank you Arthur Gibson Howell. When Nicolle and I got on the plane we suddenly realized that we were no longer seated together. This was the guy, the relief pilot, who solved the logic puzzle of asking people to move until he could get us two seats together. Seriously above and beyond, Arthur. Thank you.
+
+### Second leg (October 15/16) LAX -> Sydney
+
+The flight was 15 hours and change and I guess there was a lot of feeling beforehand that it was going to be quite harrowing but I didn't find that to be the case at all really. We slept. I took 4 ibuprofen, a valium and put some pain-killing homeopathic slather on my hand and while there is just always pain these days, I found it to be well within the realm of what's tolerable.
+
+### First day in Newcastle (October 17)
+Right at Nicolle’s folks house, the Lorikeet calls were wild!
+Met Nicolle’s parents; had a lunch of chicken “schnitzel” with an apple vinegar salad and potatoes. Dessert was a lemon yogurt cake with ice cream.
+Went for a walk with Nicolle’s Dad to Aldi’s to get a SIM card, get Nicolle some Diet Cokes and the paper.
+We also stopped in at “the Club” (Mex) and checked it out—kind of like a private mall.
+We stopped at the guy who has a chicken coop and a garden at the corner of their street. The guy just smiled and said Hello—not totally different from a character in "The Castle"
+For real, Men at Work “Who Can It Be Now” is playing over the speakers right now while I am watching a cricket match. [Eye roll]
+
+### Second day in Newcastle (October 18)
+
+Two words: Bin Chickens
+Furphies?
+
+We walked around and got some weird snacks including chicken flavored chips. Nicolle says everything is chicken flavored, which being a vegetarian, she doesn't necessarily care for. However, her mother told her when she was young, "Nicolle, they just wave a chicken over it for flavor. There's no chicken in it."
+
+### Third day in Newcastle (October 19)
+
+Went for a walk in the morning (7am) and saw more lovely birds, including a Black-faced Cuckooshrike. And then, a little later on in the Aldi's parking lot, I finally saw my first bin chicken!—crossing the street no less!
 
 ## General Info
 Capital One Confirmation code: H-SYFABG
 
 Delta Confirmation code: HNN8XL
 
-### Flight Info
-
-
-
 ## Packing List
 
 ### Backpack
-+ Masks!
-+ Power converter
-+ Board shorts
-+ 7 pair underwear
-+ 7 pair socks
-+ 6 t-shirts
-+ 2 long sleeve
-+ 2 button-ups
++ ✅ Masks!
++ ✅ Power converter
++ ✅ Board shorts
++ ✅ 7 pair underwear
++ ✅ 7 pair socks
++ ✅ 6 t-shirts
++ ✅ 2 long sleeve
++ ✅ 2 button-ups
 + 
-+ Boots
-+ Sandals
++ ✅ Boots
++ ? Sandals
 
 ### Carry-on
-+ Masks!
-+ Laptop
-+ iPad
++ ✅ Masks!
++ ✅ Laptop
++ ✅ iPad
 + Chargers
-	+ Fitbit
-	+ iPhone/iPad
-	+ laptop
-	+ headphones
-+ Compression socks
-+ Extra Glasses, Frame covers & croakies
-+ Zip-loc bag of pickles
+	+ ~~Fitbit~~
+	+ ✅ iPhone/iPad
+	+ ✅ laptop
+	+ ✅ headphones
++ ✅ Compression socks
++ ✅ Extra Glasses, Frame covers & croakies
++ ~~Zip-loc bag of pickles~~
++ "Bletchley Park"
++ "Bliss Montage"
 
 ### Wear
-+ Dress shoes
-+ Compression socks
-+ Most comfortable pants?
-+ Passport
-+ Mask
++ ✅ Dress shoes
++ ✅ Compression socks
++ ✅ Most comfortable pants?
++ ✅ Passport
++ ✅ Mask
+
+Note to self—should have brought my solar panels! I should get them out of storage and keep them with the pack. Very handy
