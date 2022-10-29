@@ -36,6 +36,7 @@
 25.welcome-to-kvet.md
 26.beneath-kvet.md
 27.the-big-dig.md
+28.to-war.md
 
 
 ### Part III
