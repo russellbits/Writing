@@ -28,6 +28,9 @@ Quode
 Quodecraft
 : The art of constructing things out of the nanosphere. For something to do more than be a repetitive machine, it requires a Qubit.
 
+Macrobots
+: Namely, Nip, Po and Ka.
+
 Nanosphere
 : The tiny machines that exist everywhere in the world, in the air that can be used to manipulate the physical nature of the world as well as construct macrobots.
 
@@ -130,7 +133,9 @@ Ern - Dustmyn notions for hours.
 
 + Wacamolo tells a story about bees and one bee who thought he had free will.
 
-+ What is Gef's story? Was Gef Enki's assistant? Is that why he chose to forget?
++ The signal from the Texo Compass is intercepted and pulls the crew to Sultana Nur Waya. The city has been overtaken by Cal, Gef's "brother" a synthezoid who worked for Enki and is attempted to build an escape from the world and the Shattering. He thinks Enki was right that eternal growth over sustainability is paramount. He also believe that Enki didn't go far enough. He plans to completely destroy the Obtala and use the Ultracircus as a raft to get to the next realm. He's not evil, but like Thanos, his plan is misguided. He has Horr'off locked up.
+
++ What is Gef's story? Who was Gef working for? Is Wacamolo more than he lets on—like Fizban?
 
 + The villain of this story did what he did out of love; he didn't mean for the destruction to happen. But so long as its happened, he sees it as progress. We now know that he did it to find some infinite energy source.
 
@@ -149,8 +154,6 @@ Ern - Dustmyn notions for hours.
 + Nip becomes a swarm. Arthra learns to fly (by walking on copies of Nip).
 
 + Baron Leocadia sends bounty hunters after the crew.
-
-+ A con man joins the group
 
 + The crew acquires a fighter of some kind. Do they free a mechanoman?
 
