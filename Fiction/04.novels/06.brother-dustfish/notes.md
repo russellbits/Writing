@@ -124,6 +124,39 @@ Xistra
 KlckClck
 Horr'off
 
+## Character Arcs
+
+The story circle (see below) is pretty spelled out for Able, but I need to think harder and insert the same for the other characters. Right now, Wacamolo is there to support the others and sort of be a father figure to Rilla, but what really is his own story? He's a mystic as opposed to a scientist and that should play a greater role in the story.
+
+### Able
+1. Able lives in the desert, content to do as his father wishes and look after his sick mother.
+2. He loves, what he calls his mistakes, autonomous programs that he created with the help of his mother.
+3. He is discovered by his father and banished from the only home he knows.
+4. He is told by Ghendra that he must find the Ultracircus. He tries to deny this only to discover that his mother has died.
+5. He meets people along the way and inspires them. His deontological stance sways people and even inspires those who might be considered "evil".
+6. He pays a price for this several times. Cal puts him in a new body that he hates. He may also seem to die during the repair or reboot.
+7. He goes back to the Idex Mortez? He could return in a symbolic sense.
+8. Now he is a programmer of the world?
+
+### Gef
+1. Gef is a trader in the badlands. He is disguised and safe so long as he keeps moving.
+2. He knows he has forgotten a lot. He may be thousands of years old. He is looking for the Cyclo(pedia) to perhaps give him his memory back.
+3. He runs into Able, a synthezoid child. And Able can program. This, he knows, is really strange and he decides to try to protect Able and his automata.
+4. He has to protect Able in lots of clever ways because he does not believe in using violence. He would rather run than fight.
+5. He gets ahold of the Cyclo at the Ultracircus and uses it and Po to have his memory returned, but it is devastating because he discovers he played a significant role in the Shattering.
+6. This causes him to want to destroy himself.
+7. With Able's help, he is able to see that they can build the world anew. But the reboot costs him his life, which is thinks is just.
+8. There is no 8. for Gef.
+
+### Wacamolo
+1. An old man of Kinton Station; he is considered the wisest and most knowledgable in the area.
+2. He is old and doesn't feel that he has seen enough of the world. The only way to truly learn more is go out into the world with Able and Gef.
+3. Traveling with Able and Gef puts Wacamolo in danger. Because he is old and frail, he cannot fight, but he can use his knowledge from time to time to give the group an advantage.
+4. His mysticism must be challenged.
+5. His search is to create a tome similar to that of Remory's pre-shattering work.
+6. Cal intends to ramp up the Shattering and destroy the world.
+7. When the council is reformed, he is asked to be the sage and historian of a brand new world.
+8. Wacamolo has changed in that he understands that since mysticism lacks the rigor of science, it can lead down a dark path.
 
 ## Time
 
