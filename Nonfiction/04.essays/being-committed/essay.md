@@ -20,7 +20,15 @@ He smiled. We both chuckled. "We look young." He said with the comforting smooth
 "Well, Thanks."
 "We got the gray but we look young."
 
+Melieke was slightly shorter than me but might not be if he didn't hunch over so much. He would hold his left hand on the back of his head and rub it back and forth to his forehead over and over again while he emitted this grumbling sing-song rap. It had a wandering melody to it; it was gravelly too though. I could never understand any of it. We spent hours and hours together in that sparse white room and I could never understand him. When he spoke, it was a miracle.
 
+I'd catch a piece now and then. It seemed to me like he was repeating some oral history to himself. I could hear refrains some times. And now and then it would crescendo from a low mumble to a full-voiced, even shouting moment. "I *said* I don't *care* if she says it ain't got that *what* don't need no dolla' for!" Then he would drop out again, mumble-singing.
+
+Now and then you'd hear something like "stab a bitch" but other than that first night with him I was never worried about my safety. If anything, I was worried about him. After seeing him eat out of the trash can in our room for the first time I could sense that some tragedy had occurred. Eating out of the trash takes a certain amount of will—though I will tell you, I have made the calculations, I suppose. Getting through life can be difficult.
+
+I'm thankful for Melieke. My first night in the asylum was terrifying. They poked me, prodded me, gave me drugs I didn't want and then put me in a dark room with a man who was screaming at the top of his lungs. Melieke mumbled at night. Now and then he shouted. Did I? I don't think I did. But then, there was no one ever of a mind to tell me if I did.
+
+Melieke
 
 August 13
 
