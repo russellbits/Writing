@@ -78,6 +78,6 @@ for Measurement is God.
 Life is a fall and not a place...
 ...a dynamic and not a status...
 a passing and not remembrance.
-This New Death knows.
+This New Death already knows.
 Fear not the cloak of his obscurity,
 your creation is light.
