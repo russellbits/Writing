@@ -20,8 +20,7 @@ Your mind goes from tool to that time that... that...
 but the history is gone as soon as it dawns in your mind
 So you shake your head,
 wonder if you're cracking up
-the moment you saught... or forgot.
-What were you looking for?
+the moment you saught... or fo,rgot.What were you looking for?
 
 this quiet we’ve come to suspect
 That barely known of what
@@ -76,4 +75,4 @@ the fall will seem infinite
 but know that
 while looking for a handhold
 the leap is better and will not be safe.
-It's a cliff that not-dreaming.
+It's a cliff that not-dreaming.oo
