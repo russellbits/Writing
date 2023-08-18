@@ -16,20 +16,20 @@ Stay a while with me
 When security is
 A distant dream
 And the past comes
-Undone, by its seams
+Undone, it still seams
 When upon a shoulder
 You must lean
 Stay a while with me
 
 For though rivers run
-And leafs will fall
+And leaves will fall
 You must climb past
 Your protective wall
 Look for friends
 Through it all
-And a while with me
+And in the while with me
 
-In the end, a friend
+At the end, a friend
 Is what I'll be
 So stay a while
 Right here, with me
