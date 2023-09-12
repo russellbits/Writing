@@ -1,5 +1,8 @@
+# Russell Warner's Timeline
+
 1975
-	New Providence, NJ
+	Born
+	Summit, NJ
 	
 	Birth, Summit Hospital
 
@@ -33,6 +36,8 @@
 	The olympics in Atlanta
 	The infamous olympic women's soccer game with TKE
 1997
+August 4
+First web site launched
 	[?] 995 Oconee St. Athens, GA 30605
 1998
 	[?] Worked at Connexus/Shodor
