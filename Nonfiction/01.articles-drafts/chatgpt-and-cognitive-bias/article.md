@@ -1,6 +1,14 @@
+---
+Consider also the Dunning–Kruger effect.
+---
+
 # ChatGPT and Cognitive Bias  
 
-## Large Language Models (LLMs) like ChatGPT have been a boon of productivity for many, but many experts have warned of the shortcomings of these machine learning applications. Experts say these programs can "hallucinate" and can be misguided when it comes to saying things about "humanness". An unfortunate blindspot of many of these critiques is that many experts fail to draw parallels to human thinking. Humans hallucinate, make up explanations for things that are patently fictional narratives, have false memories, and possess cognitive biases. A more beneficial conversation would center on how can we use AI to help us overcome our shortcomings in reasoning, while we benefit AI with our particular domain of knowledge.
+## Large Language Models (LLMs) like ChatGPT have been a boon of productivity for many, but experts have warned of the shortcomings of these machine learning applications; namely, they can fall short of human reasoning. This is a misdirected critique of LLMs, because most people misunderstand human reasoning.
+
+The critiques of LLMs have ranged from these programs can "hallucinate" or make up facts to they can be misguided when it comes to saying things about "humanness"
+
+An unfortunate blindspot of many of these critiques is that many experts fail to draw parallels to human thinking. Humans hallucinate, make up explanations for things that are patently fictional narratives, have false memories, and possess cognitive biases. A more beneficial conversation would center on how can we use AI to help us overcome our shortcomings in reasoning, while we benefit AI with our particular domain of knowledge; this so-called "humaness".
 
 I believe this line of thinking, of looking toward an intelligence symbiosis, encourages us to pose a question: since  LLMs are trained on human-generated data, do they in turn also posses cognitive biases?
 
