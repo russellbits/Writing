@@ -1,4 +1,4 @@
-# I Am Not a List of Software Packages
+# I Am Not a List of Keywords or Software Packages
 
 There is a significant disconnect going on between professionals and those that want to hire them. The world is growing more and more technical and fractured with regard to technology. What used to be a skill, for instance "illustration," now must be encapsulated as Adobe Creative Suite or Sketch or Figma. One of the top ten skills searched for (according to Ziprecruiter) is "MS Office." What is this meant to indicate? That you can write, or understand good data visualization or that you can write interesting scripts inside Excel? How do we, as professionals, get through to our potential clients and hirers that we are more than the software that we use?
 
@@ -23,3 +23,8 @@ These are skills, not acronyms.
 Writing alone—the idea of creating a narrative—is insanely complicated and video game designers fail at it constantly.
 
 [^1]: If anybody out there gets this reference, *please* email or find me on twitter. I got good at *pixel*-based illustration with Comicworks. Anyone? Bueller?
+
+## Notes
+- Application track software is the software that looks through your resume for keywords, missing skills,
+- Should you write a resume for each job. The Cost -benefit analysis would be?
+- ATS Suggestions
