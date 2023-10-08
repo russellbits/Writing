@@ -40,9 +40,10 @@
 29.leaving-kvet.md
 30.siltstone.md
 31.the-silt-sea.md
-32.skimming-the-eye.md
-33.sultana-nur-waya.md
-34.a-new-able.md
+32.rogoue-wave
+33.skimming-the-eye.md
+34.sultana-nur-waya.md
+35.-new-able.md
 
 
 ### Part III
