@@ -1,4 +1,4 @@
-# Writing, R. E. Warner
+# Writing, Russell Warner
 I don't know if it's the footlocker stacked to the brim with spiral-bound notebooks, staring at me and waiting to catch fire or get soaked, or if it's that I'm on my something-like eighth laptop, but it's time to centralize my writing—all of it, as much of it as I can find.
 
 Why? Why not? I suppose philosophically—abstractly—I recognize that everything is temporary. All art will ultimately be destroyed. Even if we escape this little rock of ours, I doubt most of our artifacts will survive our Sun becoming a red giant or the heat-death of the universe. Maybe they will if they’re digital. Maybe beyond the smallest dimensions of space, where gravity spirals into nothing, there is a giant github repository where all information about the universe and its progress is digitally stored in bits of existence and nonexistence.
