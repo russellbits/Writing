@@ -1,0 +1,17 @@
+---
+title: Session 6
+taxonomy:
+    category: sessions
+---
+
+Wow. That felt really good. That felt like I was doing something about this situation! What I did, Rausch, was I went and I bought a .357 Smith & Wesson.  Bullets, too, Rausch. One of them has your name on it, you understand? You don't want to allow the police to be involved? Fine. Let's not involve the police. I don't mind in the least.[^6]
+
+The guy who sold me the gun—name's Herb of all names—told me that you didn't have to be an expert to use the .357. It's just point and fire. It doesn't even have a hammer that you cock. You just point and pull the trigger. They had a little gun range in the back of the store and I took it back there and fired a few rounds into the targets. I don't know what you look like Rausch but I have to tell you that it was very appropriate that the targets were just dark black silhouettes. I can't think of you as anything but a demonic shadow that snuck into my house an upturned my life. That's going to change today.
+
+I've never felt anything like it. The recoil is amazing. I couldn't even keep my eyes open the first few times I fired it. It's louder than anything I think I've ever heard and we were wearing ear protection. It's cold, too. It's the coldest feeling metal when it's in your hand. I have it sitting here on my desk and it just looks utterly foreign to me. Amongst my usual pens and books and papers, it just looks out of place. And yet, it is comforting. I keep reaching out to hold it. I pop open the whatchamcallit chamber and look through the holes, spin it and snap it back into place. There's a really satisfying *clink* when the chamber fits back into the body of the gun. It's solid.
+
+I've never been around guns. I mean, in scouts, when I was a kid (so far long ago I can barely remember) we shot off .22s and some of the bigger kids were allowed to shoot shotguns. I'm pretty sure I did, but I honestly don't remember. This pistol is just so different though. There's so much energy in this tiny little package.
+
+So... that makes three hundred ninety words today, Rausch. That brings me to a total of somewhere around the five thousand that you demanded. Now, I'm coming for you.
+
+[^6]: Detective Smythe called this morning. He asked if I could come down to the station to answer more questions and maybe establish an alternate line of communication with Rausch. Besides telling the Detective that whatever I wrote Rausch was going to read, I had to make excuses about coming down to the station. I told him that the Fall Break Monday was reserved for all-day faculty meetings and that as upset as I might be, I had to go to work. I told him I could come in tomorrow for as long as he liked. He capitulated, but he definitely didn't like it. I don't know what else to tell him though. I removed the page from the ransom package that had instructions about the five thousand words every three days and how the drop offs were going to work. It was merrily title "Dropping Off Assignments" in big Times New Roman. Prick. Whatever, I have to handle the drop off today by myself. I didn't wait this long to not get my hands around Rausch's throat myself. He's not going to court for this.
