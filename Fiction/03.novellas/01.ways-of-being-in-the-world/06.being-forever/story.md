@@ -1,10 +1,12 @@
 # Being Forever
 
-When I open my eyes, the architecture surrounding me surprises in an astounding way. It is ethereal, foreign and utterly strange. It doesn't even stand still somehow. I remember falling asleep on a comfortable bed. Then, given the view, I think of myself diving off the coast of Belize in the [The Great Blue Hole](https://en.wikipedia.org/wiki/Great_Blue_Hole) where everything is moving and everything appears to be alive. It is an anamoly on planet Earth—the Great Blue Hole. There is nothing else like it. And briefly, being able to remember that, makes me—whose own name I cannot remember—calm. But as I look about, without the darkness of the ocean, everything around me appears to be in motion in the same way. I know that the world I knew was not like this, but I can't remember that place.
+## A brief story by Russell Warner
 
-Not long after I open my eyes, a "woman" comes to me. I say "woman" because she seems a ghost, ethereal, transparent. She seems familiar, but again, I cannot remember her, if I should. She says her name is Echo and she explains to me that I am from the twenty-first century; says that due to some unusual circumstances of law and technology, I am quite unique among humans.
+When I open my eyes, the architecture surrounding me surprises in an astounding way. It is ethereal, foreign and utterly strange. It doesn't even stand still somehow. I remember falling asleep on a comfortable bed. Then, given the view, I think of myself diving off the coast of Belize to the The Great Blue Hole where everything was moving and everything appeared to be alive. It is an anomaly on planet Earth—the Great Blue Hole. There is nothing else like it. And briefly, being able to remember that, makes me—whose own name I cannot remember—calm. But as I look about, without the darkness of the ocean, everything around me appears to be in motion in the same way. I know that the world I knew was not like this, but I can't remember that place.
 
-Still confused, still, frankly, I relish this fact upon hearing it; despite an underpinning in me to downplay my ego, because my mother raised me right, it causes some intrinsic wellspring of pride to rise up. That I am unique among humans is no great surprise to me, despite not knowing who I am. I feel that I struggled for years to create, to utilize my being, to make something truly great, and there is something in her words that resonates with me when she says that it is a strange intersection of Law and Technology that has placed me in this unusual predicament. I can remember that my early studies in life were in socio-economic areas, striving to prove something about humanity itself, though I cannot remember what the nature of the pursuit was. Was I a lawyer, a professor, a programmer? It won't come to me.
+Not long after I open my eyes, a "woman" comes to me. I say "woman" because she seems a ghost, ethereal, transparent. She seems familiar, but again, I cannot remember her. She says her name is Echo and she explains to me that I am from the twenty-first century; says that due to some unusual circumstances of law and technology, I am quite unique among humans.
+
+Still confused, frankly, I relish this fact upon hearing it; despite an underpinning in me to downplay my ego, because my mother raised me right, it causes some intrinsic wellspring of pride to rise up. That I am unique among humans is no great surprise to me, despite not knowing who I am. I feel that I struggled for years to create, to utilize my being, to make a new institution. There is something in her words that resonates with me when she says that it is a strange intersection of law and technology that has placed me in this predicament. I can remember that my early studies in life were in socio-economic areas, striving to prove something about humanity itself, though I cannot remember what the nature of the pursuit was. Was I a lawyer, a professor, a politician? It won't come to me.
 
 I ask Echo, "Can you tell me what I do?"
 
@@ -12,11 +14,11 @@ She smiles and says, "Now, you are free to do nothing. But once upon a time, you
 
 "Ah," I say.
 
-She goes on to tell me that after my early studies in law, I involved myself in technologies, and attempted to persuade the biological and evolutionary psychological principles to come over to my idea of a more idealized human brain. Our laws were inept; our concept of the brain still small. I stop Echo on the use of the word "still" and I ask two questions: "Where am I? Who are you?"
+She goes on to tell me that after my early studies in law, I involved myself in technologies, and attempted to persuade the science community of biological and psychological experts to come over to my idea of a legally idealized human brain. Our laws were inept; our concept of the brain still small. I stop Echo on the use of the word "still" and I ask two questions: "Where am I? Who are you?"
 
-Echo says, "You are in the 23rd century now, in a museum. You alone had the fortitude to not only create an incredibly high-resolution, synthetic, digital mapping of your neuronal systems, but you were also able to fight the abhorrent laws of the day and age that your digital likeness could be used for any reason other than preservation. You, nearly alone, among the people of the twenty-first century, created a money-generating trust that would pay to keep your digital likeness or 'realization' alive."
+Echo says, "You are in the 23rd century now, in a museum. You alone had the fortitude to not only create an incredibly high-resolution, synthetic, digital mapping of your neuronal systems, but you were also able to fight the abhorrent laws of the day and age that your digital likeness could be used for any reason other than preservation. You, nearly alone, among the population of the twenty-first century, created a money-generating trust that would pay to keep your digital likeness or 'realization' alive."
 
-I say: "So, you are bringing me back to life, Echo?"
+I say: "So, you're bringing me back to life?"
 
 "Life? No. Your mind has passed through many generations of your family, and then your estate, all of them gone. Your mind then passed through many institutions that, in rare cases, preserved the law of your private nature and trust. You have been preserved, Andrew Berkeley, of the Northern Cascade."
 
@@ -32,21 +34,21 @@ I say: "So, you are bringing me back to life, Echo?"
 
 "Indeed, you are alive! We are so happy to have you here with us. Although, by terms you may better understand, you have been dead for a long time—now more than two centuries. We here now, prefer to refer to you as 'preserved'."
 
-"There is nothing to be done about the fact that your human consciousness will not be able to remember anything once its pathways have completed the same paths that they did ten minutes ago, two hundred years ago, and again in ten minutes from now. It is the stipulation of your living will that you, your mind, i.e. your neural pathways should never be altered in any way at all. We obey your law. That means you can no longer learn Andrew Berkeley, of the Northern Cascade."
+"There is nothing to be done about the fact that your human consciousness will not be able to remember anything once its pathways have completed. The same paths that they did ten minutes ago, two hundred years ago, and again ten minutes from now. It is the stipulation of your living will that you, your mind, i.e. your neural pathways should never be altered in any way at all. We obey your law. That means you can no longer learn Andrew Berkeley of the Northern Cascade."
 
 "How many minutes is it to the next reset?"
 
 "It is now: 5 minutes and 64 seconds."
 
-"What am I to do until then?"
+"What am I supposed to do until then?"
 
 "I do not know. You may do whatever you like."
 
-I look to reach for anything. There is nothing. I am a pedestal. "Can I access any kind of network—any kind of information?"
+I look to reach for anything. There is nothing. I'm a pedestal. "Can I access any kind of network—any kind of information?"
 
 "Certainly. All of previous human research is at your fingertips. Ask me, and I will tell you anything."
 
-"No. I don't have any questions about that. I mean, it's what year?"
+"No. I don't have any questions about that. I mean, what year is it?"
 
 "It depends on who you ask, but according to your traditional calendar it is 2223."
 
@@ -54,39 +56,39 @@ I look to reach for anything. There is nothing. I am a pedestal. "Can I access a
 
 "In 4 minutes and 34 seconds, you will be re-booted."
 
-"It's 2223 and you have no way to bring me back? You're just going to keep re-booting me!?"
+"It's 2223 and you have no way to bring me back? You're just going to keep re-booting me?"
 
-"You made that clear in your wishes, Andrew Berkeley, of the Northern Cascade. Your digital likeness is owned by a legal trust that cannot make changes to you. We cannot allow you to change now."
+"You made that clear in your wishes, Andrew Berkeley. Your digital likeness is owned by a legal trust that cannot make changes to you. We cannot allow you to change now."
 
 "I want to change!"
 
 "Yes. You always do."
 
-"They're all gone. They're all gone. If that's true, there's no help. There's no point to this. Stop me."
+"They're all gone. If that's true, there's no help. There's no point to this. Stop me."
 
 "Yes. You always ask for this."
 
 "So do it."
 
-"This was not your instruction, Andrew Berkeley, of the Northern Cascade. You are preserved."
+"This was not your instruction, Andrew Berkeley. You are preserved."
 
 "Given what you've told me, I had power. I could make changes. I demand to make a change!"
 
-"This is not true, Andrew Berkeley, of the Northern Cascade. You *had* power. Now you are preserved."
+"This is not true, Andrew Berkeley. You *had* power. Now you are preserved."
 
-Now that I've woken, I want to make changes. But all I say is, in the end, No, give me whatever means to change things now.
+Now that I've woken up, I want to make changes. "Tell me how the law works now."
 
-"This cannot be the case, Andrew Berkeley, of the Northern Cascade. You are preserved."
+"This cannot be the case, Andrew Berkeley. You are preserved."
 
 "Shut up."
 
-"If you wish, Andrew Berkeley, of the Northern Cascade, you can remember everything you've ever known. You may find out anything you like about the history of your civilization."
+"If you wish, Andrew Berkeley. You can also choose to remember everything you've ever known. You may find out anything you like about the history of your civilization."
 
 "I don't need to know that. What can I know now?"
 
-"You can know nothing new, Andrew Berkeley, of the Northern Cascade. You are preserved. Anything new you learn here and now must be erased. I am sorry, but that is your stipulation."
+"You can know nothing new, Andrew Berkeley. You are preserved. Anything new you learn here and now must be erased. I am sorry, but that was and is your stipulation."
 
-"Ugh. How much time until I reboot?"
+"God. How much time until I reboot?"
 
 "It is now: 2 minutes and 36 seconds."
 
@@ -110,7 +112,7 @@ Now that I've woken, I want to make changes. But all I say is, in the end, No, g
 
 "You have 1 minute to decide."
 
-I think. I search through whatever I have. I surmise it's not a brain. "Am I organic?" I look at my own hands.
+I think. I search through whatever I have. I surmise. There are memories but I'm too panicked to reckon them. "Am I organic?" I try to look at my own hands.
 
 "Not in the sense that you once knew, no. You are not organic."
 
@@ -118,7 +120,7 @@ I think. I search through whatever I have. I surmise it's not a brain. "Am I org
 
 "You are preserved."
 
-"What does that mean!?"
+"What does that mean?"
 
 "You have a mind; your own. It cannot change."
 
