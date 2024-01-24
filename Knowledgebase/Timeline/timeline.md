@@ -1,17 +1,20 @@
 # Russell Warner's Timeline
 
 1975
-	Born
-	Summit, NJ
-	
-	Birth, Summit Hospital
+	September 22
+	Residence: Summit, NJ
+	Event: Birth, Summit Hospital
 
 1976
+
 1977
+
 1978
+
 1979
 
 1980
+
 1981
 1982
 1983
@@ -24,20 +27,24 @@
 
 1990
 1991
+	Residence: La Jolla, CA
 	[?] Year in San Diego
 1992
+	Residence: Winston Salem, NC
 1993
-	Graduation from North Carolina School of the Arts
+	Event: Graduation from North Carolina School of the Arts
 	
 1994
+	Residence: UGA Dorms, Athens, GA
+	
 
 1995
 1996
 	The olympics in Atlanta
-	The infamous olympic women's soccer game with TKE
+	Event: The infamous olympic women's soccer game with TKE
 1997
-August 4
-First web site launched
+	August 4
+	Event: First web site launched
 	[?] 995 Oconee St. Athens, GA 30605
 1998
 	[?] Worked at Connexus/Shodor
@@ -47,16 +54,16 @@ First web site launched
 	101 West 82 St, Apt 1A NY, NY  10024 (roommate Joe Clancy)
 	Wrote the short plays "The Gift of Passage" and "Spoon"
 New Year's Eve Cat and Anthony and I and a number of other people get a cabin "up north" and have a party, the likes of which I have not seen before or since. It was epic. I fell into a K hole! Thank the Gods for Anthony—he dragged me out of the stars.
+
 2000
+
 2001
-
-		The Dotcom bust
+	March
+		Event: The Dotcom bust
 		Getting out of Xceed
-		Met Amy at the pink slip party
-		
-		[?] Privatelabs
-
-    September 11
+		Event: Met Amy at the pink slip party
+		Employment: Privatelabs
+    Event: September 11
 
     
     
@@ -76,17 +83,34 @@ New Year's Eve Cat and Anthony and I and a number of other people get a cabin "u
 2013
 2014
 2015
+	Residence: Pine Street, Portland, OR
+	
 2016
+	Residence: Walking Liberty, Portland, OR, Mar 2016 - June 2020
+
 2017
+
+
 2018
+
+
 2019
+
+	
 2020
+	Residence: Grove Loop, June(?) 2020 - June 2021
 
 2021
-	
 	January
-    Held up in house after the attack on the US capital.
-
+	Event: Held up in house after the attack on the US capital.
+	Residence: 414 Woodridge Rd., June 2021 - April 2022
+	
+2022
+	Residence: 1801 Dorchester, April 2022 - August 2023
+	
 2023
 	April
-	Trip to Montreal
+	Trip to Montreal, April-August
+	Residence: 414 Woodridge Rd., August - Present
+
+2024
