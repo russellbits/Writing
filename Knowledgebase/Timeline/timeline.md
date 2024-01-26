@@ -101,16 +101,31 @@ New Year's Eve Cat and Anthony and I and a number of other people get a cabin "u
 	Residence: Grove Loop, June(?) 2020 - June 2021
 
 2021
+	Residence: 414 Woodridge Rd., June 2021 - April 2022
+	
 	January
 	Event: Held up in house after the attack on the US capital.
-	Residence: 414 Woodridge Rd., June 2021 - April 2022
+	
 	
 2022
 	Residence: 1801 Dorchester, April 2022 - August 2023
 	
+	April 12 - April 19
+	Event: Visited with Nicolle
+	
+	May 31
+	Sent Mike home after moving
+	Newark to Atlanta
+	United 2113
+	
 2023
+	Residence: 414 Woodridge Rd., August - Present
+
 	April
 	Trip to Montreal, April-August
-	Residence: 414 Woodridge Rd., August - Present
+
+	August 25
+	Flight from Montreal to Charlotte
+	American Airlines 5350
 
 2024
