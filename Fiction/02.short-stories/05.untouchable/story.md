@@ -1,3 +1,25 @@
+---
+Title: Untouchable
+Notes:
+Nicolle Bradford:
+	Untouchable notes
+
+		+	“Doll face” confuses the era of the story. The story is not set in the 1930s
+	Agreed—if it was me saying it, it would make sense.
++	Else is wearing a dress with the pattern designed by Jason’s robots
++	AWESOME
+Huh? Jason always refers to the backyard tub as his fishpond
+Huh? Chinese guy either says the line, “Hey wife! I sell notha' cheap, dumb fish to stupid, white man!" in English, or the line is scrapped.
+	◦	Where are they when they buy the fish? Walking down the street, at a market, inside a shop, at a cafe, looking at all the bowls of fish at a Chinatown sidewalk stall? 
+	◦	If you can’t catch the fish, how did he get it in the bowl?
+	◦	“I didn’t catch it, it jumped in on its own because it’s magic”
+	◦	All the online comments are responding to Elsa’s Instagram post of her wearing the dress at the opening scene.
+	◦	Are the comments what triggers Elsa’s disappearances and pill taking?
+	◦	Move scene where Elsa rings Jason from a bar to Jess’s place or somewhere intimate where they are hanging out. Makes it clear that he is choosing Jess over Elsa in this instance.
+	◦	Elsa needs a connection to the fish
+	◦	Why/how are Jason and Jess friends? 
+---
+
 # Untouchable
 
 The flash bulbs snap and pop like flamenco dancers on bubble-wrap and every flash is as blinding as the Sun, each one a translucent tile in a luminous mosaic aquarium being thrust up around them—the walls of which shift about them so fast that it makes Jason dizzy and a little ill.  He holds on to her hand like an anchor.  Her—his?—Tall, blond German goddess—caught by means completely unknown to him (he suspects it might be the fish).  From somewhere behind them the sound of girls' screaming voices mixes in with the low hoots of men, both of which sound simultaneously thrilling and threatening.  All he can think in the rush and din and light and gold and red and speckled chaos is that he has no business in the firing line of such intensity, and after a moment that seems like forever, the photographers let him know it.
