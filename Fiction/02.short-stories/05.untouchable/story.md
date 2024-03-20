@@ -1,24 +1,24 @@
----
++++
 Title: Untouchable
 Notes:
 Nicolle Bradford:
-	Untouchable notes
+Untouchable notes
 
-		+	“Doll face” confuses the era of the story. The story is not set in the 1930s
++	“Doll face” confuses the era of the story. The story is not set in the 1930s
 	Agreed—if it was me saying it, it would make sense.
-+	Else is wearing a dress with the pattern designed by Jason’s robots
++	Elsa is wearing a dress with the pattern designed by Jason’s robots
 +	AWESOME
 Huh? Jason always refers to the backyard tub as his fishpond
 Huh? Chinese guy either says the line, “Hey wife! I sell notha' cheap, dumb fish to stupid, white man!" in English, or the line is scrapped.
-	◦	Where are they when they buy the fish? Walking down the street, at a market, inside a shop, at a cafe, looking at all the bowls of fish at a Chinatown sidewalk stall? 
-	◦	If you can’t catch the fish, how did he get it in the bowl?
-	◦	“I didn’t catch it, it jumped in on its own because it’s magic”
-	◦	All the online comments are responding to Elsa’s Instagram post of her wearing the dress at the opening scene.
-	◦	Are the comments what triggers Elsa’s disappearances and pill taking?
-	◦	Move scene where Elsa rings Jason from a bar to Jess’s place or somewhere intimate where they are hanging out. Makes it clear that he is choosing Jess over Elsa in this instance.
-	◦	Elsa needs a connection to the fish
-	◦	Why/how are Jason and Jess friends? 
----
++ Where are they when they buy the fish? Walking down the street, at a market, inside a shop, at a cafe, looking at all the bowls of fish at a Chinatown sidewalk stall? 
++ If you can’t catch the fish, how did he get it in the bowl?
++	“I didn’t catch it, it jumped in on its own because it’s magic”
++	All the online comments are responding to Elsa’s Instagram post of her wearing the dress at the opening scene. YES
++	Are the comments what triggers Elsa’s disappearances and pill taking?
++	Move scene where Elsa rings Jason from a bar to Jess’s place or somewhere intimate where they are hanging out. Makes it clear that he is choosing Jess over Elsa in this instance.
++	Elsa needs a connection to the fish
++	Why/how are Jason and Jess friends? 
++++
 
 # Untouchable
 
