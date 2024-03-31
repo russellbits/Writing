@@ -1,15 +1,7 @@
-+++
+---
 Title: Untouchable
 Notes:
-Nicolle Bradford:
-Untouchable notes
-
-+	“Doll face” confuses the era of the story. The story is not set in the 1930s
-	Agreed—if it was me saying it, it would make sense.
-+	Elsa is wearing a dress with the pattern designed by Jason’s robots
-+	AWESOME
-Huh? Jason always refers to the backyard tub as his fishpond
-Huh? Chinese guy either says the line, “Hey wife! I sell notha' cheap, dumb fish to stupid, white man!" in English, or the line is scrapped.
++ Huh? Chinese guy either says the line, “Hey wife! I sell notha' cheap, dumb fish to stupid, white man!" in English, or the line is scrapped.
 + Where are they when they buy the fish? Walking down the street, at a market, inside a shop, at a cafe, looking at all the bowls of fish at a Chinatown sidewalk stall? 
 + If you can’t catch the fish, how did he get it in the bowl?
 +	“I didn’t catch it, it jumped in on its own because it’s magic”
@@ -18,11 +10,13 @@ Huh? Chinese guy either says the line, “Hey wife! I sell notha' cheap, dumb fi
 +	Move scene where Elsa rings Jason from a bar to Jess’s place or somewhere intimate where they are hanging out. Makes it clear that he is choosing Jess over Elsa in this instance.
 +	Elsa needs a connection to the fish
 +	Why/how are Jason and Jess friends? 
-+++
+---
 
 # Untouchable
 
-The flash bulbs snap and pop like flamenco dancers on bubble-wrap and every flash is as blinding as the Sun, each one a translucent tile in a luminous mosaic aquarium being thrust up around them—the walls of which shift about them so fast that it makes Jason dizzy and a little ill.  He holds on to her hand like an anchor.  Her—his?—Tall, blond German goddess—caught by means completely unknown to him (he suspects it might be the fish).  From somewhere behind them the sound of girls' screaming voices mixes in with the low hoots of men, both of which sound simultaneously thrilling and threatening.  All he can think in the rush and din and light and gold and red and speckled chaos is that he has no business in the firing line of such intensity, and after a moment that seems like forever, the photographers let him know it.
+The flash bulbs snap and pop like flamenco dancers on bubble-wrap and every light from all the cameras are as blinding as the Sun. Every shot is a translucent tile in the luminous mosaic wall of an aquarium being thrust up around them—the brilliance of which shifts so fast that it makes Jason dizzy and a little ill. He holds on to her hand like an anchor—her tall, blond German goddess hand—caught by means completely unknown to him (he suspects it might be the fish). While he clings, she shines. She flips her dress, covered in his paint, flips her hair. The dress is saturated in his printing robots’ tracks and colors from all over the rainbow. Somehow, she seems proud. He feels embarrassed—an imposter.
+
+The gargoyles with the cameras, shout at her.
 
 "Could we just get one of you, Elsa?
 
@@ -30,31 +24,31 @@ The flash bulbs snap and pop like flamenco dancers on bubble-wrap and every flas
 
 "Could you step aside, sir?"
 
+All he can think in the rush and din and light and gold and bejeweled chaos is that he has no business in this firing line of such intensity. After a moment that seems like forever, he hears the paparazzi’s message and goes to step aside, only she won’t let go of his hand.
+
 "Elsa!  Just one of you, honey!"
 
 "Elsa!"  
 
-"Work that dress, dollface!"
+"Work that dress, Elsa!”
 
-The strobe light effect stops time as she turns slow and looks at him with sorry hazel eyes.  Not that she's sorry she has to ask him to step aside. She knows he could care less.  She just seems sorry for the world.  He leans in close and smiles, "C'mon.  Fuck 'em."  He shrugs.  "Let's just go in."
+The strobe light effect stops time as she turns slow and looks at him with sorry hazel eyes. And she won’t let him go. He goes to leave, but she holds on to his hand.  She's sorry she has to ask him to step aside. She knows he could care less.  She is sorry for this world.  He leans in close and smiles, "Fuck 'em."  He shrugs.  "Let's just go."
 
-But she will not refuse them, and she has only to close her bronze and glittered eyelids in exhaustion to let him know.  He steps aside for the pack to take their photos, each one calling for her to look at them—just them.  With his hands in his pockets he tries to take in all the glamour and elegance so alien to him, but his mind is built to a mirror and he can feel her growing pain.  And Jason worries that they are going to take her from him, because she should never have been his in the first place.  He just looks on as she gives the cyclops a look of utter contempt.  Once he would turn to Page 6 and think that "the look" was so coy, merely ennui.  But now he can see that she hates them.
+But she will not refuse them, and she has only to close her bronze and glittered eyelids in exhaustion to let him know. He steps aside for the pack to take their photos, each one calling for her to look at them—just them. With his hands in his pockets he tries to take in all the glamour and elegance so alien to him, but his mind has always been built as a house of mirrors and he can feel her growing pain. He worries somewhat that they are going to take her from him, because she should never have been his in the first place. He worries more that they will take her from herself.
 
-Then, this melancholy Freya is again putting her arm in his and dragging him toward the entrance to the gallery, and he thinks they really do both feel lighter without the weight of all those stares.  Making their way inside to the coat check, they drop off her jacket and she reaches out to grab the lapel of the three-button, single-breasted Monaco suit coat she bought for him just for the occasion.  He is sheepish as she makes her unnecessary adjustments, and she beams at him and says, "Why so blue, panda bear?" to which he cannot help but laugh out loud'—the fear clouding his face blasted away.
+Seconds later, poses thrown, smiles granted, this melancholy Freya is again putting her arm in his and dragging him toward the entrance to the gallery. Making their way inside to the coat check, they drop off her jacket and she reaches out to grab the lapel of the three-button, single-breasted Monaco suit coat she bought for him just for the occasion.  He is sheepish as she makes her unnecessary adjustments, and she beams and says, "Why so blue, panda bear?”—to which he cannot help but laugh out loud—the fear clouding his face blasted away.
 
 "C'mon," she says, "Drinks!"
 
-She walks through the crowd like Venus on surf as the bodies part so that party guests can gorge their eyeballs.  He jingles behind her like an accouterment, smiling like an idiot.  They get to the bar that is three people deep but she somehow appears up front and the bartender is taking her order.  *I love the beautiful people*, thinks Jason.  *Good God I'd hate her guts if she wasn't with me*.  She shoves a dry Gray Goose martini in his hand.  "I will make you sophisticated if it kills you."
+She walks through the crowd like Venus on surf as the bodies part so that party guests can gorge their eyeballs. He jingles behind her like an accouterment and smiling like an idiot.  They get to the bar that is three people deep but she somehow appears up front and the bartender is taking her order.  *I love the beautiful people*, thinks Jason.  *Good God I'd hate her guts if she wasn't with me*.  She shoves a dry Gray Goose martini in his hand.  "I will make you sophisticated if it kills you."
 
 * * *
 
-    jarhead3
-    alt.gossip.celebrities
-    Subject: Elsa Finch
-    12th July 2004 10:21:23 pm
+    @jarhead
+    19th March 2022 10:21:23 pm
     What a cockwhore!  Elsa Finch is so disgusting!  She's a nasty bag of bones and she
     just just starve her stupid self to death so maybe she can finally fit in those gawdy
-    fashion outfits
+    fashion outfits like that piece of shit garbage dress she had on at the thmetro.
 
 * * *
 
@@ -64,29 +58,25 @@ The old man holds the fish bowl out, his arms extended,
 
 "Oh, I couldn't," Jason says.  
 
-"Yes. Vehy specia'. Bing you specia' happy ruck."  
+"Yes. Vey specia’. Bing you specia' happy luck."
 
 "Special luck, huh?"  
 
-Bringing the fish bowl back under his arm, the old man leans in conspiratorially.  
+Bringing the fish bowl back under his arm, the old man leans in conspiratorially. "This specia' fish it... magic."  
 
-"This specia' fish it... magic."  
-
-"It's magic."  
+“Magic?“
 
 From behind him, Jason hears Jess, his best friend, let out a giggle.  
 
-"No, no. Magic fish. You listen, see. I have maaaaany cats. No cat catch this fish. No cat."  
+"No, no. Magic fish. You listen, see. I have maaaaany cats.” The shopkeep waves his arm wide. There are indeed a lot of cats in the shop. “No cat catch this fish. No cat eva’.”
 
-"Cats can't catch this fish?"  
+"Cats can't catch this fish?" Jason asks.
 
-Jess mumbles, "It's almost a tongue twister."  
+Jess mumbles, "It's almost a tongue twister."
 
-"No! Nothing catch! He magic. See?" The old man holds the bowl out to Jason. "You try catch!"  
+"No! Nothing catch! He magic. See?" The old man holds the bowl out to Jason. "You try catch!"
 
-Yeah right, he thinks, like he's gonna' stick his hand in a fish bowl and look like a moron because he can't catch a stupid fish trapped in a fish bowl. "No, no. I believe you." 
-
-To Jess, "It'd be fun to put it in the tub."  
+“I think... I, well... I believe you." Then, To Jess, "It'd be fun to put it in the tub."  
 
 Jess laughs, "Ye-ah! That'd be cool."  
 
@@ -100,13 +90,13 @@ Jason thinks. "Twelve dollars."
 
 "Twelve."  
 
-"Hokay. You lucky man now. He bring you gooood luck."  
+"Hokay. You lucky man now. It bring you gooood luck."
 
 "Awesome!" shouts Jess.
 
-The old man hands Jason the bowl with care. Jason, in turn, hands it to Jess and gets out his wallet. In his genuine excitement the old man says, "You listen.
+The old man hands Jason the bowl with care. Jason, in turn, hands it to Jess and gets out his wallet. In his genuine excitement the old man says, "You listen:
 
->When carp strong enough to swim up waterfall, it get wish and become dragon. This is legend."  
+> When carp strong enough to swim up waterfall, it get wish and become dragon. This is legend."  
 
 "Oh. Okay." 
 
@@ -116,7 +106,7 @@ When Jess and Jason get outside, Jess holds up the bowl and stares at the fish.
 
 "Hey wife! I sell notha' cheap, dumb fish to stupid, white man!"
 
-"Okay, okay. That's racist, Jess."
+"That's a little racist, Jess."
 
 "They always too stupid to put hand in bowl and test no-catch theory!"
 
@@ -124,24 +114,40 @@ When Jess and Jason get outside, Jess holds up the bowl and stares at the fish.
 
 "It's just like you to go out for a garden ornament and end up with a fish."
 
-"Whatev!"  
+"Whatev!"
 
-"Okay. So let's go to lunch."  
+"Okay. So let's go to lunch."
 
-"Sounds good."  
+"Sounds good."
 
-"But not down here. I don't wanna' eat in Chinatown."  
+"But not down here. I don't wanna' eat in Chinatown."
 
-"Well, then let's just drop the happy lucky magic fish off at my place and eat up there."  
+"Well, then let's just drop the happy lucky magic fish off at my place and around there."
 
-"Happy lucky *special* magic fish."  
+"Happy lucky *special* magic fish."
+
+Jason looked at the afternoon sky of Manhattan and remembered a wilderness. “You remember building that fishing weir?”
+
+Jess nodded. “That was an amazing couple of weeks.”
+
+Jason held the fish bowl up to his face. “It’s weird to think that all of New York City is just a giant fishing weir.”
+
+“Oh God.” Jess rolled her eyes back. “You’re so deeeeeep.”
+
+“You don’t know what I mean.”
+
+“Yes I do. You’re sooooo deeeeep. All of the world is a trap for souls! I listen to Sting too, dummy.”
+
+Jason talks into the concrete: “That’s not what I meant.”
+
+Jess pauses, knowing her overpowering nature, “Then what?”
+
+“*This fish*. I mean, where’s it from? And it’s going to end up in my back yard. How did New York City catch it? The guy says it can’t be caught, but it’s ”
 
 * * * 
 
-    asmodeus
-    alt.gossip.celebrities
-    Subject: Elsa Finch
-    12th July 2004 10:42:12 pm
+    @asmodeus
+    19th March 2022 10:42:12 pm
     She kind of looks like a cheap hooker.  I would watch a porn flick that she made.  I'm sure there are a lot of them floating around.
 
 * * * 
