@@ -10,7 +10,7 @@ What fortress walls we tore down
 With our covenant of kisses
 What mercy depths we dove in
 To find illumination
-We could show the world
+That could show the world
 How to love
 By screaming "Let go! Let go!"
 What desire... what passion
