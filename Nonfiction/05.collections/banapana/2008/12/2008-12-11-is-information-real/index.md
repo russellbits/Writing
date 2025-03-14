@@ -1,0 +1,31 @@
+---
+title: "Is Information \"Real\""
+created: 2008-12-11
+categories: 
+  - from-its-to-bits
+tags: 
+  - chaos
+  - cosmicfingerprintscom
+  - id
+  - information
+  - intelligent-design
+  - patterns
+  - perry-marshall
+authors: 
+  - banapana
+---
+
+I ran into a site the other day, \[Cosmicfingerprint.com\](http://www.cosmicfingerprints.com/ifyoucanreadthis.htm), and as you might guess from the URL itself, it appears to be a defense of the "theory" of intelligent design.\[^1\] At any rate, a gentleman named Perry Marshall on that site makes some interesting arguments on behalf of the idea of intelligent design that he claims prove God's existence. I was interested in what he had to say, since it appeared to be a novel argument, but unfortunately, it suffers from one very critical flaw: information is not real.
+
+> Codes, however, do not occur without a designer. Examples of symbolic codes include music, blueprints, languages like English and Chinese, computer programs, and yes, DNA. The essential distinction is the difference between a pattern and a code. Chaos can produce patterns, but it has never been shown to produce codes or symbols. Codes and symbols store information, which is not a property of matter and energy alone. Information itself is a separate entity on par with matter and energy.  
+> \---Perry Marshall
+
+I see where Mr. Marshall is coming from and I think it is an enormous misconception that largely stems from \[Claude Shannon\](http://en.wikipedia.org/wiki/Claude\_Shannon)'s \[Information Theory\](http://en.wikipedia.org/wiki/Information\_theory). This semantic problem is so embedded in current scientific language that wikipedia even has it wrong in the very first sentence: "Information theory is a branch of applied mathematics and electrical engineering involving the quantification of information." I'm working on a much more deep analysis of this, but suffice it to say, in brief here, that information does not exist without cognition. There is \*data\* "out there" in the universe, but that statement is vastly different from saying that information is "out there." Information is the transform of some physical entity like a photon into a perception like color. Data, when contextualized, becomes information. There is no information "out there"---that information in the world could be quantified without any cognitive interpretation or context. It is simply not a standalone entity on par with matter and energy the way that Mr. Marshall would have us believe. It is a relationship between matter and energy. It is a construct, a configuration, dependent on energy. Mr. Marshall, for all his intelligence, doesn't seem to recognize that the universe is rapidly moving towards disorder, not order. Hm. Maybe he thinks God is dying.
+
+He goes on (in the \[mp3 you can download\](http://cosmicfingerprints.com/if\_you\_can\_read\_this\_god\_exists.mp3) from the page) to say that DNA is information not unlike the code that's sent around the internet, but this, too, is a mistake. If it were truly information like that on the Internet then we would have a very clear understanding of what DNA does and how it does it. As it stands now, we are only just beginning to explore that realm after having completed the \[Human Genome project\](http://www.ornl.gov/sci/techresources/Human\_Genome/home.shtml). In fact, the DNA is \*data\*, it is a thing that can be perceived, counted and measured, and we are extracting entirely new information from it. Once again, information does not exist outside of cognition. There was no information in DNA before humans worked out what it did. In fact, there's no information in DNA now; the information is in all our heads. We're not sure what \*that\* structure is, but it is probably some kind of network of potential electrical charges.
+
+\[Cellular automata\](http://en.wikipedia.org/wiki/Cellular\_automata) can be used to easily show that some patterns are chaotic while some repeat quite reliably. Even numbers repeat, prime numbers seem to pop up without pattern. This does not in any way indicate that one pattern is information while the other one is not. \*None\* of these patterns, repeating or otherwise, contain information without context. Until I tell you that 0 means false and 1 means true, then the string 00101010 has no meaning for you, no information. And even if I told you they meant true or false, true of what? A quote from the web site, says, "Information theory shows us why this is so: In communication systems, Random Mutation is exactly the same as noise, and noise always destroys the signal, never enhances it." As well, in his lecture, he uses music as an example of something that is designed. But listen to \[generated music\](http://tones.wolfram.com) and you'll find that it is music, but it's not designed at all.
+
+I think this clarification will seem picky at times, but I've come to see that it has extraordinary consequences in my own field, cognitive psychology. We humans, have still really not come around to the idea that we exist on a spectrum of cognition. We are really only the latest in a long line of animals (alive and extinct) that have had and do have the ability to perceive, process and predict. There's nothing magical about that, no need for a deity to explain it. Once a creature has some mode of perception and a few neurons, that creature has developed a powerful adaptation that literally sets it (it's brain) apart from its environment; things become thinking-things. And that shift doesn't require a distinction between patterns and design or noise and information. The universe is data. Sometimes we get it, sometimes we don't. But that never indicates the existence of information "out there" because information is always in your head.
+
+\[^1\]: I feel I should explain that those scarequotes around theory are not intended to denote sarcasm. It's just that in science, for something to be considered a theory, it needs to be disprovable. You need to be able to show that a theory could be false. The more a theory \_\_can't\_\_ be proven it wrong, the more evidence you have in favor of it. The strongest theories have lots of evidence but are still capable of being wrong. I've yet to read an explanation of the "theory" of intelligent design that explains how it would be possible to disprove the theory.

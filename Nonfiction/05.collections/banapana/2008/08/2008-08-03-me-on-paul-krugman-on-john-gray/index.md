@@ -1,0 +1,20 @@
+---
+title: "Me On Paul Krugman on John Gray"
+created: 2008-08-03
+categories: 
+  - the-hivemind
+authors: 
+  - banapana
+---
+
+\[Update 10-18-2008: Further in, I also take into account Krugman's recent Nobel prize as well as Robert Reich's "Supercapitalism."\]
+
+I have found that a common error in the critiques that economists proffer (especially those of the Chicago school of thought) is to hone in on small portions of concepts (tiny in fact), analyze that single point, and then dismiss the whole of an argument. Call it particularism or maybe just throwing the baby out with the bathwater. I feel that way about \[Paul Krugman's\](http://web.mit.edu/krugman/www/gray.html) review of \[John Gray's False Dawn\](http://banapana.com/uncategorized/false-dawn-by-john-grey).
+
+To summarize Krugman's review, his take if twofold: one, John Gray has not done a good enough job substantiating his arguments with facts, and two, John Gray has pointed to a problem that does not actually exist while offering no solution to the problem within the bounds of the text. To Krugman's first point, I will largely concede. Gray's work is hardly an economic text technically and has a lot to do with law. But in so far as an examination of the history of regulation with regard to lazzez-faire style government non-intervention, Gray offers a substantial and eye-opening history that is considered such a standard and known history of western industrialization it hardly needs to be plagued with a rash of footnotes.
+
+Gray's work is a diatribe, a long introduction to an idea that not many people are talking (still). To that end, look at how \[this article\](http://www.time.com/time/business/article/0,8599,1828069,00.html) in Time speaks of capitalism as some kind of homogeneous entity or concept. Gray's overall point is that there are many different \*species\* of capitalism, and that not all of them resemble the Western concept. Moreover, to quote my \[previous explanation\](http://banapana.com/uncategorized/false-dawn-by-john-grey) "Social market economies (socialist regimes) are driven "out of business" by world markets that allow for corporations to seek and find cheap labor, areas where regulations are lax. Here again, the problem of these social market economies is now exacerbated by the fact that have fewer Keynesian remedies with which to protect their laboring populations. Impose too much protection and the capital just goes somewhere else." I think this same point has begun to appear in other texts, such as Robert Reich's "Supercapitalism." And some real world examples exist as well, such as when Secretary of the Treasury, Henry Paulson, was pretty much forced to change his stance on capitalizing banks, not by the Congress, but by the British. In short, so many of the large financial firms that took a hit here in the US were so widely spread globally that this crisis spread quickly to other shores. What all the governments did together mattered more than what any in particular did. And now, many of the governments of the European Union are looking \[to establish global regulation\](http://news.yahoo.com/s/ap/20081017/ap\_on\_re\_eu/eu\_meltdown\_new\_economic\_order\_1)--a kind of \[Bretton Woods\](http://news.yahoo.com/s/ap/20081017/ap\_on\_re\_eu/eu\_meltdown\_new\_economic\_order\_1) 2.0.
+
+Despite his support for regulation---even global financial regulation---Krugman doesn't address this point in Gray's book, the major point of the book, once in his review. Should anyone look past the labor practices of companies like Nike in Vietnam to not see the intuitive persuasiveness of an argument like this?\[^1\] Yes, it is more essay than academic paper, but that doesn't mean that there isn't a valid point in saying that handing over the legal reins to global corporations is a bad idea. Krugman does not once in his article address the key term "species of capitalism," and this to me, implies that he missed the point.
+
+\[^1\]: In order to see more examples of this (many, may more) one need look no further than Naomi Klein's \[No Logo\](http://banapana.com/uncategorized/book-review-no-logo)
