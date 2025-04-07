@@ -49,3 +49,7 @@ Among the best of commenting systems, the champion has to be Reddit. From day on
 [Need a portion here about the Twitter tree phenomenon and the idea that the interface is bad.]
 
 https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308
+
+## Tools
+
+https://www.youtube.com/watch?v=YcGBmBFQ810&t=157s
