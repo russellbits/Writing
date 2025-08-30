@@ -7,7 +7,7 @@
 ### Part 1
 
 01.meet-able.md
-02.able-is-exciled
+02.able-is-exiled.md
 03.wandering-in-the-desert.md
 04.meet-ghendra.md
 05.meet-gef.md
