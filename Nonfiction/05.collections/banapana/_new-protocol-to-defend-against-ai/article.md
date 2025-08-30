@@ -10,19 +10,21 @@ At the heart of this essay is network protocols. I will be talking about protoco
 </iframe>
 </div>
 
-For the sake of brevity, and in order to borrow some language from architecture, let’s think of these protocols as buildings. If you need to publish a file for the world to see, then hand someone a file at the HTTP. They will put it at an address connected to one or many computers where anyone can dial up the address of the file (a Universal Resource Locator or URL) and see the file. Anyone can even see the request for the file as it is transmitted. If the file gets passed out of the HTTP to a bike messenger, most anyone can stop the messenger and demand to see what’s in the messenger’s bag. And if it’s an essay or an article, you, as the author, probably wouldn’t mind. If it’s your bank statement; different problem.
+For the sake of brevity, and in order to borrow some language from architecture, let’s think of these protocols as buildings. If you need to publish a file for the world to see, then hand someone a file at the HTTP. They will put it at an address connected to one or many computers where anyone can dial up the address of the file (a Universal Resource Locator or URL) 
 
-Enter the HTTPS. The S is for Secure. Anything transmitted by the HTTP gets locked—the bike messenger’s bag gets locked. Whoever requested the file can see it; no one can stop the bike messenger and investigate. This seems like a good development. Anyone can publish anything and if they simply want to transmit private information, there’s a protocol for that. Accept, all of these services are provided for free. Other than paying your internet service provider, who are you paying for access to Google?
+Anyone can even see the request for the file as it is transmitted. If the file gets passed out of the HTTP to a bike messenger, most anyone can stop the messenger and demand to see what’s in the messenger’s bag. And if it’s an essay or an article, you, as the author, probably wouldn’t mind. If it’s your bank statement; different problem.
 
-You may have noticed that when you go to `http://google.com`, you don’t just go there. It’s gets switched to `https://google.com`.  You can test this by typing `http://google.com` into your browser and then hovering your mouse over the address in the browser. It will now say `https`—the S is for secure. It means that your next search inquiry will not be available to anyone but Google.
+Enter the HTTPS. The S is for Secure—no joke. Anything transmitted by the HTTP gets locked, encrypted—the bike messenger’s bag gets locked. Whoever requested the file can see it; no one can stop the bike messenger and investigate. This seems like a good development. Anyone can publish anything and if they simply want to transmit private information, there’s a protocol for that. It’s just that, all of these services are provided for free. Other than paying your internet service provider, who are you paying for access to Google?
 
-
+You may have noticed that when you go to `http://google.com`, you don’t just go there. It’s gets switched to `https://google.com`.  You can test this by typing `http://google.com` into your browser and then hovering your mouse over the address in the browser. It will now say `https. It means that your next search inquiry will not be available to anyone but Google.
 
 Who is paying for the file delivery and the locks for the bike messengers? You, the reader of this very article? Nope. You are reading this for free. That simple fact has a number of implications. I think we can all agree that nothing is really free.
 
 > “If the product is free, then the product is you.” [^1]
 
-The web created an amazing renaissance of creativity by establishing a worldwide digital platform on which anyone (with access to a computer server) could post or say anything they wanted—all piggy-backed on those who owned the network, the hard drives, and the servers. Therein lies the problem that is going to arise with artificial intelligence. Right now, so-called “artificial intelligence” companies have to maintain their stock values based on investment because they aren’t making money off of the likes of you and me. They are beginning to realize that they need you use you and me as the product, as demonstrated here:
+The web created an amazing renaissance of creativity by establishing a worldwide digital platform on which anyone (with access to a computer server) could post or say anything they wanted—all piggy-backed on those who owned the network, the hard drives, and the servers.
+
+Therein lies the problem that is going to arise with artificial intelligence. Right now, so-called “artificial intelligence” companies have to maintain their stock values based on investment because they aren’t making money off of the likes of you and me. They are beginning to realize that they need you use you and me as the product, as demonstrated here:
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%">
 <iframe
