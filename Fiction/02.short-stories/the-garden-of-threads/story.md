@@ -80,7 +80,7 @@ I confessed that actually I had not thought about these things. I had only thoug
 
 The monk shrugged, “Or you could adopt.”
 
-I chuckled because this was true and I could see a new geometry. I turned to him and squinted, “Do you suppse your thread will end... I mean... somewhere else in time and space.. but here?” I pointed down at the ground.
+I chuckled because this was true and I could see a new geometry. I turned to him and squinted, “Do you suppose your thread will end... I mean... somewhere else in time and space.. but here?” I pointed down at the ground.
 
 “Probably not right here,” he said and pointed at the same place as me. He contemplated that spot for a moment. Okay, *maybe* right there. “But it is true my thread has become very smooth and loops and loops like a sine wave multiplied. Through this temple, my thread has been woven into a rope. It may—my thread—end here. I don’t know. You decide to leave our meditations. Something compels you. I never know when but sometimes I suspect it before it happens. Perhaps one day I will feel that compulsion. I haven’t felt it yet in many years. I like my long, smooth wave.”
 
