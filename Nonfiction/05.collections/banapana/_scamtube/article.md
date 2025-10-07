@@ -1,4 +1,6 @@
-# Youtube = Scamtube
+# Scamtube
+
+It used to be the case that for advertising to be shown on television, it had to advertise a real product
 
 	+ The Talking Heads Ads of Youtube (and Max Headroom)
 	+ What Max Headroom got right deserves its own article.
