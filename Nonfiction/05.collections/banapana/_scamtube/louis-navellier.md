@@ -1,0 +1,10 @@
+My report to Youtube (though not in full—I had to cut it at line 1)
+
+This ad claims to be from Louis Navellier who claims that he is aware of a new technology that could be "1,000 times more powerful than AI." According to what unit, what measure? What technology that is not AI could be conceivably better than AI, when AI is an umbrella term that covers dozens of machine learning projects. Louis Navellier and his investment firm Navellier & Associates have a documented history of being charged by the U.S. Securities and Exchange Commission (SEC) for fraud related to false and misleading performance claims. Specifically, from 2010 to 2013, Navellier and his firm misled clients about the performance track record of their "Vireo AlphaSector" investment strategies, falsely claiming that client assets had been live-traded in these strategies since 2001 when they had not. The SEC found these claims to be overstated and materially false, and Navellier and his firm were ordered to disgorge over $22 million plus penalties. They were also found to have acted with recklessness or intent to defraud. Navellier & Associates sold the Vireo business in 2013 instead of correcting the misrepresentations or informing clients about conflicts of interest. This case was upheld on appeal.
+
+King of the Quants? He’s a known quantity, that’s for sure.
+https://www.globenewswire.com/news-release/2023/10/08/2756383/0/en/Louis-Navellier-AI-Advantage-AI-Breakthrough-Event-The-New-Intelligence-by-TradeInvestNow-com.html
+
+https://www.perplexity.ai/search/i-feel-strongly-that-https-sec-C.O2lmByQgCJs3ZQtFOvcQ#0
+
+https://secure.investorplace.com/?cid=MKT846455&eid=MKT849719&gad_source=2&gad_campaignid=23053096521&wbraid=ClkKCAjw3aLHBhBbEkkAmX3MNjOYdHvUJ3KCfGqcvRho7wpSziVxhK9yq4TuquY_aLKsNVnJ42uH-zcyXEo7GXgDT76-ViOAXSnGLyE0EuQlYnGhYp76GgJe0w&assetId=AST378356&page=1
