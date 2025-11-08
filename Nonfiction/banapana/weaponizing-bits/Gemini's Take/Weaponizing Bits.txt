@@ -1,0 +1,55 @@
+# Weaponizing Bits
+
+---
+Title: Whither Apple Intelligence?
+Date: 27-03-2025
+Tags: AI, Apple, Help, Launchpad, Siri, support
+---
+
+The Cost of a Ghost in the Machine
+
+It all began with the price tag. Back in 1995, Nicholas Negroponte, ever the visionary, recounted the absurd spectacle of declaring his laptop at customs. The agents valued the atoms—the plastic and circuitry—at a meager $2,000. Negroponte, rightly, valued the bits—the papers, the unreleased code, the knowledge—at a million or two. What they missed, he argued, was that the value of goods was shifting from the material to the digital.
+
+We overlooked the bits then, and we’re still overlooking them now. But the cost has changed. When bits went commercial, they disrupted the price of goods. When bits went to war, they began disrupting the cost of human life.
+
+Your original piece, written when drones were still mostly big, remotely-piloted R/C planes, pointed out that the bits of war had achieved two key disruptions: the de-localization of conflict via drones and the disintermediation of manufacturing via 3D printers. We could kill from anywhere, and soon, we could print the weapon itself without specialized knowledge. That was the dawn of our post-cognitive sovereignty.
+
+But today, dear reader, we’ve moved past the remote control and the desktop factory. We are no longer discussing whether a soldier is a pilot or a gunsmith. We are discussing whether a soldier is required at all.
+
+The Cool Medium of Homicide
+
+McLuhan, a great man whose ideas are now perpetually misquoted in TED talks, told us that all media are extensions of our bodies. A gun extends our arm; a jet extends our legs and lungs. But the drone, as you observed, extended our ability to kill into a cool, chemically-calm medium. It was a digital visor that stripped the stimuli from the fight-or-flight response. You could commit homicide from a climate-controlled bunker in Nevada while listening to a podcast. The medium made warfare easier.
+
+This detachment was, however, just training wheels. The war in Ukraine has become a grand, brutal proving ground, and the newer research confirms what we suspected: the autonomous system has arrived.
+
+The conflict now features true killer robots—drones capable of tracking and engaging enemies without human interaction. They are not merely an extension of the soldier; they are an amputation of the moral and cognitive burden of killing. You no longer need to see the whites of their eyes; you don't even need to be the one to press the button. The machine makes the final decision.
+
+The Chauffeur Has Taken the Wheel
+
+Recall the argument: 3D printing makes knowledge irrelevant. Why learn how to build a firearm when the CAD file, the bit of knowledge, can be transferred and instantiated instantly? The value shifts entirely to the bullet itself. The message of the 3D printer medium was that possessing knowledge is less important than having access to it.
+
+The autonomous AI on the battlefield is the logical, chilling conclusion to this pattern.
+
+If the 3D printer eliminated the need for the gunsmith's knowledge, the autonomous drone eliminates the need for the pilot's judgement. Consider the AI-powered machine gun that can spot and target an enemy but still needs a human to authorize the firing. This fragile, bureaucratic firewall is exactly the kind of unearned optimism we avoid here at Banapana. It is a feature, not a permanent constraint.
+
+We see the creep in devices like the dog-like autonomous robot, BAD One, used for stealthy reconnaissance and resupply. While currently limited to scouting, China has already demonstrated similar technology equipped with a machine gun and capable of combat. The Extended Metaphor is complete: the military is not just giving us a "bicycle for the mind"—as Steve Jobs so optimistically put it—they are handing us the keys to a self-driving, gun-toting chauffeur, who is fully licensed to speed through ethical red lights on your behalf.
+
+The question of who controls your thinking (cognitive sovereignty) becomes disturbingly literal when we outsource the final, most consequential human decision. The value of a life is now the value of a bug fix.
+
+The Turn: Tech-Washing the Abyss
+
+This is where the snark turns bitter. The research notes that the sheer brutality of war—the human beings up to their knees in mud—is being tech-washed by portraying the conflict as one fought mainly by software and robots.
+
+This is a familiar bubble pattern, isn't it? Just like the dot-com mania made us believe we were all getting rich on ideas, this AI mania convinces us we can wage war cleanly, ethically, and remotely. It's a collective delusion where the only thing that matters is the code running the show. And what is the function of the code? To kill.
+
+We are seeing AI deployed not just in the battlefield, but in the surveillance and aftermath, too—facial recognition technology from U.S. companies like Clearview being used to identify and trace Russian soldiers. This is the surveillance capitalism turn in its most militarized form: the tracking technology developed for ad optimization and consumer engagement is now being used to build dossiers for war crimes prosecution. It’s all just data, isn't it? Just different end users, different monetization strategies.
+
+The Unsettling Landing
+
+The original article landed on the idea that the ease of making weapons, facilitated by the rapid dissemination of bits, ultimately leads to the devaluation of human life.
+
+Today, that cost has dropped to zero. It is now a function written in Python, not a conscious choice made by a person wrestling with their primal fight-or-flight system. We may be saving the lives of the soldiers controlling the robots, but we are paying the price by forfeiting the human right to moral consequence. We have effectively amputated our own conscience.
+
+McLuhan’s ghost must be nodding, perhaps sadly, perhaps with a wry grin. The message of the autonomous medium is that we are no longer needed for the most grievous human act. The capacity for mass killing has now become the easiest, cheapest, and most technologically elegant feature we’ve ever engineered. And like a fool with too many apps on his iPhone, we’re too busy staring at the new interface to realize we just handed our existential sovereignty to an algorithm.
+
+We wanted a bicycle for the mind; we got a self-driving assassin.
