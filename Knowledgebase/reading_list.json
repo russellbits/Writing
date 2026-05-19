@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "title": "Society of the Mind",
+      "category": "Research"
+    },
+    {
+      "title": "Theo of Golden",
+      "category": "Entertainment"
+    },
+    {
+      "title": "Comedy Bang Bang",
+      "category": "Entertainment"
+    },
+    {
+      "title": "Hypermedia Systems",
+      "category": "Learning"
+    }
+  ]
+}
