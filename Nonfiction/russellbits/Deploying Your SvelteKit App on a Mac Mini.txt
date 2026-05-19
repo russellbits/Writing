@@ -1,0 +1,58 @@
+# Deploying Your SvelteKit App on a Mac Mini: 
+# A Developer's Field Guide to Home Hosting
+
+## TL;DR
+[Quick summary of what we're doing and final result]
+
+## Why Host at Home? (And Why Maybe You Shouldn't)
+[Context on when this makes sense]
+
+## Requirements
+- Hardware: Mac mini specs
+- Software: Node.js, Git, etc.
+- Network: Fiber connection, router access
+- Knowledge level: What you need to know
+
+## Preparation Phase
+### 💣 Understanding Your Network
+- Static vs Dynamic IP
+- Port forwarding basics
+- ISP restrictions to watch for
+
+### 💣 Security Considerations
+- Exposing your home network
+- SSL/HTTPS requirements
+- Basic hardening
+
+## The Build: Preparing Your SvelteKit App
+### Choosing the Right Adapter
+### Build Configuration
+### Environment Variables
+
+## The Setup: Mac Mini Configuration
+### Node.js Installation
+### PM2 Process Management
+### 💣 macOS-Specific Gotchas
+
+## The Gateway: Reverse Proxy Setup
+### Why You Need a Reverse Proxy
+### Caddy vs Nginx (and why we chose X)
+### SSL Certificate Magic
+
+## The Connection: Making It Public
+### Router Port Forwarding
+### Dynamic DNS Setup
+### Testing External Access
+
+## Monitoring and Maintenance
+### Keeping Your App Alive
+### Log Management
+### Updates and Deployment
+
+## What We Learned
+[Retrospective of gotchas and wins]
+
+## Is This Production-Ready?
+[Honest assessment]
+
+## Resources and Next Steps

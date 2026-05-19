@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Hyperweb: A Guidance Document — Outline</title>
+  <style>
+/* =====================================================
+   Outline Template — iA Writer
+   Harmonic serif typography with cascading indentation
+   ===================================================== */
+
+html {
+    color: #1a1a1a;
+    background-color: #f9f7f4;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-text-size-adjust: 100%;
+}
+
+html.night-mode {
+    color: #d8d2c8;
+    background-color: #1c1a17;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.document {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 3rem 2rem 6rem;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.3;
+    margin: 0 0 2.2rem 0;
+    padding: 0;
+    color: inherit;
+    letter-spacing: 0.01em;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 0.75rem;
+    margin-left: 0;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.35;
+    margin: 2rem 0 0.2rem 0;
+    padding: 0;
+    color: inherit;
+    letter-spacing: 0;
+    margin-left: 0;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.4;
+    margin: 0.8rem 0 0.15rem 0;
+    padding: 0;
+    color: inherit;
+    margin-left: 1.8em;
+}
+
+h4 {
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.45;
+    margin: 0.6rem 0 0.1rem 0;
+    padding: 0;
+    color: inherit;
+    margin-left: 3.6em;
+}
+
+h5 {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.5;
+    margin: 0.5rem 0 0.1rem 0;
+    padding: 0;
+    color: inherit;
+    margin-left: 5.4em;
+}
+
+h6 {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.5;
+    margin: 0.4rem 0 0.1rem 0;
+    padding: 0;
+    color: inherit;
+    opacity: 0.75;
+    margin-left: 7.2em;
+}
+
+p {
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 0.3rem 0 0.6rem 0;
+    color: inherit;
+}
+
+h1 + p { margin-left: 0; }
+h2 + p { margin-left: 0; }
+h3 + p { margin-left: 1.8em; }
+h4 + p { margin-left: 3.6em; }
+h5 + p { margin-left: 5.4em; }
+h6 + p { margin-left: 7.2em; }
+
+h2 ~ p:not(h3 ~ p):not(h4 ~ p):not(h5 ~ p):not(h6 ~ p) {
+    margin-left: 0;
+}
+
+html.night-mode h1 { border-bottom-color: #4a4540; }
+html.night-mode h6 { opacity: 0.6; }
+
+strong {
+    font-weight: normal;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+
+em { font-style: italic; }
+
+a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+    opacity: 0.7;
+}
+
+a:hover { opacity: 1; }
+
+code {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.88em;
+    opacity: 0.8;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #c8c2bc;
+    margin: 2.5rem 0;
+}
+
+html.night-mode hr { border-top-color: #3a3530; }
+
+blockquote {
+    margin-left: 1.8em;
+    margin-right: 0;
+    padding-left: 1em;
+    border-left: 2px solid #c0b8b0;
+    font-size: 15px;
+    color: inherit;
+    opacity: 0.8;
+}
+
+html.night-mode blockquote { border-left-color: #4a4540; }
+
+ul, ol {
+    margin-left: 1.8em;
+    padding-left: 1em;
+    font-size: 15px;
+}
+
+li { margin-bottom: 0.2rem; }
+
+/* Print styles */
+@media print {
+    html {
+        background-color: #fff;
+        color: #000;
+        font-size: 11pt;
+    }
+    .document {
+        max-width: 100%;
+        padding: 0;
+    }
+    h2 { page-break-after: avoid; margin-top: 1.4rem; }
+    h3, h4 { page-break-after: avoid; }
+    p { orphans: 3; widows: 3; }
+}
+
+/* expandable node tag */
+.node-tag {
+    font-size: 0.78em;
+    opacity: 0.5;
+    font-style: italic;
+    margin-left: 0.3em;
+}
+  </style>
+</head>
+<body>
+<div class="document">
+
+<h1>The Hyperweb: A Guidance Document</h1>
+
+<h2>1. What the Web Was</h2>
+
+<h3>1.1. A system of documents at stable addresses — the URL as the atomic unit of knowledge</h3>
+<p>The URL was not a technical detail — it was a philosophical commitment: this thing exists, here, and you can return to it. Every erosion of that commitment (link rot, walled gardens, JavaScript-rendered pages with no real address) is a degradation of the web's core promise.</p>
+
+<h3>1.2. The hyperlink as traversable path, not navigation button</h3>
+
+<h4>1.2.1. Footnotes, commonplace books, the Talmud — non-linear reading predates the screen</h4>
+<p>The web didn't invent associative reading — it promised to remove the friction from a practice humans had been doing for centuries. This establishes that hypermedia is not a novelty but a restoration of something older than computers.</p>
+
+<h4>1.2.2. Vannevar Bush's memex: associative trails, not filing cabinets</h4>
+<p>Bush's 1945 vision is the clearest statement of what the web should have become — a system that works the way minds work, by jumping between related ideas, not by sorting everything into hierarchical folders. The web approximated this and then abandoned it.</p>
+
+<h4>1.2.3. Ted Nelson's hypertext: the word, and what it promised</h4>
+<p>Nelson coined the term in 1963 and spent the rest of his life arguing that the web's implementation of his idea was a crude simplification — one-way links, no transclusion, no bidirectionality. His criticisms map directly onto what this document is trying to fix.</p>
+
+<h4>1.2.4. The dated link as associative trail: a partial implementation of Bush's vision</h4>
+<p>Bush imagined trails through information that could be shared and revisited — not just the nodes, but the path between them, with context intact. When a hyperarticle links to another document and records the date of that link, it is leaving a timestamped assertion in the graph: "I read this, it said this, on this date" — the closest the open web has come to a traversable, attributed trail.</p>
+
+<h4>1.2.5. The bidirectional link: what the web promised and never delivered</h4>
+<p>Ted Nelson and Bush both imagined links that both documents knew about — if A links to B, B knows it has been cited, by whom, and when. The web gave us one-way pointers instead, and trackbacks failed. Distributed date-stamping across linking documents is a passive, decentralized approximation: B can't know who linked to it, but the linking documents create a corpus of corroboration that establishes B's existence at a point in time.</p>
+
+<h3>1.3. Berners-Lee's read/write web: owned by no one, legible to anyone</h3>
+
+<h4>1.3.1. The URL, the HTTP request, the HTML response — a complete architecture in three parts</h4>
+<p>These three things together constitute a complete application model — no framework required. The point here is that the architecture was always sufficient; everything built on top of it was a choice, not a necessity.</p>
+
+<h4>1.3.2. The form tag as the moment the web became capable of applications</h4>
+<p>HTML 2.0's form tag is the often-overlooked turning point — the web stopped being a read-only document system and became interactive without adding a single line of JavaScript. This is the lineage HTMX is consciously restoring.</p>
+
+<hr>
+
+<h2>2. What Happened to It</h2>
+
+<h3>2.1. Publishing complexity created a vacuum platforms rushed to fill</h3>
+
+<h4>2.1.1. The blog era: friction reduced, but publishing still required craft</h4>
+<p>WordPress, Movable Type, Blogger — these lowered the floor but didn't remove it entirely; you still had to care about hosting, templates, and at least some understanding of how a web page worked. That residual friction turned out to matter: it filtered for a certain kind of intentionality.</p>
+
+<h4>2.1.2. Platform publishing: zero friction, zero ownership, zero address</h4>
+<p>Facebook posts and tweets have no stable URL in any meaningful sense — they exist inside a platform's database, surfaced by an algorithm, and can vanish without warning or appeal. The tradeoff (ease for address) seemed reasonable in 2008 and looks catastrophic in retrospect.</p>
+
+<h3>2.2. The advertising model made attention the product</h3>
+
+<h4>2.2.1. Google started as a librarian and became a landlord</h4>
+<p>Google's original insight — rank pages by the links pointing to them — was a genuine service to the web's knowledge graph. The moment it needed to monetize that insight, the interests of the library and the interests of the business began to diverge, and the business won every time.</p>
+
+<h4>2.2.2. Enshittification <span class="node-tag">[expandable node]</span> — the process by which platforms degrade their users</h4>
+<p>Cory Doctorow's term for the three-stage decay: platform is good to users, then good to business customers at users' expense, then extracts value from everyone. This is not a bug or a moral failure — it's the structural outcome of the advertising model applied to a network, and it happens reliably.</p>
+
+<h3>2.3. Platforms democratized publishing but privatized the graph</h3>
+
+<h4>2.3.1. The social graph as public infrastructure, held in private hands</h4>
+<p>The network of who knows whom, who reads whom, who trusts whom — this is genuinely valuable public infrastructure that platforms built and then fenced off. Moving between platforms means starting your graph from zero, which is by design.</p>
+
+<h4>2.3.2. The walled garden: content without addresses that can be linked to</h4>
+<p>A Facebook post cannot be meaningfully cited in a document; an Instagram image has no stable address outside the platform's interface. This is the fundamental break from the web's architecture — content that cannot be addressed cannot be part of the knowledge graph.</p>
+
+<h3>2.4. Link rot, source death, and the slow destruction of the address</h3>
+
+<h4>2.4.1. Static URLs pointing at mutable or vanishing content</h4>
+<p>A URL is a promise, and the web broke the habit of keeping it. Pew Research found that roughly half of links in academic papers from the early 2000s now return errors — the knowledge graph has holes where the evidence used to be.</p>
+
+<h4>2.4.2. SEO colonized anchor text — "click here" as epistemic damage</h4>
+<p>"Click here" encodes the action, not the relationship — it tells the reader nothing about what they'll find or why this connection was made. At scale, this degraded anchor text from a semantic element into a navigational reflex, and the web's ability to encode meaning in its links went with it.</p>
+
+<h4>2.4.3. The self-declaration problem: Schema.org dates are easy to spoof</h4>
+<p>datePublished and dateModified already exist as Schema.org properties, embedded as JSON-LD in the &lt;head&gt; — but they are self-declared, invisible to human readers, and routinely manipulated for SEO freshness signals. A document can claim any date it likes, and nothing in the current architecture contradicts it.</p>
+
+<h4>2.4.4. Distributed date-stamping as passive corroboration</h4>
+<p>If many hyperarticles link to a document and each records the date of that link, the corpus of outbound timestamps becomes a distributed publication record — not authoritative, but hard to silently revise. No single actor controls it; it emerges from the graph itself, the same way academic citation dates establish when an idea existed without any central registry.</p>
+
+<h3>2.5. Algorithms optimized for engagement delivered epistemic poison</h3>
+
+<h4>2.5.1. Engagement and truth are not the same objective function</h4>
+<p>Outrage, novelty, and confirmation of existing beliefs all drive engagement; accuracy, nuance, and revision of priors do not. An algorithm optimizing for time-on-site will reliably surface the former over the latter, not out of malice but out of math.</p>
+
+<h4>2.5.2. LLMs trained on the poisoned corpus inherit the distortion</h4>
+<p>The training data for most large language models is a snapshot of the web at its most SEO-optimized, engagement-maximized, and platform-mediated — which means the distortions of the attention economy are now baked into the models we're relying on to help us think. This is not a side issue; it's why the structure of the web matters for the quality of AI.</p>
+
+<hr>
+
+<h2>3. What AI Labs Got Wrong About Browsers</h2>
+
+<h3>3.1. The sidebar is not intelligence in the web — it is intelligence beside it</h3>
+
+<h4>3.1.1. A chat panel next to an opaque page is a remediation, not an innovation</h4>
+<p>Remediating an old medium means taking it as given and adding a layer on top — the way early television was just filmed radio. A sidebar treats the web page as an immovable object to be summarized rather than a structured document to be read and extended.</p>
+
+<h4>3.1.2. The page underneath is already a document — the agent should be able to read it</h4>
+<p>If the page were semantically structured, an agent wouldn't need a separate interface to interpret it — the document itself would be the interface. The sidebar is a symptom of the broken semantic layer, not a solution to it.</p>
+
+<h3>3.2. JavaScript frameworks destroyed the semantic layer</h3>
+
+<h4>3.2.1. data-* attributes: designed for exactly this kind of machine-legibility</h4>
+<p>The data-* prefix was introduced specifically so developers could embed machine-readable meaning into HTML without breaking existing parsers — it is the web's built-in extension mechanism for exactly the kind of agent-legibility this document argues for. JavaScript frameworks didn't use it; they replaced it with component state.</p>
+
+<h4>3.2.2. ARIA roles: the web's built-in accessibility and agent interface, abandoned</h4>
+<p>ARIA was designed to tell any intelligent reader — screen reader, browser, agent — what a given element is and what it does, independent of how it looks. Frameworks that generate &lt;div role="button"&gt; and then override every behavior via JavaScript have made ARIA a meaningless layer of decorative compliance rather than a real semantic signal.</p>
+
+<h4>3.2.3. div soup <span class="node-tag">[expandable node]</span> — what happens when layout logic replaces semantic structure</h4>
+<p>When every element is a div and all meaning lives in utility class names, the document has no structure an outside reader can parse. Consider a typical Tailwind component versus its semantic equivalent: forty tokens of visual instruction versus three tokens of structure. At page scale that ratio compounds into the difference between an agent that understands the document and one burning its context window on layout arithmetic. Visual behavior belongs at the CSS level — libraries like <a href="https://graffiti-ui.com/">Graffiti</a>, and resources like <a href="http://youmightnotneedjs.com">You Might Not Need JavaScript</a> and <a href="https://theosoti.com/you-dont-need-js/">You Don't Need JavaScript</a>, demonstrate how far pure CSS can go. When components are built this way, an agent can understand the interactivity from the structure alone, without needing to visualize or execute anything.</p>
+
+<h4>3.2.4. The React component tree tells an agent nothing about what anything means</h4>
+<p>A React component called &lt;UserCard&gt; is meaningful to the developer who wrote it and invisible to everything else — it compiles to divs, spans, and class names that carry no semantic weight. The abstraction that makes React useful for building is exactly what makes it opaque for reading.</p>
+
+<h3>3.3. The browser that understood its document wouldn't need a sidebar</h3>
+
+<h4>3.3.1. A semantically rich page is already half-legible to any intelligent reader</h4>
+<p>A page built with proper semantic HTML — article, section, aside, time, nav — announces its own structure. An agent reading it knows what's content, what's navigation, what's metadata, what's aside from the main argument, without any additional tooling or summarization.</p>
+
+<h4>3.3.2. The Memory Palace model: browser as structured, queryable representation of the current document</h4>
+<p>Rather than a sidebar that queries the whole web on behalf of the current page, imagine a browser that maintains a live structured model of the document it's reading — something closer to a working memory than a search interface. The document's own semantics are the index.</p>
+
+<h4>3.3.3. WebMCP <span class="node-tag">[expandable node]</span> — the emerging standard for serving agents and browsers from the same endpoint</h4>
+<p>The same server that returns HTML to a browser can return structured tool results to an agent, from the same URL, using the same underlying resource. This is not speculative — it's what the hyperarticle's PHP endpoint already does, and WebMCP is the emerging standard that formalizes it.</p>
+
+<hr>
+
+<h2>4. What Hypermedia Actually Is</h2>
+
+<h3>4.1. Not nostalgia — a structural argument about what was discarded and why it matters now</h3>
+<p>The argument here is not that the old web was better because it was simpler, but that a specific architectural decision — the server encodes available actions in its response — was abandoned for reasons of developer convenience and never properly evaluated for what was lost. Now that agents need to read the web, what was lost turns out to matter enormously.</p>
+
+<h3>4.2. HATEOAS <span class="node-tag">[expandable node]</span>: the server encodes the next available actions in its response</h3>
+
+<h4>4.2.1. The client discovers what it can do — it doesn't hard-code it</h4>
+<p>In a proper hypermedia system, the client arrives knowing only the entry point URL — everything else it learns from what the server sends back. This is how browsers actually work; it's how almost no JavaScript SPA works.</p>
+
+<h4>4.2.2. Most "REST APIs" violate this completely</h4>
+<p>A JSON API that returns data objects with no hypermedia controls — no links, no forms, no indication of what can be done next — is not REST in Fielding's sense, whatever the documentation says. The client already knows every endpoint before the conversation starts, which means the server has lost control of the interface.</p>
+
+<h3>4.3. HTMX as demonstration: HTML's hypermedia capabilities were always there, just arbitrarily capped</h3>
+
+<h4>4.3.1. Any element, any event, any HTTP verb, any insertion point</h4>
+<p>HTMX's core move is to ask: why should only anchor tags make GET requests on click, and only forms make POST requests on submit? Those constraints are arbitrary — HTMX removes them by adding a handful of HTML attributes, without replacing the underlying model.</p>
+
+<h4>4.3.2. The server still returns HTML — no JSON layer, no client-side router</h4>
+<p>The response to an HTMX request is a fragment of HTML that the browser inserts directly into the document — no parsing, no state reconciliation, no virtual DOM. The server is still the authority on what the interface looks like and what it can do next.</p>
+
+<h4>4.3.3. Application state lives in the document; the document is the application</h4>
+<p>There is no separate state object, no Redux store, no React context — what the user sees is the state. This makes the document readable and debuggable by anything that can read HTML, which includes agents, screen readers, and archival tools.</p>
+
+<h3>4.4. Semantic HTML as the agent interface</h3>
+
+<h4>4.4.1. article, nav, footer, time, aside — telling readers what something <em>is</em>, not how it looks</h4>
+<p>These elements are machine-readable intent — the author declaring the purpose of a piece of content, not just its visual position. An agent reading a page built this way can distinguish the argument from the navigation without guessing.</p>
+
+<h4>4.4.2. The same endpoint can serve HTML to a browser and structured data to an agent</h4>
+<p>This is the key architectural point: the resource is the same, the representation changes based on who's asking. One backend, two clients, shared semantics — which only works if the semantics are actually in the document and not in a JavaScript bundle.</p>
+
+<h3>4.5. The Hyperarticle: a document that grows in response to curiosity</h3>
+
+<h4>4.5.1. Three expansion modes: inline gloss, sentence context, full paragraph</h4>
+<p>The three modes map to three levels of reader need — a quick reminder, a sentence of context, or a full paragraph that deepens the argument. The author chooses the mode at writing time; the reader chooses whether to expand at reading time.</p>
+
+<h4>4.5.2. Coordinate metadata <span class="node-tag">[expandable node]</span> — how the document knows where it is in its own argument</h4>
+<p>Each expandable link carries its paragraph, sentence, and link index — a stable address within the document's own argument, independent of how the DOM shifts as expansions are inserted. When an LLM handles the request, these coordinates are the scaffolding that lets it generate a coherent, on-topic expansion rather than a free-floating definition.</p>
+
+<h4>4.5.3. The LLM slot: static lookup today, generated expansion tomorrow, same architecture</h4>
+<p>The current implementation looks up pre-written responses; the next version passes the same coordinates and term to a language model. The architecture doesn't change — only what's on the other end of the PHP endpoint. The hyperarticle doesn't depend on AI to function; AI makes it better.</p>
+
+<hr>
+
+<h2>5. The Proxy Agent and the Data Pod</h2>
+
+<h3>5.1. Solid <span class="node-tag">[expandable node]</span> — Berners-Lee's attempt to restore the read/write web</h3>
+
+<h4>5.1.1. Your data lives where you control it, not where the platform keeps it</h4>
+<p>The Solid model inverts the platform assumption: instead of your data living in Facebook's database and Facebook granting you access to it, your data lives in your Pod and you grant applications permission to read it. The locus of control shifts from the platform to the person.</p>
+
+<h4>5.1.2. The Pod as your address in the web, not a platform's database row</h4>
+<p>A Solid Pod is a URL you own — a place in the web where your data, your social graph, your documents live at a stable address under your control. This is the structural equivalent of having your own domain rather than a profile page on someone else's platform.</p>
+
+<h3>5.2. The proxy agent as your representative in the hyperweb</h3>
+
+<h4>5.2.1. Fetching, summarizing, translating — on your behalf, not the platform's</h4>
+<p>A proxy agent reads the web for you — following your interests, retrieving content from addresses, summarizing at your preferred level of depth. It serves your attention, not an advertiser's. The difference is not cosmetic; it changes every incentive in the system.</p>
+
+<h4>5.2.2. Privacy restored by architecture: the agent reads, the platform never sees the user</h4>
+<p>If your agent fetches content on your behalf, the content provider sees the agent's request, not yours — your reading habits, your curiosity, your attention are not exposed. This is privacy through structural design rather than privacy through policy, which is the only kind that actually holds.</p>
+
+<h3>5.3. The social graph as public infrastructure</h3>
+
+<h4>5.3.1. ActivityPub <span class="node-tag">[expandable node]</span> — federated social as existence proof</h4>
+<p>ActivityPub is the protocol behind Mastodon, Pixelfed, and a growing ecosystem of federated applications — a working demonstration that a social graph can exist without a platform owning it. It's not hypothetical; it runs at scale today.</p>
+
+<h4>5.3.2. What a public graph looks like without a platform in the middle</h4>
+<p>Without a platform, the graph has no single point of control, no engagement-optimizing algorithm deciding what you see, and no economic incentive to keep you inside a walled garden. The tradeoffs are real — moderation is harder, discovery is different — but the architecture is honest about what it is.</p>
+
+<hr>
+
+<h2>6. The Hyperweb</h2>
+
+<h3>6.1. Documents at stable addresses, alive and readable by anyone or anything</h3>
+<p>"Alive" means the document can expand in response to curiosity without losing its address; "readable by anyone or anything" means its semantics are in the HTML, not locked in a JavaScript bundle. These two properties together are what distinguish a hyperarticle from a blog post and from a platform post.</p>
+
+<h3>6.2. The hyperlink extended: data-lm-prompt <span class="node-tag">[expandable node]</span> and typed link relations</h3>
+
+<h4>6.2.1. cite-as — the citation link: tracing claims back through sources</h4>
+<p>The cite-as relation type is already IANA-registered. Paired with a data-lm-prompt, it becomes a link that doesn't just point to a source but actively retrieves and surfaces the relevant claim within it — collapsing the distance between assertion and evidence.</p>
+
+<h4>6.2.2. latest-version — the update link: acknowledging that information is temporal</h4>
+<p>The latest-version relation type is also IANA-registered, and its purpose is explicit: this link doesn't point to a fixed document but to whatever is current. Paired with a query prompt, it becomes a link that stays honest about its own staleness.</p>
+
+<h4>6.2.3. describedby — the context link: filling in assumed background knowledge</h4>
+<p>The describedby relation surfaces assumed context — the thing the author knows the reader might not. This is the relation type the hyperarticle's expandable nodes are already implementing, informally, via HTMX. Naming it makes it standard.</p>
+
+<h4>6.2.4. refutes — the contradiction link: surfacing counter-arguments, not just evidence</h4>
+<p>This is the most politically significant link type — a document that actively links to its strongest objections is making an epistemic commitment that engagement-optimized content structurally cannot make. The refutes relation would require proposing to IANA, but the data-lm-prompt construction works today.</p>
+
+<h4>6.2.5. The static href as fallback, not primary mechanism</h4>
+<p>The data-lm-prompt proposal doesn't break existing links — it extends them. Old browsers follow the href; new browsers resolve the query. The static URL is the foundation, not the ceiling; the architecture has redundancy built in from the start.</p>
+
+<h4>6.2.6. A browser-level registry for query resolvers, like DNS for knowledge</h4>
+<p>Just as DNS maps domain names to servers, a registry for query resolvers would map link relation types and model preferences to endpoints — so that if one LLM endpoint disappears, the link resolves through a fallback, not a 404. The protocol matters more than the specific implementation.</p>
+
+<h4>6.2.7. The dated outbound link: data-linked-date as distributed timestamp</h4>
+<p>Each outbound link in a hyperarticle carries the date it was written, alongside its relationship type and query prompt. The date lives in the link, not just in the linked document's head — so even if the destination is revised or disappears, the linking document's assertion of when it existed remains in the graph.</p>
+
+<h4>6.2.8. At scale, dated links approximate bidirectionality</h4>
+<p>A single dated link proves nothing. Many hyperarticles independently linking to the same document, each with a recorded date, create something the web has never had: a passive, decentralized record of a document's existence and content at a given time — without a platform, without a registry, without any actor needing to coordinate. This is not a replacement for bidirectional links; it is what bidirectionality looks like when it emerges from the structure of the graph rather than being engineered into the protocol.</p>
+
+<h3>6.3. Open source tooling simple enough for non-programmers with AI assistance</h3>
+
+<h4>6.3.1. PHP + HTMX as the demonstration stack — no build step, no bundler</h4>
+<p>The hyperarticle runs on a PHP file and fourteen kilobytes of JavaScript — no npm, no webpack, no deployment pipeline. A coding agent can generate, modify, and publish this stack from a plain-language description. That's the floor; everything above it is optional complexity.</p>
+
+<h4>6.3.2. Coding agents that publish, not just code</h4>
+<p>The missing piece in the current coding-agent ecosystem is the last step: getting the thing onto a server at a stable address. An agent that can write the PHP and the HTML should also be able to push it to a host and return a URL — that's the complete loop from idea to address.</p>
+
+<h3>6.4. No platform in the middle</h3>
+
+<h4>6.4.1. No rent extraction, no engagement optimization, no algorithmic feed</h4>
+<p>Every platform in the middle takes a cut — of attention, of data, of the economic value of the connection between reader and writer. The hyperweb's architecture routes around this not by being anti-commercial but by making the intermediary structurally unnecessary.</p>
+
+<h4>6.4.2. A knowledge machine, not an attention machine</h4>
+<p>The distinction is in the objective function: an attention machine optimizes for time-on-platform; a knowledge machine optimizes for understanding transferred. The hyperarticle is designed around the second goal — it expands when you're curious and stops when you're not.</p>
+
+<hr>
+
+<h2>7. What Needs to Be Built</h2>
+
+<h3>7.1. The Hyperarticle format and conventions</h3>
+
+<h4>7.1.1. Expandable node standards: modes, coordinate metadata, LLM handoff</h4>
+<p>The three modes (inline, sentence, paragraph), the coordinate system (para/sent/link), and the LLM handoff contract need to be documented as a reproducible convention — something a coding agent can implement from a spec, not just from studying the existing example. This is the hyperarticle's HTMX-equivalent moment: write it down so others can use it.</p>
+
+<h4>7.1.2. The data-tooltip as the lightweight end of the spectrum</h4>
+<p>The pure-CSS tooltip (no server, no HTMX, no round-trip) is the zero-friction entry point to the expansion spectrum — a glossary term that appears on hover, requiring nothing but a data attribute. This should be documented separately because it's the piece anyone can add to any existing page today.</p>
+
+<h4>7.1.3. Authoring tools that don't require knowing what HTMX is</h4>
+<p>The authoring interface should feel like writing — the author marks a term as expandable, chooses a mode, writes the expansion text, and the tool generates the HTMX attributes. The technical layer should be invisible at the authoring stage, the way WordPress made PHP invisible to bloggers.</p>
+
+<h3>7.2. Proxy agent standards</h3>
+
+<h4>7.2.1. Building on Solid's Pod model</h4>
+<p>The proxy agent needs a home — a place to store preferences, reading history, trusted sources, and agent identity. Solid's Pod is the natural candidate, both because it's the right architecture and because building on it advances the broader Solid ecosystem rather than creating a parallel one.</p>
+
+<h4>7.2.2. Agent identity, permissions, and the question of who the agent serves</h4>
+<p>An agent that fetches on your behalf needs to be identifiable as your agent — not anonymous, not impersonating a browser, but a declared representative with scoped permissions. The hard question is enforcement: how does a content provider know the agent is acting for the reader and not for a scraper?</p>
+
+<h3>7.3. Simple publishing agents</h3>
+
+<h4>7.3.1. Write in plain language, agent converts to semantic hyperarticle</h4>
+<p>The authoring loop should be: write prose, mark expansion points conversationally ("expand 'HATEOAS' with a sentence of context"), and the agent generates the HTMX-annotated HTML. The author never touches an hx-post attribute.</p>
+
+<h4>7.3.2. The gap between "I have an idea" and "it lives at an address" should be minutes</h4>
+<p>This is the headline claim of Section 7 and should be stated plainly: the tooling goal is not to make publishing easier — it's to collapse the distance between thought and address to near-zero, which is what Berners-Lee's original vision always implied and what platforms achieved only by extracting the address in exchange.</p>
+
+<hr>
+
+<h2>8. This Document Is the Argument</h2>
+
+<h3>8.1. This guidance document lives at an address</h3>
+<p>Not on a platform, not in a database row — at a URL you can return to, link to, cite, and archive. This is the minimum requirement and it is not trivially satisfied by most contemporary publishing.</p>
+
+<h3>8.2. It expands on demand — every concept marked <span class="node-tag">[expandable node]</span> above is one</h3>
+<p>The outline's [expandable node] markers are not hypothetical — in the published version, each is a live HTMX link with an LLM on the other end. The document demonstrates its own argument at the structural level, not just the rhetorical one.</p>
+
+<h3>8.3. It will not rot — the static fallback survives even if the LLM endpoint disappears</h3>
+<p>If the query resolver goes offline, the href still works. If the server goes offline, the Internet Archive has a snapshot. The document is designed for durability in layers, which is what "stable address" actually requires in practice.</p>
+
+<h3>8.4. It is legible to you, to your agent, and to whatever comes next</h3>
+<p>Semantic HTML means the document's structure is readable by a human, a screen reader, a browser extension, an AI agent, and an archival crawler — from the same URL, without any of them needing special access or a separate API.</p>
+
+<h3>8.5. The document is not finished when the author stops writing</h3>
+<p>This is the hardest claim and the most important one: a hyperarticle is not a finished artifact delivered to a passive reader, but a structured argument that grows in response to the reader's curiosity. The author sets the frame; the reader and the LLM fill in the depth. That's a different theory of what a document is.</p>
+
+</div>
+</body>
+</html>

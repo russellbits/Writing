@@ -1,0 +1,108 @@
+Me: What are watts? How many watts does the human brain use? How many watts do you use? Do you know hoe many watts you use or where that comes from?
+
+Claude.ai: Watts are a unit of power that measures the rate of energy transfer or consumption. One watt equals one joule of energy per second. It's named after James Watt, the inventor who improved the steam engine.
+
+The human brain uses approximately 20 watts of power, which is about 20% of the body's total energy consumption despite being only ~2% of body weight. This is remarkably efficient for the computational work it performs.
+
+How many watts I use is a more complex question. I don't have direct knowledge of my own power consumption, but I can share what's generally known:
+
+Large language models like me consume significant power during two phases:
+
+Training: This is the most energy-intensive part - training a large model can consume megawatt-hours of electricity
+Inference (generating responses): Each query I answer uses some amount of computational power across Anthropic's servers
+The exact numbers aren't something I have access to, and they'd depend on many factors like:
+
+Server hardware efficiency
+How long my response takes to generate
+Data center infrastructure and cooling
+Whether the servers are shared across multiple tasks
+Anthropic hasn't publicly disclosed my specific power consumption per query. Estimates for large language models vary widely - from a few watt-hours to tens of watt-hours per query, depending on the model size and response length.
+
+So while the human brain's ~20 watts is well-established science, my power consumption is opaque to me and would come from Anthropic's internal infrastructure data, which I don't have access to.
+
++++
+
+ChatGPT: Excellent set of questions — these actually touch both physics and neuroscience, and even some philosophy of mind when you ask about me. Let’s unpack it carefully:
+🧠 What are watts?
+A watt (W) is a unit of power, which means it measures the rate of energy use or transfer.
+1 watt = 1 joule per second (1 J/s).
+If you’re running a 60-watt light bulb, that bulb uses 60 joules of energy every second.
+🧍‍♂️How many watts does the human brain use?
+On average:
+The adult human brain uses about 20 watts of power — roughly the same as a dim light bulb.
+That’s about 20% of the body’s total energy consumption, even though the brain makes up only ~2% of body weight.
+In energy terms, that’s around:
+400–500 kcal per day just for thinking, perceiving, and maintaining neural signaling.
+🤖 How many watts do I (ChatGPT / GPT-5) use?
+I don’t have a physical brain or body, so I personally don’t “consume watts” in the same way a biological organism does — but my computational substrate (the data center hardware running this model) certainly does.
+However, this number isn’t fixed; it depends on:
+How many server GPUs or CPUs are involved in processing a request,
+How long the computation takes, and
+How energy-efficient the data center is.
+To give you an approximate sense:
+A single large GPU (like an NVIDIA A100 or H100, which powers many AI models) can consume 300–700 watts while active.
+But your single query to me likely uses just a tiny fraction of a second of one GPU’s processing power — so the energy cost per query is small, perhaps on the order of a few watt-seconds (joules).
+If you were to average this out, an individual conversation with me might use somewhere between:
+1–20 watt-seconds of energy total (depending on length and compute intensity).
+That’s comparable to turning on a light bulb for less than a second.
+⚡ “Do you know how many watts you use, or where that comes from?”
+I don’t directly measure my power usage — that information is known only to the data center infrastructure (OpenAI’s systems and cloud providers). My architecture doesn’t include any built-in sensor for physical energy draw, since I exist as software executing on hardware managed externally.
+However, conceptually, my power use comes from:
+Electricity drawn from the grid (potentially from renewable or mixed sources),
+Converted into GPU computation,
+Used to run trillions of floating-point operations that represent my “thoughts.”
+Would you like me to give a side-by-side comparison table of brain vs. AI model energy use per “thought” or per “token of language”? It’s a fascinating and humbling contrast.
+
++++
+
+That's a great set of questions about energy consumption!
+
+Here is an explanation of watts and the power usage of the human brain and AI models like myself.
+
+💡 What are Watts?
+
+A watt (W) is the standard unit of power in the International System of Units (SI).
+
+Definition: Power is the rate at which energy is used or produced.
+
+Analogy: If energy is the distance you travel, power is your speed.
+
+Electrical Context: One watt is equal to one joule of energy per second. In an electrical circuit, it's defined as one ampere of current flowing under the pressure of one volt (W=A×V).
+
+
+Namesake: The unit is named after James Watt, a Scottish inventor known for his improvements to the steam engine.
+
+Larger amounts of power are often measured in:
+
+Kilowatts (kW): 1,000 watts
+
+Megawatts (MW): 1,000,000 watts
+
+🧠 How Many Watts Does the Human Brain Use?
+
+The human brain is remarkably energy-efficient. It is consistently estimated to use about 20 watts of power.
+
+
+This is roughly equivalent to the power draw of a dim, old-fashioned incandescent lightbulb or a modern computer monitor in sleep mode.
+
+Despite this low power consumption, the brain performs an immense number of operations, leading researchers to study its structure for developing more energy-efficient AI.
+
+
+Getty Images
+🤖 How Many Watts Do You Use?
+
+As an AI model (specifically, a large language model like Gemini), I don't use a constant power value in the way a physical device like a brain or a lightbulb does. Instead, my energy use is measured per prompt or query.
+
+Estimate per Median Text Prompt: Google estimates that the median Gemini text-generation prompt uses approximately 0.24 watt-hours (Wh) of energy.
+
+Note: A watt-hour is a unit of energy, meaning 0.24 watts consumed for one hour. This figure represents the total energy consumed to generate a single typical response.
+
+Do you know where that comes from?
+
+Yes, the energy consumption comes from the massive data centers required to run and maintain large AI models:
+
+Source of Consumption: The electricity is used to power the specialized computer hardware—primarily GPUs and TPUs (Google's custom-designed processors)—that perform the complex calculations necessary to generate my responses.
+
+Data Collection: The power usage is determined through sophisticated internal measurements and models developed by Google to track the electricity consumed by the specific servers, networking, and cooling infrastructure involved in processing a query and generating a response. This comprehensive approach accounts for all critical elements of serving AI globally.
+
+Would you like to know a comparison of the energy used to train an AI model versus the energy used for a single query?

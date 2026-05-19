@@ -1,4 +1,0 @@
-Banapana Idea Log
-
-
-
