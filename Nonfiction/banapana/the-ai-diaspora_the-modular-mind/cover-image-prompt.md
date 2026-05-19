@@ -1,0 +1,3 @@
+Editorial Image Prompt
+
+Create an image of a chamber that looks like a congress, but the seats and podium are filled with different kinds of robots. Make it a detailed political caricature in the 19th-century woodcut engraving style, where the physical features of the subjects are grossly exaggerated. For instance, render a corrupt politician with an obscenely bloated, massive belly and an unnaturally large, hooked nose to symbolize greed and moral rot. The style must be high-contrast black and white, defined by heavy, cross-hatching lines. Make the image dimensions 1530 x 1024 pixels.

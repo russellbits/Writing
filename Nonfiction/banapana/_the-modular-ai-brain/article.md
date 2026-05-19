@@ -1,6 +1,6 @@
 The Modular Human Intelligence
 
-The human brain has module that specialize in things like recognizing faces or cars. AI is going to require that; LLMs can’t cut it.
+The human brain has module that specialize in things like recognizing faces or cars. AI is going to require that; LLMs can't cut it.
 
 Note how the biology of the brain is modular. You can change your personality by physically changing your brain.
 

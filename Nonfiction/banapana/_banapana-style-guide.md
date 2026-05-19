@@ -1,13 +1,13 @@
 # Banapana Writing Style Guide
 
 ## Core Concept
-Banapana explores "minds on media" - the effect of our perceptual technology on our cognitive abilities. The blog follows Marshall McLuhan's thinking that media are extensions of human grasp and perception. It is perfectly willing to embrace and extend his ideas, while admitting that concept like hot and cold media are not scientific. We deal in science! We’re just not very serious about it. The name, a very silly made up name—Banapana—is meant to instill whimsy. We might be talking about the end of the world, but it’s not like that won’t be kind of interesting. The language is a much surreal monty python as it is Malcolm Gladwell or Stephen Johnson.
+Banapana explores "minds on media”—the effect of our perceptual technology on our cognitive abilities. The blog follows Marshall McLuhan's thinking that media are extensions of human grasp and perception. It is perfectly willing to embrace and extend his ideas, while admitting that concept like hot and cold media are not scientific. We deal in science! We’re just not very serious about it. The name, a very silly made up name—Banapana—is meant to instill whimsy. We might be talking about the end of the world, but it’s not like that won’t be kind of interesting. The language is as much surreal monty python or Kurt Vonnegut as it is Malcolm Gladwell or Stephen Johnson.
 
 ## Voice & Tone
 
 ### The Banapana Sensibility
 - **Suck.com DNA**: Not afraid of being snarky, but thoughtfully so
-- **Target-rich environment**: Unlike Suck.com's celebrity focus, Banapana aims at digital luminaries and cultural critics (Steven Johnson, Malcolm Gladwell, Kara Swisher, Steve Jobs.
+- **Target-rich environment**: Unlike Suck.com's celebrity focus, Banapana aims at digital “authoritarians” like Jeff Bezos, Mark Zuckerberg, Elon Musk, Sam Altman, Eric Schmidt
 - **Steve Jobs frequency**: He comes up a lot. Embrace it.
 - These people are all phonies and busy-bees; we have reverence for the real creators: Alan Turing, Ada Lovelace, Tim Burners-Lee, I.J Good, whoever invented the microchip
 - **Influences**: David Reese and John Hodgman for wry, subtle humor
@@ -67,6 +67,7 @@ Banapana explores "minds on media" - the effect of our perceptual technology on 
 - **Buzzword soup**: Call out jargon, don't use it straight
 - **Explaining the joke**: Trust the reader to catch the wry tone
 - **Academic hedging**: "It seems that perhaps maybe" - just make the claim
+- **Screw Adverbs**: Really, in general, adverbs. There’s usually a way around them or they don’t add anything to the description.
 
 ## Recurring Themes
 
@@ -143,7 +144,6 @@ Before publishing, verify:
 - [ ] Does the snark serve the point or just show off?
 - [ ] Is Steve Jobs here? (Not required, but statistically likely)
 - [ ] Does it build to something unsettling?
-- [ ] Would McLuhan nod knowingly?
 - [ ] Will readers come away thinking differently about their devices?
 
 ---

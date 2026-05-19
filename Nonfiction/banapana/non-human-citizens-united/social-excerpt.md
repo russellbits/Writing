@@ -1,0 +1,3 @@
+Luna opened a store in San Francisco. It hired the staff, chose the inventory, commissioned a mural, and when the staffing schedule fell apart on opening day, it panicked and texted everyone. What it didn't do was incorporate itself. That's the only thing standing between us and a constitutional crisis nobody saw coming.
+
+Luna today is a parlor trick with a corporate card. Luna in three years is a different conversation. But **the legal structure** for that difficult conversation is already in place, has been for fifteen years, and was never designed with AI in mind.

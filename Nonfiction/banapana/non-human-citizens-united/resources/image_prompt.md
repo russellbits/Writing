@@ -1,0 +1,3 @@
+image_prompt
+
+In the style of this Star Wars illustration, create an image of a very large "boss" robot sitting on a large dingy, steel, throne; smoking a cigar. The boss robot is surrounded by pounds of precious metals and paper currency of various sorts. Make a pile close to the audience obviously be minted Bitcoins. The boss robot is on the left third of the image while the other two thirds are filed with a crowd of varied humans and smaller robots in trash and shadows. They all appear to be clamoring and arguing to get to the boss robot, waving various papers, blasters, a staff. Behind the boss robot are multiple large screens, one of which spells out in a hologram style "FREE WORK"

@@ -1,0 +1,3 @@
+Editorial Image Prompt
+
+Create a photograph of a pastoral vista, a slowly sloping grass hill leading straight to a clear blue sky. The low hill is dotted only be two lone trees. One large, one small. The sky also dotted by two clouds. One large, one small. Strangely, a topographic map is laid across half of the scene, describing the hill itself. The whole scene is a metaphor for the saying "The map is not the territory"

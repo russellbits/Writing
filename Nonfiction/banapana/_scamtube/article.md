@@ -1,5 +1,5 @@
 ---
-title: “Scamtube”
+title: "Scamtube"
 created: 2025-10-15
 author: Russell Warner
 column: Scamtube

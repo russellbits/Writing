@@ -53,4 +53,4 @@ Conclusion: Sugar as a Strategic Tool, Not a Crutch
 
 Using a transpiled language with syntactic sugar can enhance the AI programming experience by simplifying expression and improving the interpretability of intent. However, developers must treat it as a strategic tool rather than a substitute for deep knowledge of vanilla JavaScript.
 
-Mastery of standard JavaScript remains essential—especially when debugging, optimizing performance, or working in team environments. But in the right context, syntactic sugar isn’t just sweet—it can be smart.
+Mastery of standard JavaScript remains essential—especially when debugging, optimizing performance, or working in team environments. But in the right context, syntactic sugar isn't just sweet—it can be smart.
