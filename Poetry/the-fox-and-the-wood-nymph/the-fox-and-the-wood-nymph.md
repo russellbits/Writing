@@ -5,7 +5,9 @@ source: Portland (Angel's Rest)
 date: 
 tags: ["fox","nymph","maze"]
 ---
-Of the maze and the hedges  
+Of the maze and the hedges
+There is structure that is not the woods
+In the comfortable corners of maze
 There are hedgehogs and foxes  
 The hedgehogs each know a big thing  
 know it well and complete  
@@ -14,12 +16,29 @@ Running the maze like a game
 They know many things,  
 Though none big and none complete  
 
+Outside the maze, there is no complete.
+There is joy in vines that grows
+Every which way and the ones
+Who grow and cultivate confusion
+Or just say “Hi” to surprise
+Are the forces that change the garden
+Fight the square, the edge,
+For such beauty in the forces, the
+Bend
+
 Once, a bold young fox pushed through  
 a muse in the hedge; bored with the maze  
 he'd run so many times  
 And went to explore the woods  
 The sunbeams, the dark shadows  
 All new and fascinating to him  
+
+Once, a gorgeous nymph was
+Meant to stay to care and did so
+She watched, she cared, she was
+Berated for doing so and kept
+Caring but became sick.
+She wanted the woods.
 
 Where the maze was predictable  
 The woods were not
@@ -134,8 +153,6 @@ And roll around atop the roots
 Of the woods  
 And the woods would smile.
 
-
-
 One day, the nymph bade the fox to sit a spell  
 And she told him of a dire mission  
 She had to leave, and with good reason  
@@ -184,8 +201,6 @@ And they laughed and howled and hooted
 And rolled around atop the roots  
 Of the woods  
 And the woods smiled.
-
-
 
 These days,  
 The wood nymph and the fox wander  
