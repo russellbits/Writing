@@ -2,6 +2,7 @@
 ## A re-telling of a classic tale with a modern family by R. E. Warner
 
 Once upon a time, there was a little girl named Goldilocks. One day, while wandering through the forest, she stumbled upon a quaint little cottage. Being a curious and privileged young white girl with golden blonde hair, she decided to go inside and see if there were any good settings for her Instagram.
+
 To her surprise, the cottage belonged to five bears: Papa Bear, Mama Bear, Baby Bear, Mother-in-law Bear, and Uncle Bear. Also there was a toolbox, so maybe a handyman had been there. But the cottage was empty as all parties had gone for a walk while the porridge cooled down. Goldilocks, being hungry from her snooping, saw the bowls of porridge on the table and decided to try them, despite hating the texture of things like oatmeal and thick soups like a bisque. Yuck.
 
 She tasted the porridge in the largest bowl, which belonged to Papa Bear, but it was too hot. The porridge in the medium-sized bowl, belonging to Mama Bear, was too cold. The porridge in Mother-in-law Bear's had raisins! Gross! The porridge in Uncle Bear's bowl was like water. Finally, she tasted the porridge in the smallest bowl, which belonged to Baby Bear, and it was just right. So, she ate all of it. She could donate to a children's food drive later.

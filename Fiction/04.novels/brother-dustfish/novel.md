@@ -1,6 +1,6 @@
-/Publish/assets/images/temporary-cover.png
+![Brother Dustfish](./images/book-cover-compressed.jpg)
 
-<!-- A map needs to go here! -->
+![The World](./images/the-world.png)
 
 {{TOC}}
 
