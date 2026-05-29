@@ -1,4 +1,4 @@
-Society of the Mind
+Wildwood
 Theo of Golden
-Comedy Bang Bang
+O’Reilly Agentic Development 
 Hypermedia Systems
